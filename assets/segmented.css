@@ -1,0 +1,47 @@
+/* ===== Segmented Control Wrapper ===== */
+.segmented-control {
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+}
+
+/* ===== Base Button ===== */
+.seg-btn {
+    padding: 16px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 14px;
+    border: 2px solid #0d6efd;
+    color: #0d6efd;
+    background-color: #ffffff;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+/* ===== Hover ===== */
+.seg-btn:hover {
+    background-color: #e7f1ff;
+    transform: translateY(-2px);
+}
+
+/* ===== Active Button ===== */
+.btn-check:checked + .seg-btn {
+    background-color: #0d6efd;
+    color: #ffffff;
+    box-shadow: 0 10px 22px rgba(13, 110, 253, 0.45);
+    transform: translateY(-3px) scale(1.02);
+}
+
+/* ===== Mobile Responsive ===== */
+@media (max-width: 768px) {
+    .segmented-control {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .seg-btn {
+        width: 100%;
+        text-align: center;
+    }
+}
