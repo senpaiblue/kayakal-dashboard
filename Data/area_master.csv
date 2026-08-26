@@ -1,0 +1,625 @@
+zone,dept,area_code,location_name,sub_location_name,responsible_person
+DIC Steel,SMS4,0,SMS4,SMS4,Mr. Prabhanjan Y
+DIC Steel,SMS4,1,Pre-Treatment,Pouring Station to KR,Mallesha M R
+DIC Steel,SMS4,2,Slag Yard,Slag Yard,Surya G
+DIC Steel,SMS4,3,Scrap Yard,Scrap Yard,Manjunath
+DIC Steel,SMS4,4,0 mtr & High Bay,0 mtr & High Bay,Sandeep Kumar
+DIC Steel,SMS4,5,Secondary Area,"LP Bay, LHF & RH",S K Joshi
+DIC Steel,SMS4,6,WCS,WCS,Preetham V S
+DIC Steel,SMS4,7,ESP & Gas Cooler,ESP & Gas Cooler,Kiran A G
+DIC Steel,SMS4,8,Caster,Caster,Suresh Y V
+DIC Steel,SMS4,9,FA Store,FA Store,N Amareshappa
+DIC Agglo,"PP1, OBP1 & WWP",1,"Canteen, 12C1 BH",Canteen area 12C1 bag house,Mr.Manjunath Reddy
+DIC Agglo,"PP1, OBP1 & WWP",2,Work shop,Mechanical store,Mr.Thimmana gouda
+DIC Agglo,"PP1, OBP1 & WWP",3,Assembly point,"Offce frount lawn, parking area",Mr.Vivek Jain
+DIC Agglo,"PP1, OBP1 & WWP",4,Site Toilet buiding,"Toilet building are, side garden",Mr.Ramesh Gouda
+DIC Agglo,"PP1, OBP1 & WWP",5,Office building,"Ground floor, first/second  floor  and control room",Ms. Savitha Bhai
+DIC Agglo,"PP1, OBP1 & WWP",6,HLS building,"P2 conveyor area, HL series , Open yard",Mr.Vivek sah
+DIC Agglo,"PP1, OBP1 & WWP",7,Indurating machine,"Machine burner floor, South, North. DIA D1B",Mr. Shivakumar Rachoti
+DIC Agglo,"PP1, OBP1 & WWP",8,Process fan area,"Cooling air fan, Recupe fan UDD fan",Mr. Shridhar NB
+DIC Agglo,"PP1, OBP1 & WWP",9,HLS yard,HLS fabrication yard,Mr.Thimmana Gouda
+DIC Agglo,"PP1, OBP1 & WWP",10,EER3,"Sub station, electrical yard",Mr.Ankith Kumar
+DIC Agglo,"PP1, OBP1 & WWP",11,Pipe yard,,Mr. sachin Yankanchi/ Amruth Patil
+DIC Agglo,"PP1, OBP1 & WWP",12,ESP,"ESP1,ESP2, ESP3",Mr.Veeramani
+DIC Agglo,"PP1, OBP1 & WWP",13,EER5,"EER5 sub station area, WBE and Hood exuast fan",Mr. Lokana Gouda
+DIC Agglo,"PP1, OBP1 & WWP",14,Yard Road,SR4 Yard road,Mr. G T Diwakar Reddy
+DIC Agglo,"PP1, OBP1 & WWP",15,SR4 Yard,Pellet yard south and North,Mr.Mantha Anand
+DIC Agglo,"PP1, OBP1 & WWP",16,P6 junction house,P2-P6 junction. P6-p7 junction,Mr.Mantha Anand
+DIC Agglo,"PP1, OBP1 & WWP",17,DG Room,"DG room, Mixed ore slurry tank",Mr.Gopinathan Shanmughan
+DIC Agglo,"PP1, OBP1 & WWP",18,Balling disc,Balling disc and EER2 building,Mr. Madhusudan Rao
+DIC Agglo,"PP1, OBP1 & WWP",19,Mixer building,"Mixer area, correx sludge and iron ore slurry tank",Mr.Satyanarayana BK
+DIC Agglo,"PP1, OBP1 & WWP",20,Ballmill,"Ballmill, Bucket elivator area",Mr. Shrikanth reddy
+DIC Agglo,"PP1, OBP1 & WWP",21,Thickner,"Thickner area, Pump house",Mr Keshav Murthy
+DIC Agglo,"PP1, OBP1 & WWP",22,AGM,Additive grinding mill building,Mr Bhaskar MB
+DIC Agglo,"PP1, OBP1 & WWP",23,EER4,EER4 Sub station,Mr.Manohar
+DIC Agglo,"PP1, OBP1 & WWP",24,Concentrate silo,Concentrate silo building,Mr.Manohar
+DIC Agglo,"PP1, OBP1 & WWP",25,DOB,"DOB building, Bin Top, w/f floor. surround area",Mr. Deepak J
+DIC Agglo,"PP1, OBP1 & WWP",26,WOB,"WOB building, Bin top",Mr. Deepak J
+DIC Agglo,"PP1, OBP1 & WWP",27,EER1,Electrical sub station 1,Mr Vivek jain
+DIC Agglo,"PP1, OBP1 & WWP",28,Dryer,Dryer building,Mr.Manjunath Reddy
+DIC Agglo,"PP1, OBP1 & WWP",29,Raw additives storage buiding,Raw additives storage buiding,Mr.Manjunath Reddy
+DIC Agglo,"PP1, OBP1 & WWP",30,WWP,WWP building area,Mr. Manjunath CB
+DIC Agglo,"PP1, OBP1 & WWP",31,OBP1,Process building1and 2,Mr Sunil Ranchi
+DIC Agglo,"PP1, OBP1 & WWP",32,OSP,Online screen building area,Mr.Basavaraju K V
+DIC Agglo,"PP1, OBP1 & WWP",33,EER6,"EER6 substation, FC2 side project storage yard",Mr.Purushotham B C
+DIC Agglo,"PP1, OBP1 & WWP",34,VPF,VPF Filtration building,Mr. Bevara venkat rao/  Nagaraj Kulkrni
+DIC Agglo,"PP1, OBP1 & WWP",35,PF series,PF series area,Mr. Lokesh
+DIC Agglo,"PP1, OBP1 & WWP",36,HBF electrical,HBF electrical sub station,Mr Jenniffer
+DIC Agglo,"PP1, OBP1 & WWP",37,Compressor building,Compressor building,Mr. Devaraju U
+DIC Agglo,"PP1, OBP1 & WWP",38,HBF Filtration,Filtration building,Mr. Madan Bharatan
+DIC Agglo,"PP1, OBP1 & WWP",39,filter feed Slurry tanks,HBF slurry tanks area,Mr. Sharup Upadyay
+DIC Agglo,"PP1, OBP1 & WWP",40,OBP1 thickner,"Concentrate Thickener, HBF thickner",Mr Jenniffer
+DIC RMHS,RMHS OPB2 and 18MT,1,RMHS OPB2 and 18MT,"All Yard equipments, Conveyors & JHs-Opeartion RBP-2",Mr. Jagdeesh
+DIC RMHS,RMHS OPB2 and 18MT,2,RMHS OPB2 and 18MT,"All Yard equipments, Conveyors & JHs-Mechanical RBP-2",Mr. Nagababu
+DIC RMHS,RMHS OPB2 and 18MT,3,RMHS OPB2 and 18MT,"All Yard equipments, Conveyors & JHs-Electrical RBP-2",Mr. Avijith R C
+DIC RMHS,RMHS OPB2 and 18MT,4,RMHS OPB2 and 18MT,"All Yard equipments, Conveyors & JHs-Operations JVML",Mr. Gangadar J
+DIC RMHS,RMHS OPB2 and 18MT,5,RMHS OPB2 and 18MT,"All Yard equipments, Conveyors & JHs-Mechanical JVML",Mr. Harikrishan
+DIC RMHS,RMHS OPB2 and 18MT,6,RMHS OPB2 and 18MT,"All Yard equipments, Conveyors & JHs-Electrical JVML",Mr. Rinku
+DIC Steel,SMS3,1,SMS3,SMS3 OFFICE,Mr. Veera Prasad
+DIC Steel,SMS3,2,SMS3,HMDS/KR,Mr. Shivaraj
+DIC Steel,SMS3,3,SMS3,Scrap yard,Mr. Madhu Kumar
+DIC Steel,SMS3,4,SMS3,EAF,Mr. Rama Subramanian
+DIC Steel,SMS3,5,SMS3,Slag Pit,Mr. Madhu Kumar
+DIC Steel,SMS3,6,SMS3,Material Handling area,Mr. Chandrashekhar
+DIC Steel,SMS3,7,SMS3,SMS3 Lab,Mr. Amarnath
+DIC Steel,SMS3,8,SMS3,Mechanical store area,Mr. Kalicharan
+DIC Steel,SMS3,9,SMS3,ZPF Control room,Mr. Karthikeya Nikkam
+DIC Steel,SMS3,10,SMS3,Launder repair area,Mr .Venkatesh Naik
+DIC Steel,SMS3,11,SMS3,HML Debreking area,Mr. Raghavendra Rao
+DIC Steel,SMS3,12,SMS3,Shell relining area,Mr. Prakash Patil
+DIC Steel,SMS3,13,SMS3,FES-2,Mr. Guru Basavaraj
+DIC Steel,SMS3,14,SMS3,WCS-2,Mr. Shankar Kalangi
+DIC Steel,SMS3,15,SMS3,Ferro alloy storage area,Mr. Chandrasekhar
+DIC Steel,SMS3,16,SMS3,Steel ladle repair area,Mr. Prakash Patil
+DIC Steel,SMS3,17,SMS3,RED Office,Mr. Prakash Patil
+DIC Steel,SMS3,18,SMS3,WCS-1,Mr. Shankar Kalangi
+DIC Steel,SMS3,19,SMS3,FES-1,Mr. Guru Basavaraj
+DIC Steel,SMS3,20,SMS3,Slag Yard,Mr. Madhu Kumar
+DIC Steel,SMS3,21,SMS3,LHF-1,Mr. Manjunath Kadli
+DIC Steel,SMS3,22,SMS3,LHF-2,Mr. Manjunath Kadli
+DIC Steel,SMS3,23,SMS3,VD,Mr. Manjunath Kadli
+DIC Steel,SMS3,24,SMS3,Caster-1,Mr. Thayappa
+DIC Steel,SMS3,25,SMS3,Caster-2,Mr. Thayappa
+DIC Steel,SMS3,26,SMS3,TOCB,Mr. Santosh MS
+DIC Steel,SMS3,27,SMS3,Caster Lab,Mr. Amarnath
+DIC Steel,SMS3,28,SMS3,Scale Pit,Mr. Shankar Kalangi
+DIC Steel,SMS3,29,SMS3,LTSS-3,Mr. Girija Shankar
+DIC Steel,SMS3,30,SMS3,DG &Compressor house,Mr. Girija Shankar
+DIC Steel,SMS3,31,SMS3,BRU,Mr. Raghavendra Rao
+DIC Mill,WRM-1 & BRM-1,1,WRM-1 & BRM-1,BRM #1 Rollshop Area,Mr. Uttam
+DIC Mill,WRM-1 & BRM-1,2,WRM-1 & BRM-1,BRM #1 Mill Area,Mr. Dhananjay DV
+DIC Mill,WRM-1 & BRM-1,3,WRM-1 & BRM-1,BRM #1 ECR Area,Mr. Suresh
+DIC Mill,WRM-1 & BRM-1,4,WRM-1 & BRM-1,BRM #1 Dispatch Area,Mr Mr. Praveen
+DIC Mill,WRM-1 & BRM-1,5,WRM-1 & BRM-1,WRM #1 & BRM #1 Billet Yard,Mr. Venkatesh
+DIC Mill,WRM-1 & BRM-1,6,WRM-1 & BRM-1,WRM #1 Furnace Area,Mr. Ravi
+DIC Mill,WRM-1 & BRM-1,7,WRM-1 & BRM-1,WRM #1 Rollshop Area,Mr. Manish
+DIC Mill,WRM-1 & BRM-1,8,WRM-1 & BRM-1,WRM #1 Mill Area,Mr. Praveen BT
+DIC Mill,WRM-1 & BRM-1,9,WRM-1 & BRM-1,WRM #1 ECR Area,Mr. Vikas
+DIC Mill,WRM-1 & BRM-1,10,WRM-1 & BRM-1,WRM #1 Dispatch Area,Mr. Prashant
+DIC Mill,WRM-1 & BRM-1,11,WRM-1 & BRM-1,WRM #1 & BRM #1 Utility,Mr. NK Singh
+DIC Mill,WRM-1 & BRM-1,12,WRM-1 & BRM-1,WRM #1 & BRM #1 Module Shop,Mr. Munaff
+DIC Steel,SMS2,1,SMS-2,Pretreatment,Mr. Eranna / Mr. Vijay Kotekal/ Mr Manju
+DIC Steel,SMS2,2,SMS-2,9 MTR converter,Mr. Praveen Ramavath / Mr Gavi Raj/ Mr Neeraj
+DIC Steel,SMS2,3,SMS-2,LHF & RH,Mr. Sibasis Tripathi / Mr Gopal Krishna/Mr Subba Rao
+DIC Steel,SMS2,4,SMS-2,LP Bay,Mr. Sugumaran / Mr. Veerupakshi/ Mr Subba Rao
+DIC Steel,SMS2,5,SMS-2,Slagyard & scrap Yard,Mr. Dharampal/ Mr V Sharma
+DIC Steel,SMS2,6,SMS-2,High Bay,Mr. Rakesh Jayakumar/ Mr. Seshgiri Rao/Mr Srinivasa Rao
+DIC Steel,SMS2,7,SMS-2,Casting Platform-Slab & Billet,Mr. Sankar Ananathan/Mr. Ambathi S/ Mr. Shivakumar
+DIC Steel,SMS2,8,SMS-2,Tundish Area,Mr.Pattajoshi
+DIC Steel,SMS2,9,SMS-2,TCM Bay,Mr. R Nagraj & Mr. Suresh Bevora
+DIC Steel,SMS2,10,SMS-2,Slab & Billet yard,Mr. Sathayanaryan L & Mr. Karthik
+DIC Steel,SMS2,11,SMS-2,Auto Scarfing,Mr. R Nagraj & Mr. Karthik
+DIC Steel,SMS2,12,SMS-2,Fin fan cooler Pumphouse/ ID fan area,Mr. Manoj
+DIC Steel,SMS2,13,SMS-2,Filter Press and STP,Mr. Maruthi Prasad
+DIC Steel,SMS2,14,SMS-2,WCS,Mr. Manjunath Jois
+DIC Steel,SMS2,15,SMS-2,Gas holder,Mr Dheeraj
+DIC Utility,"CMD, ERS and ARS",0,CMD,Sub Store - D112,Rohit Khandelwal
+DIC Utility,"CMD, ERS and ARS",1,EOT Cranes Zone 1,,Praveen G
+DIC Utility,"CMD, ERS and ARS",2,EOT Cranes Zone 2,,Venkataramana Naik
+DIC Utility,"CMD, ERS and ARS",3,EOT Cranes Zone 3,,Pratipa Shetty
+DIC Utility,"CMD, ERS and ARS",4,EOT Cranes Zone 4,,Pankaj Gautam
+DIC Utility,"CMD, ERS and ARS",5,EOT Cranes Zone 5,,Basavaraj
+DIC Utility,"CMD, ERS and ARS",6,EOT Cranes Zone 6,,Navanath Rathod
+DIC Utility,"CMD, ERS and ARS",7,EOT Cranes Zone 7,,Raja Rahul
+DIC Utility,"CMD, ERS and ARS",8,EOT Cranes Zone 8,,Abhijith S V
+DIC Utility,"CMD, ERS and ARS",9,Automobile Repair Shop,,Shafiq Ahmed
+DIC Utility,"CMD, ERS and ARS",10,Electrical Repair Shop,,Rohini
+DIC Utility,"CMD, ERS and ARS",11,ACVS,,Praveen Sajja
+Support Teams,HR,0,HR,HR,Mr. Srinand Sharma
+Support Teams,HR,1,L&D Office,Cubicle,Mr. Soumya Ghosh
+Support Teams,HR,2,L&D Office,Training Halls,Mr. Soumya Ghosh
+DIC Utility,Energy & Oxygen Plants,1,JIGL,"J#1 Compressor, cooling tower, Heaters",Nagendra Rao
+DIC Utility,Energy & Oxygen Plants,2,JIGL,"J#2 Compressor, cooling tower, Heaters",Zahid Hussain
+DIC Utility,Energy & Oxygen Plants,3,JIGL,"JIGL Driox,Hot water Heaters,Vaporisers,Receivers",Anjineyalu P
+DIC Utility,Energy & Oxygen Plants,4,JIGL,"JIGL Engineering stores, Project Stores, Admin Building Area, Open Yard",Chandramouli B
+DIC Utility,Energy & Oxygen Plants,5,JIGL,JIGL Entrance area,Santosh
+DIC Steel,"LCP1,2,3,4&5",0,"LCP1,2,3,4&5","LCP1,2,3,4&5",Mr. Mahantesh Dalavai
+DIC Steel,"LCP1,2,3,4&5",1,LCP-1,"4MT DBB ZERO MTRS, ALL SILO ZERO METERS",Mr. Pavan alabur
+DIC Steel,"LCP1,2,3,4&5",2,LCP-1,4MT ALL KILNS ZERO METER  UPTO KILN DISCHARGE &  TAIL END OF PRODUCT CONVEYORS,Mr. Pavan alabur
+DIC Steel,"LCP1,2,3,4&5",3,LCP-1,"ALL ZERO MTRS, ALL BLOWER ROOM & HYD ROOM ,BRU UNIT",Mr.PREM SHARMA
+DIC Steel,"LCP1,2,3,4&5",4,LCP-1,ALL KILN PLAT FORMS AND 9.75MTRS,Mr. Vinod
+DIC Steel,"LCP1,2,3,4&5",5,LCP-1,"RMSB JUNCTION,  DBB JUNCTIONS UP TO SKIP CHARGING CONVEYOR PLAT FORM",Mr.RAGHAVENDRA
+DIC Steel,"LCP1,2,3,4&5",6,LCP-1,PFSB JUNCTION FROM KILN DISCHARGE TO SMS DISCHARGE,Mr. Pavan alabur
+DIC Steel,"LCP1,2,3,4&5",7,LCP-1,LGU & BRIQUT UNIT,Mr.RAGHAVENDRA
+DIC Steel,"LCP1,2,3,4&5",8,LCP-1,"MCC ROOM , Drive Room, Cable gallary & Electrical stores, Transformer room",Mr.PREM SHARMA
+DIC Steel,"LCP1,2,3,4&5",9,LCP-1,4MT All auxiliary dedusting system,Mr.Hiren
+DIC Steel,"LCP1,2,3,4&5",10,LCP-2 7 MT,LCP2 ENTRANCE(BUS STOP) UP TO PUNCH MC & Plantation,Mr.Anil Kumar Gujjal
+DIC Steel,"LCP1,2,3,4&5",11,LCP-2 7 MT,Inbetween 7mt & 10mt Plantation area and car parking area,Ms.Prathima Kumari
+DIC Steel,"LCP1,2,3,4&5",12,LCP-2 7 MT,"7MT DBB ZERO MTRS, ALL SILO ZERO METERS, JT1 JUNCTION, ROAD ADJACENT",Mr. Sunil soalnki
+DIC Steel,"LCP1,2,3,4&5",13,LCP-2 7 MT,7MT ALL KILNS ZERO METER  UPTO KILN DISCHARGE & TAIL END OF PRODUCT CONVEYORS,Mr. Sunil soalnki
+DIC Steel,"LCP1,2,3,4&5",14,LCP-2 7 MT,"ALL ZERO MTRS, ALL BLOWER ROOM & HYD ROOM.",Mr. Sri nandan
+DIC Steel,"LCP1,2,3,4&5",15,LCP-2 7 MT,ALL KILN PLAT FORMS AND 9.75MTRS,Mr.Shafi
+DIC Steel,"LCP1,2,3,4&5",16,LCP-2 7 MT,"RMSB 2 Proper,  DBB JUNCTIONS UP TO SKIP CHARGING CONVEYOR PLAT FORM",Mr. Shanrabasappa
+DIC Steel,"LCP1,2,3,4&5",17,LCP-2 7 MT,"MCC ROOM, HT Room , Drive Room, Cable gallary & Electrical stores,Transformer room",Mr. Gangadhara
+DIC Steel,"LCP1,2,3,4&5",18,LCP-2 7 MT,LGU2 & 5 AND LGU ZERO MTRS,Mr.Ramakrishna
+DIC Steel,"LCP1,2,3,4&5",19,LCP-2 7 MT,MECHANICAL STORE,Mr.Vijay Arli
+DIC Steel,"LCP1,2,3,4&5",20,LCP-2 7 MT,Cooling tower and Hyduralic Maintainance and wcs room,Mr.Sunil Shetty
+DIC Steel,"LCP1,2,3,4&5",21,LCP-2 7 MT,LGU Cable yard,Mr. Gangadhara
+DIC Steel,"LCP1,2,3,4&5",22,LCP-2 7 MT,7mt All area fire extiguesher and fire hose maintian,Mr.Mansoor safety
+DIC Steel,"LCP1,2,3,4&5",23,LCP-2 7 MT,JHL1C1 & C2 Conveyor PFSB Zero mtrs,Mr.Manas das
+DIC Steel,"LCP1,2,3,4&5",24,LCP-2 7 MT,7MT All auxiliary dedusting system,Mr.Gururaj shetty
+DIC Steel,"LCP1,2,3,4&5",25,LCP-2 10 MT,"10MT DBB ZERO MTRS, ALL SILO ZERO METERS, JT2 JUNCTION.",Mr.M.D. .Jahir
+DIC Steel,"LCP1,2,3,4&5",26,LCP-2 10 MT,10MT ALL KILNS ZERO METER  UPTO KILN DISCHARGE & TAIL END OF PRODUCT CONVEYORS,Mr.M.D. Jahir
+DIC Steel,"LCP1,2,3,4&5",27,LCP-2 10 MT,"ALL ZERO MTRS, ALL BLOWER ROOM & HYD ROOM.",Mr.Naresh Jha
+DIC Steel,"LCP1,2,3,4&5",28,LCP-2 10 MT,ALL KILN PLAT FORMS AND 9.75MTRS,Mr.M.D. Jahir
+DIC Steel,"LCP1,2,3,4&5",29,LCP-2 10 MT,JT-2  JUNCTIONS UP TO SKIP CHARGING CONVEYOR PLAT FORM,Mr.Munuswamy
+DIC Steel,"LCP1,2,3,4&5",30,LCP-2 10 MT,PFSB up to Fines loading area,Mr.Munuswamy
+DIC Steel,"LCP1,2,3,4&5",31,LCP-2 10 MT,"MCC ROOM, HT Room , Drive Room, Cable gallary & Electrical stores,Transformer room",Mr.Naresh Jha
+DIC Steel,"LCP1,2,3,4&5",32,LCP-2 10 MT,10MT product discharge route up to PC3B & PC4B,Mr.Kotresh
+DIC Steel,"LCP1,2,3,4&5",33,LCP-2 10 MT,Compressor room,Ms. Poojitha
+DIC Steel,"LCP1,2,3,4&5",34,LCP-2 10 MT,10mt cooling and DG room,Ms.Keerthana
+DIC Steel,"LCP1,2,3,4&5",35,LCP-2 10 MT,10MT All auxiliary dedusting system,Mr.Gururaj shetty
+DIC Steel,"LCP1,2,3,4&5",36,LCP-3,"LCP3 DBB ZERO MTRS, ALL SILO ZERO METERS,",Mr.Sanjeev Kumar
+DIC Steel,"LCP1,2,3,4&5",37,LCP-3,LCP3 ALL KILNS ZERO METER  UPTO KILN DISCHARGE & TAIL END OF PRODUCT CONVEYORS,Mr.Sanjeev Kumar
+DIC Steel,"LCP1,2,3,4&5",38,LCP-3,ALL BLOWER ROOM & HYD ROOM.,Mr.Jaya Prakash
+DIC Steel,"LCP1,2,3,4&5",39,LCP-3,ALL KILN PLAT FORMS AND 9.75MTRS,Mr.Sanjeev Kumar
+DIC Steel,"LCP1,2,3,4&5",40,LCP-3,"RMSB JUNCTION,  DBB JUNCTIONS UP TO SKIP CHARGING CONVEYOR PLAT FORM",Mr.Thippeswamy
+DIC Steel,"LCP1,2,3,4&5",41,LCP-3,PFSB JUNCTION FROM KILN DISCHARGE TO LGU-3& 4 HOPPER,Mr.Manjunath.G
+DIC Steel,"LCP1,2,3,4&5",42,LCP-3,LGU3 & 4 AND LGU ZERO MTRS,Mr.Thippeswamy
+DIC Steel,"LCP1,2,3,4&5",43,LCP-3,"MCC ROOM, HT Room , Drive Room, Cable gallary & Electrical stores",Mr.Jaya Prakash
+DIC Steel,"LCP1,2,3,4&5",44,LCP-3,LCP3 All auxiliary dedusting system,Mr. Raghavendra
+DIC Steel,"LCP1,2,3,4&5",45,LCP-4,"LCP4 DBB ZERO MTRS, ALL SILO ZERO METERS,",Mr.Imtiyaz Basha
+DIC Steel,"LCP1,2,3,4&5",46,LCP-4,LCP4 ALL KILNS ZERO METER  UPTO KILN DISCHARGE & TAIL END OF PRODUCT CONVEYORS,Mr.Imtiyaz Basha
+DIC Steel,"LCP1,2,3,4&5",47,LCP-4,ALL BLOWER ROOM & HYD ROOM.,Mr. Charan. V
+DIC Steel,"LCP1,2,3,4&5",48,LCP-4,ALL KILN PLAT FORMS AND 9.75MTRS,Mr.Imtiyaz Basha
+DIC Steel,"LCP1,2,3,4&5",49,LCP-4,"JUNCTION,  DBB JUNCTIONS UP TO SKIP CHARGING CONVEYOR PLAT FORM",Mr.Rajan Sha
+DIC Steel,"LCP1,2,3,4&5",50,LCP-4,PFSB JUNCTION FROM KILN DISCHARGE,Mr. Ramesh Arwin
+DIC Steel,"LCP1,2,3,4&5",51,LCP-4,"MCC ROOM, HT Room , Drive Room, Cable gallary & Electrical stores",Mr. Charan. V
+DIC Steel,"LCP1,2,3,4&5",52,LCP-4,LCP4 All auxiliary dedusting system,Mr.Shekrappa .B
+DIC RMHS,RMHS 5MT & CSP,0,RMHS 5MT & CSP,RMHS 5MT & CSP,Mr. Vishwanath T
+DIC RMHS,RMHS 5MT & CSP,1,RMHS 5MT & CSP,All Yards - Mechanical,Mr. Bibhudutta
+DIC RMHS,RMHS 5MT & CSP,2,RMHS 5MT & CSP,"All Yards, Conveyors, JHs - Operations",Mr. Mahesh C
+DIC RMHS,RMHS 5MT & CSP,4,RMHS 5MT & CSP,"Sub station, Cable Yard & MCCs",Mr. Ajay Kumar
+DIC RMHS,RMHS 5MT & CSP,5,RMHS 5MT & CSP,All Internal Roads,Mr. Vijaykumar.K
+DIC RMHS,RMHS 5MT & CSP,6,RMHS 5MT & CSP,"Canteen, Toilet & Office surrondng",Mr. Renuka Kumar
+DIC RMHS,RMHS 5MT & CSP,7,RMHS 5MT & CSP,Wagon Tippler 1 to 4,Mr. Shashi Dayal
+DIC RMHS,RMHS 5MT & CSP,8,RMHS 5MT & CSP,Wagon Tippler 5 & 6,Mr. Shivakumar Patil
+DIC Utility,MSDS and Switch Yard & Utilities,1,MSDS,"MSDS-1,2,3,6 Substations",Mr. Avinash B
+DIC Utility,MSDS and Switch Yard & Utilities,2,MSDS,MSDS Storeyard,Mr. Pandiyarajan
+DIC Utility,MSDS and Switch Yard & Utilities,3,MSDS,MSDS Substore,Mr. Dharshini Venkatesan
+DIC Utility,MSDS and Switch Yard & Utilities,4,MSDS,MSDS-3 Cable Yard,Mr. Basheer Ahmed
+DIC Utility,MSDS and Switch Yard & Utilities,5,MSDS,"MSDS-1, 2, 3 & 6 NGT yard",Mr. Avinash NM
+DIC Utility,MSDS and Switch Yard & Utilities,6,MSDS,MSDS-1 signal to MSDS substation main road,Mr. Pampapathi
+DIC Utility,MSDS and Switch Yard & Utilities,7,MSDS,MSDS FFPH area,Mr. Vishal
+DIC Utility,MSDS and Switch Yard & Utilities,8,MSDS,220KV/400KV switchyard cable trench,Mr. Wilson
+DIC Utility,MSDS and Switch Yard & Utilities,9,MSDS,"MSDS 4,7 substations and NGT yard",Mr. Raghavendra K
+DIC Utility,MSDS and Switch Yard & Utilities,10,MSDS,"MSDS 5,8 substations and NGT yard",Mr. Gangadhar Swamy
+DIC Utility,MSDS and Switch Yard & Utilities,11,MSDS,"Testing lab, store room, RTS office",Mr. Kiran J
+DIC Utility,MSDS and Switch Yard & Utilities,12,MSDS,Weigh bridge store room,Mr. Ambrish
+DIC Utility,MSDS and Switch Yard & Utilities,13,MSDS,"MSDS-1,2 surrounding area",Mr. Suresh
+Logistics,Logistics,1,Inward Receipt Area,South Yard,Mr. Mahesh Marachu
+Logistics,Logistics,2,Inward Receipt Area,Track hopper,Mr.P B Narayanaswami
+Logistics,Logistics,3,Inward Receipt Yard,Energy yard & TXR,Mr. Shreekanth
+Logistics,Logistics,4,FG Dispatch,North yard,Mr. Raghavendra Machak
+Logistics,Logistics,5,FG Dispatch,HSM-02,Mr.Prakash G
+Logistics,Logistics,6,FG Dispatch,CPL-02,Mr.Mariswamy K
+Logistics,Logistics,7,Loco Service Centre,Loco Service Centre,Mr.Punith Amin
+Logistics,Logistics,8,FG Dispatch,HR-CTL (5-8),Mr.Khalandar Bhasha M
+Logistics,Logistics,9,Main Office,Logistics office & Canteen,Mr. Brijesh M
+Logistics,Logistics,10,FG Dispatch,"CRM-01, SPCL & ACL-SC",Mr. Shekshavali N
+Logistics,Logistics,11,FG Dispatch,BRM-01,Mr. Mahadev Sarawad
+Logistics,Logistics,12,FG Dispatch,WRM-01,Mr. Paramveer Singh
+Logistics,Logistics,13,FG Dispatch,HSM-01,Mr.Arshad Masood
+Logistics,Logistics,14,FG Dispatch,BRM-02,Mr. Vishaldeep
+Logistics,Logistics,15,FG Dispatch,WRM-02,Mr. S P Gupta
+Logistics,Logistics,16,FG Dispatch,HSM-03,Mr.Venkatesh P N
+Logistics,Logistics,17,FG Dispatch,CRM-02,Mr. Richard D'Souza
+Logistics,Logistics,18,Permanent –WAY (P-WAY),Permanent –WAY (P-WAY),Mr. Venka Reddy
+Logistics,Logistics,19,S & T,S & T,Mr. Subrahmanyam B
+Logistics,Logistics,20,"OHE (SY, EY, TH )","OHE (SY, EY, TH )",Mr. Shivakumar T G
+Logistics,Logistics,21,Project Sites,Project Sites,Mr. Ravikumar Hosallimath
+DIC Mill,WRM-2 & BRM-2,1,WRM-2 & BRM-2,Furnaces,Mr. Joshi
+DIC Mill,WRM-2 & BRM-2,2,WRM-2 & BRM-2,BRM #2 Rollshop Area,Mr. Manuswamy
+DIC Mill,WRM-2 & BRM-2,3,WRM-2 & BRM-2,BRM #2 Mill Area,Mr. Raviraj
+DIC Mill,WRM-2 & BRM-2,4,WRM-2 & BRM-2,BRM #2 ECR Area,Mr. Rahul
+DIC Mill,WRM-2 & BRM-2,5,WRM-2 & BRM-2,BRM #2 Dispatch Area,Mr. Allipeera
+DIC Mill,WRM-2 & BRM-2,6,WRM-2 & BRM-2,BRM #2 Cellar,Mr. Riyaz
+DIC Mill,WRM-2 & BRM-2,7,WRM-2 & BRM-2,BRM #2 Utility,Mr. Amaresh
+DIC Mill,WRM-2 & BRM-2,8,WRM-2 & BRM-2,WRM #2 Rollshop Area,Mr. Suresh
+DIC Mill,WRM-2 & BRM-2,9,WRM-2 & BRM-2,WRM #2 Mill Area,Mr. Himanshu
+DIC Mill,WRM-2 & BRM-2,10,WRM-2 & BRM-2,WRM #2 ECR Area,Mr. Bakliwal
+DIC Mill,WRM-2 & BRM-2,11,WRM-2 & BRM-2,WRM #2 Dispatch Area,Mr. Santosh
+DIC Mill,WRM-2 & BRM-2,12,WRM-2 & BRM-2,WRM #2 Cellar,Mr. Tribhuvan
+DIC Mill,WRM-2 & BRM-2,13,WRM-2 & BRM-2,WRM #2 Utility,Mr. Vijay
+DIC Mill,HSM2 & CTL,1,HSM2,"Ramp, Slab Yard, Furnace floor","Santhosh, Basavaraj, Pankaj M, Neelankanta"
+DIC Mill,HSM2 & CTL,2,HSM2,RM Floor,"Basavaraj, UdayKumar"
+DIC Mill,HSM2 & CTL,3,HSM2,FM Floor,"Sushant Sharma, Prashant"
+DIC Mill,HSM2 & CTL,4,HSM2,DC Floor,"Manish Patil, Prabhulingayya"
+DIC Mill,HSM2 & CTL,5,HSM2,"Furnace, RM, FM, DC Cellar","Sasikumar, Srikanth"
+DIC Mill,HSM2 & CTL,6,HSM2,Utility,"Karunakar, Vinayak"
+DIC Mill,HSM2 & CTL,7,HSM2,ECR & MCC Rooms,"Abhijeeth kumar, Ventakesh Prabhu, Kotresh"
+DIC Mill,HSM2 & CTL,8,HSM2,Coilyard,"Manjunath, Bellary Chaitahnya, Dheeraj"
+DIC Mill,HSM2 & CTL,9,HSM2,Rollshop,"Veeresh, Harish"
+DIC Mill,HSM2 & CTL,10,HSM2,Workshop,"Addanagi, Sachin Kumar"
+DIC Mill,HSM2 & CTL,11,HSM2,HSM2 Lab & surrounding,"Madhusudhan, Vasukoti Ranganath"
+DIC Mill,HSM2 & CTL,12,HR SC,HRSC Complex,"Praveen Kumar Dharwad, Muthusoleppan, Vishnu Bhopte"
+DIC RMHS,RMHS 7&10MT,1,RMHS 7 MT,"All the Yards & Conveyors (SR 1,2) - Operations",Mr. Anand GR
+DIC RMHS,RMHS 7&10MT,2,RMHS 7 MT,"All the Yards & Conveyors (SR 3,4,5,6) - Operations",Mr. Sudhanshu P
+DIC RMHS,RMHS 7&10MT,3,RMHS 7 MT,All Yards - Mechanical,Mr. Mahantesh K
+DIC RMHS,RMHS 7&10MT,4,RMHS 7 MT,All Conveyors-Mechnical,Mr. Ramesh T
+DIC RMHS,RMHS 7&10MT,5,RMHS 7 MT,"Sub station, Cable Yard & MCCs",Mr. Manjunath K
+DIC RMHS,RMHS 7&10MT,6,RMHS 7 MT,"DDS, Pump House & Compressor",Mr. Kulkarni C
+DIC Mill,CRM1 & Service centres,1,CGL2&3,Zinc storage area,Mr.Suragouda patil
+DIC Mill,CRM1 & Service centres,2,APL,"APL1,8&9",Mr.Arvind kumar G
+DIC Mill,CRM1 & Service centres,3,CGL2&3,CGL Entry ECRs,Mr.Anil Byalal
+DIC Mill,CRM1 & Service centres,4,CGL2&3,CGL Exit ECRs,Mr.Manish Panwar
+DIC Mill,CRM1 & Service centres,5,CCL,CCL,Mr.Rajesh G G
+DIC Mill,CRM1 & Service centres,6,CGL2&3,CGL2&3,Mr.Nataraju G
+DIC Mill,CRM1 & Service centres,7,CGL2&3,Coil storage area,Mr.Suragouda patil
+DIC Mill,CRM1 & Service centres,8,CGL2&3,CGL2 Lean to shed,Mr.Pratap Behra
+DIC Mill,CRM1 & Service centres,9,ACL,ACL,Mr.Yashwanth HM
+DIC Mill,CRM1 & Service centres,10,Utility,Compressor,Mr.Vittal k mohite
+DIC Mill,CRM1 & Service centres,11,Utility,H2&N2 Storage,Mr.Durgesh Deshkar
+DIC Mill,CRM1 & Service centres,12,Utility,Utility complex,Mr.Ashish kumar lenka
+DIC Mill,CRM1 & Service centres,13,RCL1&2,RCL1&2,Mr.Parasuram S
+DIC Mill,CRM1 & Service centres,14,ECL,ECL  & ECL Coil storage area,Mr.Damodar J
+DIC Mill,CRM1 & Service centres,15,BAF,BAF & CCSU,Mr.Ravi vellur
+DIC Mill,CRM1 & Service centres,16,SPM,SPM,Mr. Nishanth Jain
+DIC Mill,CRM1 & Service centres,17,PLTCM,PL,Mr.Sanjay G
+DIC Mill,CRM1 & Service centres,18,PLTCM,TCM,Mr.Maharudra
+DIC Mill,CRM1 & Service centres,19,PLTCM,PLTCM ECR 1&2,Mr.Animesh Chakrabarty
+DIC Mill,CRM1 & Service centres,20,PLTCM,Emulsion area,Mr.Sreenivas reddy
+DIC Mill,CRM1 & Service centres,21,PLTCM,ARP,Mr.Milend B
+DIC Mill,CRM1 & Service centres,22,CRM1,Admin Block&Canteen,Mr.Shivaprakash Budur
+DIC Mill,CRM1 & Service centres,23,CRMSC & ACLSC,CRMSC & ACLSC,Mr.Indrajeet singh
+DIC Iron Making,BF3&4,1,BF4 Entrance,Diamond Road Entrance,Mr. Irfan GS
+DIC Iron Making,BF3&4,2,West SGP,West SGP cooling tower,Mr. Mruthunjaya
+DIC Iron Making,BF3&4,3,SGP Pump house,West SGP Pump house,Mr. Mruthunjaya
+DIC Iron Making,BF3&4,4,Cast House Dedusting,West Cast house dedusting,Mr. Manjunath G
+DIC Iron Making,BF3&4,5,Furnace zero meter,Hydraulic room,Mr. GB Veeresh
+DIC Iron Making,BF3&4,6,Cast House Dedusting,East Cast house dedusting,Mr. Manjunath G
+DIC Iron Making,BF3&4,7,Electrical substation,PMCC-5,Mr. Shankar L
+DIC Iron Making,BF3&4,8,SGP area,East cast house ramp & East Drypit and SGP,Mr. Bheemalinga B
+DIC Iron Making,BF3&4,9,Furnace Proper,Furnace Tower and BLT,Mr. Irfan GS
+DIC Iron Making,BF3&4,10,Cast house,East and west Cast house,Mr. Bheemalinga B
+DIC Iron Making,BF3&4,11,SGP  and OSTS,East SGP cooling tower and OSTS,Mr. Mruthunjaya
+DIC Iron Making,BF3&4,12,EOT and Fire pump house,Emergency over head tank and fire fighting pump house,Mr. Sharnabasappa Y
+DIC Iron Making,BF3&4,13,Secondary cooling tower and AVGF,Secondary cooling tower and AVGF,Mr. Venkata Seshaiah
+DIC Iron Making,BF3&4,14,Compressor house​,Compressor House,Mr. Shivanagouda
+DIC Iron Making,BF3&4,15,PMCC#2,,Mr. Chetan H
+DIC Iron Making,BF3&4,16,Mill#4,,Mr. Nagaraj Nagaravath
+DIC Iron Making,BF3&4,17,Stoves,,Mr. Ashish Nair
+DIC Iron Making,BF3&4,18,GCP & Cyclone,,Mr. Venkata Seshaiah
+DIC Iron Making,BF3&4,19,COG Booster,,Mr. Nagaraj Nagaravath
+DIC Iron Making,BF3&4,20,TRT & PMCC#4,,Mr. Ateef Hussain
+DIC Iron Making,BF3&4,21,PMCC#3,,Mr. Shankar L
+DIC Iron Making,BF3&4,22,Stock house & Fines building,,Mr. Srinath Bhat
+DIC Iron Making,BF3&4,23,Cable Yard,,Mr. Diwakar
+DIC Iron Making,BF3&4,24,West SGP & Drypits,,Mr. Bheemalinga
+DIC RMHS,RMHS Base mix and Energy Yard,1,RMHS Base mix,"All JH & TBS1,2,3, BR1,2,3 & PP-2 & PP-3 route",Mr. Varadarajan
+DIC RMHS,RMHS Base mix and Energy Yard,2,RMHS Basmeix,"SR 7,8,9,10",Mr. Nishith
+DIC RMHS,RMHS Base mix and Energy Yard,3,RMHS Base mix,"MPP, Screening & Crusher area",Mr. Karthik V
+DIC RMHS,RMHS Base mix and Energy Yard,4,RMHS Base mix,All Conveyors,Mr. Sandeep S
+DIC RMHS,RMHS Base mix and Energy Yard,5,RMHS Base mix,SR 7&8 - Mechanical,Mr. Naveen V
+DIC RMHS,RMHS Base mix and Energy Yard,6,RMHS Base mix,"PropBins, Crushers, Screens",Mr. Alamprabhu
+DIC RMHS,RMHS Base mix and Energy Yard,7,RMHS Base mix,All Yards - Electricals,Mr. Ravikiran
+DIC RMHS,RMHS Base mix and Energy Yard,8,RMHS Base mix,"Sub station, Cable Yard & MCCs",Mr. Ganga Reddy
+DIC RMHS,RMHS Base mix and Energy Yard,9,RMHS Base mix,"DDS, Pump House & Compressor",Mr. Santosh T
+DIC RMHS,RMHS Base mix and Energy Yard,10,RMHS Base mix,SR 9&10 - Mechanical,Mr. Sundar Pandian
+DIC RMHS,RMHS Base mix and Energy Yard,11,Track Hopper,Trackhopper,Mr. Satish Kotwal
+DIC RMHS,RMHS Base mix and Energy Yard,12,Energy Yard,"SR 11&12 Yards, Conveyors & JHs-Mechanical",Mr. Imran
+DIC RMHS,RMHS Base mix and Energy Yard,13,Energy Yard,"SR 11&12 Yards, Conveyors & JHs-Operations",Mr. Dhanjaya Kulkarni
+DIC RMHS,RMHS Base mix and Energy Yard,14,Energy Yard,"WT 7,8 & BP-2 Feeding",Mr. Veerebhadra
+DIC RMHS,RMHS Base mix and Energy Yard,15,Energy Yard,"Sub station, Cable Yard & MCCs",Mr. Chandrashekar Naidu
+DIC Steel,DRI,1,Area#01 - Utility,DM and RO Plant- Operation,Mr.Vijayakumar R
+DIC Steel,DRI,2,Area#01 - Utility,DM and RO Plant-Mechanical,Mr.Keerthi V
+DIC Steel,DRI,3,Area#02 - DRI,Nitrogen Storage and Workshop,Mr.Swamy
+DIC Steel,DRI,4,Area#03 - Utility,Pump House- Operation,Mr. Gani
+DIC Steel,DRI,5,Area#03 - Utility,Pump House- Mechanical,Mr.Rajesh K
+DIC Steel,DRI,6,Area#04 – Furnace,Furnace and CGC Area- Operation,Mr. Shashi
+DIC Steel,DRI,7,Area#04 – Furnace,Furnace/ Pipe yard Area- Mechanical,Mr. Arogya Das
+DIC Steel,DRI,8,Area#05 – Gaszone,"SGC, Heater,Clarifier,VPF and H2 -Operation",Mr.Nagaraj A
+DIC Steel,DRI,9,Area#05 – Gaszone,"SGC, Heater,Clarifier,VPF and H2 -Mechanical",Mr. Surya Prakash
+DIC Steel,DRI,10,Area#06 – Material Handling,"TT#01,02,03,04 and PSS- Operation",Mr. Ramesh T
+DIC Steel,DRI,11,Area#06 – Material Handling,"TT#01,02,03,04 and PSS- Mechanical",Mr. Varna
+DIC Steel,DRI,12,Area#07-Planning,MCR/Store/Pipe yard,Mr. Vinay
+DIC Steel,DRI,13,Area#07-Planning,Oil/Equipment/ Pipe Yards,Mr. Ganga
+DIC Steel,DRI,14,Area#08 – Gaszone,RGC/TGET/Flare stack- Operation,Mr. Thippeswamy
+DIC Steel,DRI,15,Area#08 – Gaszone,RGC/TGET/Flare stack- Mechanical,Mr Karthik
+DIC Steel,DRI,16,Area#09 – Gaszone,PSA/EGC/FF/COGC- Operation,Mr. Abhay
+DIC Steel,DRI,17,Area#09 – Gaszone,PSA/EGC/FF/COGC - Mechanical,Mr. Sai Teja
+DIC Steel,DRI,18,Area#10 – Material Handling,ODB/OSS/139/PSB - Operation,Mr. Dayanand Rao
+DIC Steel,DRI,19,Area#10 – Material Handling,ODB/OSS/139/PSB- Mechanical,Mr. Anand
+DIC Steel,DRI,20,Area#11 – Material Handling,PSB/CDRI shed/ 429 Ded - Operation,Mr. Majed
+DIC Steel,DRI,21,Area#11 – Material Handling,PSB/CDRI shed/ 429 Ded - Mechanical,Mr Ranganath
+DIC Steel,DRI,22,Area#12 – Electrical Substation,Pump House,Mr. Shambhu
+DIC Steel,DRI,23,Area#12 – Electrical Substation,EGC,Mr. Rajesh U
+DIC Steel,DRI,24,Area#12 – Electrical Substation,MH,Mr. Senapati
+DIC Steel,DRI,25,Area#04 – Furnace,CGC - Mechanical,Mr. Abhishek
+DIC Mill,CRM2,1,HR & CR YMS,HR & CR YMS,Karthik Ghorpade L
+DIC Mill,CRM2,2,ARP,ARP,Chetankumar Jaysingpure
+DIC Mill,CRM2,3,PL,PL,Ajeet Kumar
+DIC Mill,CRM2,4,TCM,TCM,Rahul Shukla
+DIC Mill,CRM2,5,Rollshop & Workshop,Rollshop & Workshop,Veeresh Padmasali
+DIC Mill,CRM2,6,CAL1,CAL1 Entry​,Kirankumar Malagi​
+DIC Mill,CRM2,7,CAL1,CAL1 Furnace​,KARTHIKESHA D
+DIC Mill,CRM2,8,CAL1,CAL1 Delivery,Sanganagouda
+DIC Mill,CRM2,9,CAL2,CAL2 Entry,​​Sandip Somnath Kelwade
+DIC Mill,CRM2,10,CAL2,CAL2 Furnace,Shivashankar K
+DIC Mill,CRM2,11,CAL2,CAL2 Delivery,Lokesh G S
+DIC Mill,CRM2,12,CGL,CGL Entry,Prakash Haralukallu
+DIC Mill,CRM2,13,CGL,CGL Centre,Ravikumar
+DIC Mill,CRM2,14,CGL,CGL Delivery,​Jagadeesh Chalageri
+DIC Mill,CRM2,15,CPL2,CPL2 ARP,Valendu Mishra
+DIC Mill,CRM2,16,CPL2,CPL2 Entry,Pavan Kumar S
+DIC Mill,CRM2,17,CPL2,CPL2 Delivery,Prajesh J Devadiga
+DIC Mill,CRM2,18,CPL2,CPL2 APL7,Meruga Veeranjaneyulu
+DIC Mill,CRM2,19,RCL3,RCL3,S Bharath
+DIC Mill,CRM2,20,RCL4,RCL4,Prasad Tardale B
+DIC Mill,CRM2,21,RCL5,RCL5,Prashant Mali
+DIC Mill,CRM2,22,RCL6,RCL6,Baljeet singh
+DIC Mill,CRM2,23,APL3 & 4,APL3 & 4,Newar Kariyappa
+DIC Mill,CRM2,24,WIP YMS,WIP YMS,Sachin Balakrishna Patil
+DIC Mill,CRM2,25,Utility,Utility,Mallikarjun Sagar
+DIC Steel,SMS1,1,1-2 & 10,"Slag yard, KR and PS",Girish Telkar
+DIC Steel,SMS1,2,3,Primary Steel Making,Mr. Sambasiva Rao
+DIC Steel,SMS1,3,4,Secondary Metallurgy Bay,Mr.Manjunath M
+DIC Steel,SMS1,4,5,Ladle Preparation Area,Mr. Pradeep K
+DIC Steel,SMS1,5,6,RH1,Mr.Anand B
+DIC Steel,SMS1,6,7,Continuous Casting,Mr.Saju V
+DIC Steel,SMS1,7,8,Tundish Area,Mr.Lokesh K
+DIC Steel,SMS1,8,9,BOF Repair area/Scrap yard/LTSS,Mr.Manish Jha
+DIC Steel,SMS1,9,11-13,WCS 1&2,Mr.Raghavendra M
+DIC Steel,SMS1,10,14,ID Fan Station and Gas Holder Area,Mr. Shankrayya Math
+DIC Steel,SMS1,11,15,RH2 and LHF4,Mr.K.K.Prakash
+DIC Mill,HSM1,1,HSM1,Control Pulpit Mill Entrance,Kishore
+DIC Mill,HSM1,2,HSM1,Coil Box & Finishing Mill,"Kalesh, and Nagana Gouda"
+DIC Mill,HSM1,3,HSM1,Mill Cellar,Udayraj and Nitin Prabhu
+DIC Mill,HSM1,4,HSM1,Roll Shop & Coil Yard,Krishnamurthy and T.G.P Reddy
+DIC Mill,HSM1,5,HSM1,Electrical Bay,"Sathyanarayana , Sunil and Rajesh"
+DIC Mill,HSM1,6,HSM1,Workshop,Gadilingppa and Lakhan
+DIC Mill,HSM1,7,HSM1,CWPH,Mallikarjuna and Shasidhar
+DIC Mill,HSM1,8,HSM1,"Slab yard ,Furnace & RM","Nandan , Vijay and Satish.Balam"
+DIC Mill,HSM1,9,HSM1,ROT & DC,S.V. Gouda and Nagabhushan
+DIC Mill,HSM1,10,HSM1,Transformer Bay,Lokesh
+DIC Agglo,OBP2,1,OBP2,Process Building Side Internal Road,Jagarnath Matho
+DIC Agglo,OBP2,2,OBP2,Process Building Side Road,Irfan N
+DIC Agglo,OBP2,3,OBP2,Process Building Side Road,Gabrial
+DIC Agglo,OBP2,4,OBP2,"Thickener 1,2,3 side Road",Haleshappa
+DIC Agglo,OBP2,5,OBP2,"Thickener 1,2,3 side Road",Md. Sadi
+DIC Agglo,OBP2,6,OBP2,"Thickener 1,2,3 side Road",Rudra Narayan Panda
+DIC Agglo,OBP2,7,OBP2,PH01 Road,Shivaraj M
+DIC Agglo,OBP2,8,OBP2,PH01 Road,Velmurugan
+DIC Agglo,OBP2,9,OBP2,PH01 Road,Kishore Patra
+DIC Agglo,OBP2,10,OBP2,TBP Road,Subramani
+DIC Agglo,OBP2,11,OBP2,TBP Road,Neelesh Kumar
+DIC Agglo,OBP2,12,OBP2,TBP Road,Gururaj
+DIC Agglo,OBP2,13,OBP2,PP2 Approach and ECR 7&8 Road,Shrishila
+DIC Agglo,OBP2,14,OBP2,PP2 Approach and ECR 7&8 Road,Neelesh
+DIC Agglo,OBP2,15,OBP2,PP2 Approach and ECR 7&8 Road,Spandana
+DIC Agglo,OBP2,16,OBP2,SPCV01 Tail end area,Jagarnath Matho
+DIC Agglo,OBP2,17,OBP2,SPCV01 Tail end area,Sachin Kumar
+DIC Agglo,OBP2,18,OBP2,SPCV01 Tail end area,Yatheesh
+DIC Agglo,OBP2,19,OBP2,Silos -Cement Plant Road,Subhash
+DIC Agglo,OBP2,20,OBP2,Silos -Cement Plant Road,Pradeep R
+DIC Agglo,OBP2,21,OBP2,Silos -Cement Plant Road,M Geetha Vani
+DIC Agglo,OBP2,22,OBP2,Area Between Ball Mills & GU Road (ECR02),Umesh Naik
+DIC Agglo,OBP2,23,OBP2,Area Between Ball Mills & GU Road (ECR02),Sreekanth Gouda
+DIC Agglo,OBP2,24,OBP2,Area Between Ball Mills & GU Road (ECR02),Mahanteshi
+DIC Agglo,OBP2,25,OBP2,SGP Area & ECR 2 Area,Umesh naik
+DIC Agglo,OBP2,26,OBP2,SGP Area & ECR 2 Area,Nizamuddin
+DIC Agglo,OBP2,27,OBP2,SGP Area & ECR 2 Area,Veera Reddy H
+DIC Agglo,OBP2,28,OBP2,T4 Area,Umesh Naik
+DIC Agglo,OBP2,29,OBP2,T4 Area,Nanda Kumar
+DIC Agglo,OBP2,30,OBP2,T4 Area,Mahanteshi
+DIC Agglo,OBP2,31,OBP2,GU Building & Day Bin Building Area,Md. Azaruddin
+DIC Agglo,OBP2,32,OBP2,GU Building & Day Bin Building Area,Sanjay Jain
+DIC Agglo,OBP2,33,OBP2,GU Building & Day Bin Building Area,Manjunath  B
+DIC Agglo,OBP2,34,OBP2,CV Series,Satish Kumar
+DIC Agglo,OBP2,35,OBP2,CV series,Manjunath B
+DIC Agglo,OBP2,36,OBP2,CV Series,Arun Kumar
+DIC Agglo,Stores and Disposal Yards,0,Stores and Disposal Yards,Stores and Disposal Yards,Mr. Uday Acharya
+DIC Mill,HSM-3,1,HSM-3,HSM-3 Entrance road from Iron drive to Ramp Mill Entrance,Mr. Sachin Fernandes
+DIC Mill,HSM-3,2,HSM-3,NCO coil yard and Road after HJ bay  till columnC45,Mr.Balamurugan
+DIC Mill,HSM-3,3,HSM-3,Coil yard GH Bay and HJ Bay,Mr. Prakash Singh
+DIC Mill,HSM-3,4,HSM-3,Coil yard  HJ Bay Logistic Area,Mr. Venkatesh
+DIC Mill,HSM-3,5,HSM-3,"Coil yard to road and canteen , Fume exhaust  Area and  Fire Fighting area",Mr.Balamurugan
+DIC Mill,HSM-3,6,HSM-3,Coil yard ECR Area,Ms.Brunda
+DIC Mill,HSM-3,7,HSM-3,Cooling tower area to transformer Area Road Till Substore,Mr. Srinivas
+DIC Mill,HSM-3,8,HSM-3,Furnace area Infront of store( C8) and Transfer area till the boiler area,Mr. Satya Mishra
+DIC Mill,HSM-3,9,HSM-3,"Boiler area to hot pit, Boiler ECR",Mr. Rammurthy
+DIC Mill,HSM-3,10,HSM-3,"DM plant , Compressor room and Surrounding",Mr.Gaurav
+DIC Mill,HSM-3,11,HSM-3,Slab Yard RS bay,Mr. Santhosh
+DIC Mill,HSM-3,12,HSM-3,Hydraulic cellar Area,Mr. Gaurav Kumar
+DIC Mill,HSM-3,13,HSM-3,Descale Pump and Mill Utility Area,Mr. Praveen A
+DIC Mill,HSM-3,14,HSM-3,Roll Shop Area,Mr. Prashant Kumar
+DIC Mill,HSM-3,15,HSM-3,Mill Floor Area Heat Holding Cover FM  to DC,Mr.Umesh
+DIC Mill,HSM-3,16,HSM-3,Mill Floor Area Roughing Mill to Furnace Discharging side,Shift Incharge
+DIC Mill,HSM-3,17,HSM-3,Drive Side Furnace,Mr. OM Prakash
+DIC Mill,HSM-3,18,HSM-3,RM to Crop Shear Drive Side,Mr. Yogish
+DIC Mill,HSM-3,19,HSM-3,FM Drive Side,Mr. Vishal
+DIC Mill,HSM-3,20,HSM-3,ROT  Drive Side,Mr. Roushan
+DIC Mill,HSM-3,21,HSM-3,DC Drive Side,Mr. Hanumantha
+DIC Mill,HSM-3,22,HSM-3,Post coilers,Mr. Prashant Sahu
+DIC Mill,HSM-3,23,HSM-3,CC ECR and DC ECR area,Mr. Ramakrishna
+DIC Mill,HSM-3,24,HSM-3,Salvaging and Plate cutting Area,Mr. Umesh
+DIC Mill,HSM-3,25,HSM-3,Motor Bay Furnace to RM,Mr. Sharan
+DIC Mill,HSM-3,26,HSM-3,Motor Bay RM to FM,Mr. Chandrashekar
+DIC Mill,HSM-3,27,HSM-3,Motor Bay FM to ROT,Ms.Brunda
+DIC Mill,HSM-3,28,HSM-3,Charging Table Area,Mr. Sourav Mondal
+DIC Mill,HSM-3,29,HSM-3,Furnace Pulpit and Surrounding,Mr. Thippeswamy
+DIC Mill,HSM-3,30,HSM-3,Furnace Cellar,Mr. Shabir A
+DIC Mill,HSM-3,31,HSM-3,CA FAN  and RC pump Area,Mr. Malikarjuna
+DIC Mill,HSM-3,32,HSM-3,Furnace Roof Top,Mr. Shabir A
+DIC Mill,HSM-3,33,HSM-3,Crane Gantry Area,Mr. Abhijith
+DIC Mill,HSM-3,34,HSM-3,Mill Floor Visitors Gallery  and FM and DC  Pulpit,Mr.Gourab Mahanthy
+DIC Mill,HSM-3,35,HSM-3,HSM-3 Office,Ms.Shahanara Laskar
+DIC Mill,HSM-3,36,HSM-3,Public Toilets and Canteen Periphery Area,Mr. Swamy G
+DIC Mill,HSM-3,37,HSM-3,LAB Building Office and  Shop,Mr. Mahendra
+DIC Mill,HSM-3,38,HSM-3,Workshop,Mr. Gautham
+DIC Mill,HSM-3,39,HSM-3,,
+DIC Utility,Stores and Disposal Yards,1,Bay-2,Bay-2 (A&B open area including mezzanine floor),Vinayak N
+DIC Utility,Stores and Disposal Yards,2,Bay-2,"Bay-2, AC room",Ravikumar
+DIC Utility,Stores and Disposal Yards,3,Bay-2,"Bay-2, Bearing bank",Suryanarayan
+DIC Utility,Stores and Disposal Yards,4,Bay-2,"Bay-2, Racks from 1 to 35",Thippeswamy
+DIC Utility,Stores and Disposal Yards,5,Bay-2,"Bay-2, Racks from 111 to 145",Veereshi A
+DIC Utility,Stores and Disposal Yards,6,Bay-2,"Bay-2, Racks from 36 to 70",Sunil Kamath
+DIC Utility,Stores and Disposal Yards,7,Bay-2,"Bay-2, Racks from 71 to 110",Shanvaz
+DIC Utility,Stores and Disposal Yards,8,Bay-2,"Bay-2, Safety items rooms",Shanvaz
+DIC Utility,Stores and Disposal Yards,9,Bay-2,"Bay-2, Strong room (both)",Ravikumar
+DIC Utility,Stores and Disposal Yards,10,Bay-2,"Bay-2, Tools room",Ravikumar
+DIC Utility,Stores and Disposal Yards,11,Hose bank,Hose bank,Suryanarayan
+DIC Utility,Stores and Disposal Yards,12,Oil yard,Open Yard - Oil yard,Shivakumar Sethu
+DIC Utility,Stores and Disposal Yards,13,Bay-3,Bay-3 (E area),Vinay
+DIC Utility,Stores and Disposal Yards,14,Bay-3,Bay-3 (F area),Santosh H
+DIC Utility,Stores and Disposal Yards,15,Bay-3,Bay-3 Inspection area,Sheetal
+DIC Utility,Stores and Disposal Yards,16,Bay-3,Bay-3 Material receipt area,Sheetal
+DIC Utility,Stores and Disposal Yards,17,Bay-3,Bay-3 Receipt office,Sheetal
+DIC Utility,Stores and Disposal Yards,18,Central Store Office,Central Store Office,Venkatesh K
+DIC Utility,Stores and Disposal Yards,19,JVML - Bearing bank,JVML - Bearing bank,Appala Narasimha Murthy P
+DIC Utility,Stores and Disposal Yards,20,JVML AP Store,JVML AP Store,Appala Narasimha Murthy P
+DIC Utility,Stores and Disposal Yards,21,Open Yard 3 -Conveyor belt & Pipes area,Open Yard 3 -Conveyor belt & Pipes area,Karthik J
+DIC Utility,Stores and Disposal Yards,22,Bay-1,Bay-1 (C area),Chennesh
+DIC Utility,Stores and Disposal Yards,23,Bay-1,Bay-1 (D area),Chennesh
+DIC Utility,Stores and Disposal Yards,24,Bay-1,Bay-1 Issue & Binning office,Mallamma
+DIC Utility,Stores and Disposal Yards,25,Gas Cylinder shed,Gas Cylinder shed,Shivakumar
+DIC Utility,Stores and Disposal Yards,26,"Open Yard ""G"" area","Open Yard ""G"" area",Shanvaz
+DIC Utility,Stores and Disposal Yards,27,Open Yard,Open Yard 1 - A,Husain
+DIC Utility,Stores and Disposal Yards,28,Open Yard,Open Yard 1 - B,Shambulinga
+DIC Utility,Stores and Disposal Yards,29,Open Yard,Open Yard 1 - C,Shambulinga
+DIC Utility,Stores and Disposal Yards,30,Open Yard,Open Yard 2,Sandeep
+DIC Utility,Stores and Disposal Yards,31,PAINT SHED,PAINT SHED,Shanvaz
+DIC Utility,Stores and Disposal Yards,32,5S MODEL AREA,MODEL AREA,Vinayak N
+DIC Agglo,SP2345,1,SP-2: MEROS,"MEROS, ESPs & Zero Meter",Mr. Raju Kulkarni
+DIC Agglo,SP2345,2,SP-2: Utilities,"Pump House, Compressors, WG Building, All fans & Crusher Building",Mr. Vigneswaran D
+DIC Agglo,SP2345,3,SP-2: Mixing & Sinter Cooler,"MND area, Noduliser area, CA Fans & Sinter Cooler",Mr. Sunil B
+DIC Agglo,SP2345,4,SP-3: Zero Meter,"All Roads, Entrance, Zero Mtr, Horticulture, Grass cutting, SP3 Yard & Storage Building etc",Mr. Karunakaran
+DIC Agglo,SP2345,5,SP-3: Utilities,"Pump house, Compressors, Fabrication yard, U seal area, 1061, 1062, 7041, 7042,WHRS & DM Plant Utilities, Compressors, Fabrication yard, U seal area, 1061, 1062, 7041, 7042,WHRS & DM Plant",Mr. Rohan Sanjeev
+DIC Agglo,SP2345,6,SP-3: Process Fans & ESPs,"WG FAN & ESP, DD ESP, & Screen bagfilter & all bag filter units, all pneumatic conveying systems",Mr. Avinash Kumar
+DIC Agglo,SP2345,7,SP-3: Material Handling,"Raw material route, 9020 route, belt feeder area, storage bin top,  CA Fans",Mr. Panneerselvam K
+DIC Agglo,SP2345,8,SP-4: Weigh feeders & Product route,"Screen Building, Weigh feeders, Crusher Building",Mr. Rohit Kumar D
+DIC Agglo,SP2345,9,SP-4: Mixing & Sinter Cooler,"MND area, Noduliser area, CA Fans & Sinter Cooler",Mr. Naveen Kumar
+DIC Agglo,SP2345,10,SP-4: Utilities,"Utilities, Compressors, WG Building, All fans",Mr. Chandru H E
+DIC Agglo,SP2345,11,SP-5 Sinter Machine& Cooler,Sinter Machine building & Cooler area,Mr. Praveen Kumar
+DIC Agglo,SP2345,12,SP-5 Mixing sequence,Mixer building & Noduliser building,Mr. Saravanan
+DIC Agglo,SP2345,13,SP-5 Conveyors,"All the Raw material, Mixing & Product sequence conveyors",Mr. Mallappa
+DIC Agglo,SP2345,14,SP-5 Cold Screening,Double roll Crusher & Screen Building,Mr. Madhav
+DIC Agglo,SP2345,15,SP-5: Process Fans & ESPs,Waste Gas Fans & ESPs,Mr. Vikram KN
+DIC Agglo,SP2345,16,SP-5 Bag Filters,"Product sequence, Screen & Storage building's Bag filters",Mr. Noor Ahmed
+DIC Agglo,SP2345,17,SP-5 Pump House,"All Pumps, compressors & Chiller Cooling Towers",Mr. Devaraj
+DIC Agglo,SP2345,18,SP-5 ESS buildings,All Electrical Sub-stations,Ms. Alakananda
+DIC Agglo,SP2345,19,SP-5 Sinter Storage Building,Sinter storage Building,Mr. Dastagir
+DIC Agglo,SP2345,20,SP-2 Sinter Machine Building,"Bintop, 18mtr, 14mtr, Gaslines, Furnace & Spillage chutes",Mr. Sharmasvali
+DIC Agglo,SP2345,21,SP-2 Product Sequence,"Screen Building, Weigh feeders, C1 Junction, AC1 Junction, Storage Building",Mr. Anoop Kumar
+DIC Agglo,SP2345,22,SP-3 Sinter Machine Building,"Bintop, 23mtr, 18mtr & Spillage chutes, and the wind box, Sinter Cooler, Wind Main & 11mtr transfer chute, dust hopper, spillage chute",Mr. Suresh Kumar T
+DIC Agglo,SP2345,23,SP-3 Product Sequence,"8012, 9001, Screen Building, Weigh feeders, 9007 Junction, 9008, 7J36C1 tail end",Mr. Ghanashyam K
+DIC Agglo,SP2345,24,SP-3 Mixing Sequence,"2004 head end, 2005, Noduliser area, feed hopper, Hearth layer bin, Basemix bins",Mr. Anantha Reddy
+DIC Agglo,SP2345,25,SP-4 Sinter Machine Building,"Bintop, 18mtr, 14mtr, Gaslines, Furnace & Spillage chutes",Mr. Mohammad Gouse
+DIC Agglo,SP1,1,SP1,Area 2,Mr. Vinayak bhosekar
+DIC Agglo,SP1,2,sinter machine,"18 mt, 14 mt",Mr vishwanath B S
+DIC Agglo,SP1,3,Sinter Cooler,Inside and Outside and Cooling air fan area,Mr. Avinash Kumar
+DIC Agglo,SP1,4,Weigh feeder,Weigh feeder,Mr. Jitendra NL
+DIC Agglo,SP1,5,Screen building,Screen building,Mr. Vishwanath G
+DIC Agglo,SP1,6,MND route and surrounding,MND route and surrounding,Mr. Mukesh Oraon
+DIC Agglo,SP1,7,Product route,Product route,Mr. Vishwanath P
+DIC Agglo,SP1,8,ESP and MEROS,ESP and MEROS,Mr. Basavaraj N
+DIC Agglo,SP1,9,Area 1,Crusher Building,Mr. Subhashish Panda
+DIC Agglo,SP1,10,"J42C1, JB1 and JB2 junction","J42C1, JB1 and JB2 junction",Mr. Malle Gauda
+DIC Agglo,SP1,11,"62C1, 62C2 and Barrel yard","62C1, 62C2 and Barrel yard",Mr. Nageshwara Rao
+DIC Agglo,SP1,12,Area 1 storage building,Area 1 storage building,Mr. Doddabasappa
+DIC Agglo,SP1,13,Plant bin top,Plant bin top,Mr. Jahid L
+DIC Agglo,SP1,14,Utilities,Utilities,Mr. Y Srihari Rao
+DIC Agglo,SP1,15,Sinter storage building,Sinter storage building,Mr. Syed Abdul Rahaman
+DIC Agglo,PP2 & PP3,1,ULILITY,PUMP HOUSE & COMPRESSOR,Ramesh Krishna
+DIC Agglo,PP2 & PP3,2,PROCESS FAN,"HE,UDD, WBE , WBF,CA",Balashankar
+DIC Agglo,PP2 & PP3,3,ESP,"ESP-1,2&3, Conveying s/m, Related roads, Mechanical Store, Learning Centre road",Goutham K
+DIC Agglo,PP2 & PP3,4,MIXER,MIXER 1 & 2 MF1& MF2,Nixon Lobb
+DIC Agglo,PP2 & PP3,5,ROTOFEEDER,ROTOFEEDER 1ABCD & 2ABCD Concentrate weigh feeder,Rohit Yadav
+DIC Agglo,PP2 & PP3,6,BALL MILL,BALL 1 & 2 Air slide floor weigh feeder,Mahatesh K.Y
+DIC Agglo,PP2 & PP3,7,Vertical mill,"Weight feeder floor, RAV Floor, ASBC 04&5, Bagfilter floor",Amaresh
+DIC Agglo,PP2 & PP3,8,Balling Disc,"Balling disc floor, MO3&4, RSR1&2",Suraj Bhoyite
+DIC Agglo,PP2 & PP3,9,Feed End,"RSR3,GFR,GOR, DDRS, Dribble Conveyor",Uday Kiran
+DIC Agglo,PP2 & PP3,10,Indurating machine,"IM South and North Side, Discharge Hopper, P1A&B, Discharge end bag house, ID fan and slurry tank",Bala Shankar
+DIC Agglo,PP2 & PP3,11,HLS,"HLS Bin, P2, EPL, HL Series, HLS Slurry tank, HLS ID fan",Sanjay Singh
+DIC Agglo,PP2 & PP3,12,HSL,"HLS roads,P2 junction, P2 ID fan and bag filter, P2 roads",Harisha S
+DIC Agglo,PP2 & PP3,13,Storage Bin top,"P3,4, diverter gate, P6A&B",Riyaz
+DIC Agglo,PP2 & PP3,14,Storage Bin,"P7 series, SBF series, PSB ground, PSB Bag house, Slurry tank and screw conveyoe",Smruti Ranjan Nayak
+DIC Agglo,PP2 & PP3,15,Chiller,"Chiller 123&4, Chiller Pumps, Condenser Pumps",Sharanabasava
+DIC Agglo,PP2 & PP3,16,ESS-1,"ESS1 cable celler, Transformers and related area",Sandesh
+DIC Agglo,PP2 & PP3,17,ESS-2A,"ESS-2A cable celler, Transformers and related area",Shubhasmitha
+DIC Agglo,PP2 & PP3,18,ESS-3,"ESS-3 cable celler, Transformers and related area",Chinmay Das
+DIC Agglo,PP2 & PP3,19,ESS-2B,"ESS-2B cable celler, Transformers and related area",Ashok Rao
+DIC Agglo,PP2 & PP3,20,ESS-4,"ESS-4 cable celler, Transformers and related area",Sri Ram Dalavayi
+DIC Agglo,PP2 & PP3,21,Additive Storage,"Bentonite storage area, Dolo, Lime and Coke Storage area, related roads,  Bag filters",Santosh KM
+DIC Agglo,PP2 & PP3,22,Filtration Top,"Filter 9M,14M,17M,19M area",Rameshkrishna K
+DIC Agglo,PP2 & PP3,23,Filtration,"Slurry tanks, Slurry pumps, Thickner area",Shivaraj PB
+DIC Agglo,PP2 & PP3,24,Filter Zero meter,"Filter Zero-meter, Filter Compressors, RFC1A&B, FC-3 and FC-4 tail end",Ankit Kumar Singh
+DIC Agglo,PP2 & PP3,25,All Roads,"PP3 entrance road, HLS road, MO2 road, Wagon yard road, filter back side road",Veeresh Katralli
+DIC Agglo,PP2 & PP3,26,ESP,"ESP1&2, Conveying S/M, Related roads",Rahul Rao
+DIC Agglo,PP2 & PP3,27,Concentrate Building,"CF series, Concentrate bin top, RBF 1,2&3",Anil Kumar
+DIC Agglo,PP2 & PP3,28,Mixer,"Mixer 1&2, RF1&2, roto feeder, MO-1",Shivakumar Kampli
+DIC Agglo,PP2 & PP3,29,MO Series,"MO-2,3 &4, GFR3",Sunil J
+DIC Agglo,PP2 & PP3,30,Balling Disc,"Balling disc 1 to 7, GP series.",Santosh Matad
+DIC Agglo,PP2 & PP3,31,Feed End,"Feed End zero meter, D1A&B, Oscillating, DDRS",Ankit Chauhan
+DIC Agglo,PP2 & PP3,32,Indurating Machine,"South and North side, Rotary chute, IM discharge hopper, Vibro feeder, P1&5",Manjunath Amar
+DIC Agglo,PP2 & PP3,33,HLS,"HLS bin, HLS screen, P2&6, HL series",Santosh Fowkar
+DIC Agglo,PP2 & PP3,34,Storage Bin,"Product Route conveyors, SBF Series, P6, P7 shuttle conveyor",Shivakumar Kirwadi
+DIC Agglo,PP2 & PP3,35,Additive Mills,"Ball mill, Vertical mill, ground floor, Storage yard",M R Ikram
+DIC Agglo,PP2 & PP3,36,Additive Mills Top Floor,"AF Series, Air slide, Weight feeders, Baghouse",Kenchappa
+DIC Agglo,PP2 & PP3,37,Utilities,"Pump house, Compressor House, Chiller unit and related roads",Anand Sai
+DIC Agglo,PP2 & PP3,38,EER-1,"EER-1 cable celler, Transformers area, related roads",Rajashekar Kobal
+DIC Agglo,PP2 & PP3,39,EER-2,"EER-2 cable celler, Transformers area, related roads, DG",Gyan Chand
+DIC Agglo,PP2 & PP3,40,All roads,"PP-2 entrance road, Mechanical Store, all PP2 related roads",Dadapeer
+DIC Iron Making,IM5MT,1,BF-1,BF-1 Furnace Complex,Mr. Sri Hari
+DIC Iron Making,IM5MT,2,BF-1,Cast House & Dry pit 1&2,Mr. T.J.manjunath
+DIC Iron Making,IM5MT,3,BF-1,BF-2  Stoves & surrounding area,Mr. Shyam Garepalli
+DIC Iron Making,IM5MT,4,BF-1,SGP & PCI area,Mr. Gururaj Rao
+DIC Iron Making,IM5MT,5,BF-1,Control Room,Mr. Shyam Garepalli
+DIC Iron Making,IM5MT,6,BF-1,Cast house hydraulics & Stoves,Mr. Vasanth G
+DIC Iron Making,IM5MT,7,BF-1,Office Building,Mr. Renuka Kumar(DPAO)
+DIC Iron Making,IM5MT,8,BF-1,WTP area,Mr. Gouse Basha
+DIC Iron Making,IM5MT,9,BF-1,DM Plant,Mr. Sandeep .P
+DIC Iron Making,IM5MT,10,BF-1,80 TPH Mill & Surrounding area,Mr. RVSM Sarma
+DIC Iron Making,IM5MT,11,BF-1,VPSA,Mr. Shambu Lingappa
+DIC Iron Making,IM5MT,12,BF-1,Mechanical store & cast house de dusting,Mr. Raghavendra.K
+DIC Iron Making,IM5MT,13,BF-1,GCP & surrounding area,Mr. Janardhan Naik
+DIC Iron Making,IM5MT,14,BF-1,BF-1 Stock House & surrounding area,Mr. Ashok Kulkarni
+DIC Iron Making,IM5MT,15,BF-1,BF-1 Air Compressor Area,Mr. Naveen Kulkarni
+DIC Iron Making,IM5MT,16,BF-2,BF-2 Furnace Complex,Mr. Shyam Sunder
+DIC Iron Making,IM5MT,17,BF-2,BF-2 Cast House &Dry pit 3&4,Mr. TJ.Manjunath
+DIC Iron Making,IM5MT,18,BF-2,BF-2 SGP & surrounding area,Mr. Gururaj Rao
+DIC Iron Making,IM5MT,19,BF-2,BF-2 Stoves & surrounding area,Mr. Laxman Rao
+DIC Iron Making,IM5MT,20,BF-2,BF-2 GCP & surrounding area,Mr. MC Ravi
+DIC Iron Making,IM5MT,21,BF-2,BF-2 Office Building & Control room,Mr. Renuka Kumar(DPAO)
+DIC Iron Making,IM5MT,22,BF-2,BF-2 CPP&CDI Surrounding area,Mr. Mallikarjuna.Gonal
+DIC Iron Making,IM5MT,23,BF-2,BF-2 Stock House,Mr. Venkatesh.K
+DIC Iron Making,IM5MT,24,BF-2,BF-2 Cast house De Dusting & surrounding area,Mr. Murali G
+DIC Iron Making,IM5MT,25,BF-2,BF-2 WTP pump House,Mr. MC Ravi
+DIC Iron Making,IM5MT,26,BF-2,BF-2 PMCC-4,Mr. Venkatesh Kurdekar
+DIC Iron Making,IM5MT,27,BF-2,Blower area & Network U-seal area,Mr. Sandeep .p
+DIC Iron Making,IM5MT,28,Corex-1,C-1 Tower area,Mr. Chandbasha
+DIC Iron Making,IM5MT,29,Corex-1,Corex 1 Cast house & SGP,Mr. Ganesh
+DIC Iron Making,IM5MT,30,Corex-1,Corex 1 WTP area,Mr. Janardhan naik
+DIC Iron Making,IM5MT,31,Corex-1,Corex 1 CGC area,Mr.Chandbasha
+DIC Iron Making,IM5MT,32,Corex-1,Corex 1 Stock house,Mr. Ashok D
+DIC Iron Making,IM5MT,33,Corex-2,Corex 2 Tower area,Mr. Chandbasha
+DIC Iron Making,IM5MT,34,Corex-2,Corex 2 Cast house & SGP,Mr. Ganesh
+DIC Iron Making,IM5MT,35,Corex-2,Corex 2 WTP area,Mr. Janardhan naik
+DIC Iron Making,IM5MT,36,Corex-2,Corex 2 CGC area,Mr.Chandbasha
+DIC Iron Making,IM5MT,37,Corex-2,Corex 2 Stock house,Mr. Ashok D
+DIC Iron Making,IM5MT,38,Corex-1&2,Corex CDP area,Mr. Ashok D
+DIC Iron Making,IM5MT,39,Corex-1&2,Corex ACDP area,Mr. Ashok D
+DIC Iron Making,IM5MT,40,Corex-1&2,Corex Mechanical stores & Workshops,Mr. Dinesh Poonj
+DIC Iron Making,IM5MT,41,Corex-1&2,Corex E&I Stores and workshops,Mr. Muniyasamy
+DIC Iron Making,IM5MT,42,Corex-1&2,Corex Casthouse dedusting area,Mr. Ganesh
+DIC Iron Making,IM5MT,43,Corex-1&2,Corex air compressor station,Mr.Chandbasha

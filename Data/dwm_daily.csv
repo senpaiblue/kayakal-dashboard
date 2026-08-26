@@ -1,0 +1,746 @@
+source_file,department,section,sub_section,kpi_name,sheet_name,month_year,date,actual,plan,ucl,cl,lcl
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-01,81.49512760311904,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-02,81.02447320368213,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-03,79.36864064170102,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-04,79.98713988370683,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-05,80.90998754501672,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-06,78.54320549980528,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-07,78.75789542889008,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-08,79.0320255867535,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-09,80.11613758846599,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-10,83.21716357582191,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-11,81.83330953475227,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-12,80.59474847084637,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-04-30,2026-04-13,80.7288088966281,,83.77,79.38,75.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-01,66.98184355899976,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-02,67.24232408030487,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-03,69.31680983234565,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-04,70.24529554462805,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-05,67.8461092732206,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-06,67.53047615786382,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-07,67.13835478146927,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-08,67.09237008056694,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-09,65.55668271999808,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-10,66.51649400041259,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-11,70.73085823909368,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-12,68.88551959408814,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-04-30,2026-04-13,65.15346390002186,,70.87,67.08,63.29
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-01,0.8197750144174132,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-02,0.832391179135938,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-03,0.833515630945688,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-04,0.8287440477390461,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-05,0.8302579234581284,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-06,0.8138723650687689,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-07,0.8121274931836561,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-08,0.8233394095393344,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-09,0.8385491439834738,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-10,0.8668616890902759,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-11,0.8472372227926396,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-04-30,2026-04-12,0.7659770839470837,,0.87,0.8145,0.7589
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-01,0.8272865490653558,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-02,0.8325131733113166,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-03,0.8186709051103389,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-04,0.8107455010650709,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-05,0.7911181885483848,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-06,0.8173193443346078,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-07,0.7927881260219154,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-08,0.8014372364875476,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-09,0.779618383122902,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-10,0.7837650201001722,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-11,0.8517618478955551,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-04-30,2026-04-12,0.7971289066970217,,0.9125,0.8174,0.7223
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-01,1970.026444744736,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-02,1961.3716320589872,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-03,1954.932948113042,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-04,1904.4870129872145,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-05,1946.888761721364,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-06,1902.557408702338,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-07,1917.6736612051063,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-08,1874.430081239864,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-09,1884.45314298917,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-04-30,2026-04-10,2002.1449608406376,,2129.1,1945.0,1761.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-01,3010.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-02,3249.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-03,3029.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-04,3053.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-05,3023.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-06,3194.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-07,3099.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-08,3156.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-09,3118.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-10,3063.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-11,3140.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-12,3301.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Water Consumption CO#3,CKPI Water Cons CO 3,2026-04-30,2026-04-13,3241.0,,3203.1,3046.5,2890.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-01,4257.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-02,4402.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-03,4211.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-04,4209.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-05,4232.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-06,4194.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-07,4194.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-08,4199.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-09,4207.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-10,4175.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-11,4355.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-12,4301.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-04-30,2026-04-13,4119.0,,4623.2,4272.7,3922.3
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-01,0.59,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-02,0.6,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-03,0.58,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-04,0.59,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-05,0.59,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-06,0.61,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-07,0.59,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-08,0.58,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-09,0.6,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-10,0.61,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-11,0.58,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-12,0.59,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-04-30,2026-04-13,0.61,,0.62716,0.59258,0.55801
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-01,0.6,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-02,0.59,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-03,0.6,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-04,0.61,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-05,0.61,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-06,0.62,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-07,0.61,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-08,0.59,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-09,0.58,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-10,0.61,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-11,0.59,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-12,0.6,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-04-30,2026-04-13,0.6,,0.62087,0.58806,0.55526
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-01,13.48,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-02,13.65,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-03,13.36,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-04,13.43,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-05,13.66,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-06,13.35,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-07,13.26,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-08,13.31,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-09,13.68,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-10,13.63,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-11,13.6,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-12,13.65,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-04-30,2026-04-13,13.35,,13.749,13.256,12.763
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-01,13.81,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-02,13.58,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-03,13.44,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-04,13.57,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-05,13.64,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-06,13.0,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-07,13.12,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-08,13.05,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-09,13.08,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-10,13.52,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-11,13.62,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-12,13.37,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-04-30,2026-04-13,13.26,,13.792,13.289,12.786
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-01,0.32,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-02,0.34,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-03,0.28,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-04,0.27,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-05,0.3,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-06,0.31,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-07,0.32,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-08,0.32,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-09,0.28,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-10,0.37,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-11,0.36,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-12,0.35,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-04-30,2026-04-13,0.27,,0.4414,0.2871,0.1328
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-01,1.07,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-02,1.2,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-03,1.02,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-04,1.22,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-05,0.78,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-06,0.54,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-07,1.01,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-08,0.84,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-09,0.64,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-10,0.86,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-11,0.79,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-12,0.79,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-04-30,2026-04-13,0.38,,1.719,0.915,0.111
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-01,69.19,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-02,70.66,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-03,70.66,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-04,69.34,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-05,69.77,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-06,70.23,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-07,70.09,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-08,70.22,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-09,69.56,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-10,71.7,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-11,70.92,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-12,70.9,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-04-30,2026-04-13,68.67,,72.308,70.634,68.959
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-01,69.79,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-02,69.69,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-03,70.26,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-04,69.17,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-05,69.93,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-06,69.09,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-07,69.77,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-08,69.92,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-09,70.08,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-10,69.85,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-11,69.57,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-12,69.45,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-04-30,2026-04-13,71.04,,73.052,70.33,67.607
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-01,0.9266666666666667,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-02,0.9666666666666668,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-03,0.9733333333333334,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-04,0.8666666666666667,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-05,0.9666666666666668,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-06,0.9366666666666666,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-07,0.96,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-08,0.9666666666666668,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-09,0.9266666666666667,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-10,0.9666666666666668,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-11,0.96,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-12,0.96,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-04-30,2026-04-13,0.9266666666666667,,0.9912,0.9605,0.9298
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-01,0.9,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-02,0.98,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-03,0.91,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-04,0.94,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-05,0.95,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-06,0.96,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-07,0.93,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-08,0.96,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-09,1.0,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-10,0.94,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-11,0.91,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-12,0.94,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-04-30,2026-04-13,0.98,,1.0046,0.9655,0.9265
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-01,3442.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-02,3456.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-03,3334.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-04,3419.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-05,3403.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-06,3411.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-07,2875.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-08,3377.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-09,3477.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-10,3366.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-11,3300.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-12,3344.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 1&2,,CDQ 1&2 Steam Generation,CKPI CDQ 1&2 Steam Generation,2026-04-30,2026-04-13,3358.0,,3665.0,3374.6,3084.2
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-01,1548.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-02,1460.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-03,1429.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-04,1398.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-05,1535.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-06,1445.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-07,1605.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-08,1525.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-09,1420.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-10,1483.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-11,1401.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-12,1455.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-13,1481.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-14,1512.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-15,1456.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-16,1369.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-17,1367.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-18,1411.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-19,1259.0,,1636.0,1474.0,1312.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-20,2152.0,,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-21,2694.0,,3238.0,2857.0,2476.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-22,2523.0,,3238.0,2857.0,2476.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-23,2537.0,,3238.0,2857.0,2476.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-24,2567.0,,3238.0,2857.0,2476.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-25,2364.0,,3238.0,2857.0,2476.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,CDQ 3&4,,CDQ 3&4 Steam Generation,CKPI CDQ 3&4 Steam Generation.,2026-04-30,2026-04-26,2623.0,,3238.0,2857.0,2476.0
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-01,52.416666666666664,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-02,52.083333333333336,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-03,49.666666666666664,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-04,50.416666666666664,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-05,52.416666666666664,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-06,51.208333333333336,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-07,45.958333333333336,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-08,52.5,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-09,51.541666666666664,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-10,51.875,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-11,49.916666666666664,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-12,50.875,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-13,51.666666666666664,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-14,53.208333333333336,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-15,51.708333333333336,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-16,46.416666666666664,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-17,51.25,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-18,51.375,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-19,48.75,,56.23,52.09,47.94
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-20,61.875,,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-21,66.20833333333333,,73.06,64.93,56.81
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-22,63.916666666666664,,73.06,64.93,56.81
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-23,63.583333333333336,,73.06,64.93,56.81
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-24,58.416666666666664,,73.06,64.93,56.81
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-25,59.875,,73.06,64.93,56.81
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-04-30,2026-04-26,65.5,,73.06,64.93,56.81
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-01,98.45314709483218,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-02,98.3956783472794,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-03,102.47660509900992,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-04,101.21682105412056,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-05,99.29712359150813,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-06,100.09274881911534,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-07,99.96648751454886,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-08,99.92011695415248,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-09,99.84361321318237,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-10,96.4800914222954,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-11,98.2041260099051,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-12,99.94205345318848,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-13,99.9599323723438,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-14,100.0125984137786,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-15,99.94985576625788,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-16,100.58982457335294,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-17,104.37755880578364,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-18,101.05133910079869,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-19,100.24849338502509,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-20,100.07537903344834,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-21,100.07893314510824,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-22,100.13038723824604,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-23,100.1163692734679,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-24,100.04634274919064,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-25,100.11246400265338,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-26,100.17377101394932,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-27,100.20018572848318,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-28,97.3139282457168,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-29,98.68739154254727,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-04-30,2026-04-30,99.948699035596,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-01,100.098965682289,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-02,101.8867168449976,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-03,97.88162206061055,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-04,95.9347440665191,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-05,97.97558235593064,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-06,97.8229478553111,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-07,98.20562118680184,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-08,97.47044224930232,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-09,97.62616594856225,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-10,95.85747533173966,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-11,90.26843793288288,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-12,93.80375902393206,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-13,96.53216472803788,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-14,96.61476504974166,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-15,96.86531337465928,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-16,92.2548078957838,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-17,96.33144848143112,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-18,96.83208583206708,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-19,98.1130847270268,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-20,95.7322864868008,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-21,96.0555251187692,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-22,95.6281886338676,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-23,97.61784561791494,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-24,96.14588698292908,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-25,90.91217982369784,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-26,92.6898250501709,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-27,91.77804598080336,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-28,93.14193848526553,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-29,90.52648254243049,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-04-30,2026-04-30,84.35034159317348,100.0,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-01,4075.95533339946,4024.512857868211,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-02,4073.576130143866,4024.512857868211,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-03,4073.576130143866,4024.512857868211,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-04,4082.9628422121614,3863.254730919838,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-05,4081.398724925818,3934.9250095635593,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-06,4084.367679656239,4024.512857868211,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-07,4041.600505785464,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-08,4039.7257647096176,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-09,4036.632752582386,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-10,3900.647066686492,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-11,3970.3490161549166,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-12,4040.6126475821025,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-13,4041.335484309666,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-14,,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-15,,4038.358786011594,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-16,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-17,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-18,,3893.558520816411,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-19,,3965.7909889136167,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-20,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-21,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-22,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-23,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-24,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-25,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-26,,4056.081574035124,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-27,,4049.657063376593,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-28,,4049.657063376593,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-29,,4049.657063376593,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #3,,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-04-30,2026-04-30,,4049.657063376593,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-01,5233.806377562643,5075.718608918301,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-02,5196.435798124708,5075.718608918301,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-03,5063.997331224582,5075.718608918301,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-04,5016.074560838617,5075.718608918301,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-05,5122.782481164171,5075.718608918301,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-06,5114.80178508671,5075.718608918301,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-07,5134.810364688185,5093.181103788386,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-08,5096.370564781086,5093.181103788386,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-09,5104.51278368184,5092.520577565231,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-10,5062.034463180082,5092.902036478298,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-11,4769.804274953986,5093.181103788386,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-12,4954.65319868606,5093.181103788386,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-13,5097.311487684285,5093.181103788386,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-14,,5093.181103788386,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-15,,5093.181103788386,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-16,,5114.869672205927,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-17,,5115.252805193986,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-18,,5115.5330972220945,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-19,,5115.5330972220945,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-20,,5115.5330972220945,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-21,,5115.5330972220945,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-22,,5115.5330972220945,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-23,,5097.184568359903,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-24,,5078.83603949771,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-25,,5041.485075118451,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-26,,4996.605486538908,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-27,,4988.964617841912,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-28,,4988.964617841912,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-29,,4988.964617841912,,,
+Copy of DWM CO3 & CO4  April26 REV 01.xlsm,Coke Ovens,Coke Oven #4,,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-04-30,2026-04-30,,4988.964617841912,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,NA,Availability of CO 4 CD GDS Dedusting Units,MKPI Availability-CO 4 AB GDS ,2024-07-01,2024-07-01,3810.0,,4026.0,3845.0,3664.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,NA,Availability of CO 3 CD GDS Dedusting Units,MKPI Availability-CO 3 AB GDS ,2024-07-01,2024-07-01,3810.0,,4026.0,3845.0,3664.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-01,286.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-02,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-03,284.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-04,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-05,282.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-06,285.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-07,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-08,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-09,284.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-10,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #4 Charging and oven top Emission,CKPI Visible charging emis CO4,2024-08-01,2024-08-11,281.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-01,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-02,282.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-03,284.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-04,285.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-05,286.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-06,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-07,284.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-08,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-09,282.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-10,285.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-11,283.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-12,286.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke oven #3 Charging and oven top Emission,CKPI Visible charging emis CO3 ,2024-08-01,2024-08-13,282.0,,292.0,282.0,272.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,NA,Work Zone air Quality CO 4,M KPI Work Zone air CO 4,2024-07-01,2024-07-01,3810.0,,4026.0,3845.0,3664.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,NA,Work Zone air Quality CO 3,M KPI Work Zone air CO 3,2024-07-01,2024-07-01,3810.0,,4026.0,3845.0,3664.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,NA,Sp. Nox Emissions,MKPI Sp. Nox Emission,2024-07-01,2024-07-01,3810.0,,4026.0,3845.0,3664.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,NA,Sp. Sox Emissions,MKPI Sp. Sox Emission,2024-08-01,2024-08-01,3819.0,,4026.0,3845.0,3664.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-01,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-02,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-03,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-04,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-05,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-06,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-07,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-08,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-09,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-10,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-11,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-12,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-13,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-14,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-15,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-16,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-17,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-18,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-19,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-20,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-21,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-22,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-23,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-24,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-25,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-26,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-27,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-28,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-29,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-30,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals percentage  in the coal blend CO 4,CKPI Weak Coal% in Blend CO 4,2025-01-01,2025-01-31,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-01,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-02,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-03,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-04,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-05,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-06,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-07,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-08,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-09,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-10,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-11,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-12,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-13,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-14,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-15,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-16,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-17,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-18,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-19,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-20,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-21,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-22,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-23,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-24,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-25,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-26,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-27,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-28,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-29,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-30,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Reduce Coal Blend Cost at CO 4,MKPI Coal Blend Cost CO 4 Tr,2025-01-01,2025-01-31,,22738.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-01,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-02,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-03,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-04,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-05,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-06,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-07,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-08,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-09,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-10,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-11,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-12,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-13,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-14,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-15,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-16,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-17,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-18,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-19,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-20,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-21,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-22,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-23,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-24,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-25,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-26,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-27,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-28,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-29,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-30,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Weak coals in the coal blend CO 3,CKPI Weak Coal% in Blend CO 3,2025-01-01,2025-01-31,,24.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-01,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-02,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-03,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-04,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-05,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-06,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-07,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-08,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-09,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-10,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-11,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-12,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-13,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-14,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-15,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-16,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-17,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-18,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-19,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-20,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-21,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-22,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-23,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-24,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-25,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-26,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-27,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-28,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-29,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-30,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,Reduce Coal Blend Cost at CO 3,MKPI Coal Blend Cost CO 3 Tr,2025-01-01,2025-01-31,,22747.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-05-31,2026-05-01,80.19266455816906,,83.48,79.82,76.16
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-05-31,2026-05-02,80.26000405395405,,83.48,79.82,76.16
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Power Consumption CO#3,CKPI Sp Power Cons CO 3,2026-05-31,2026-05-03,80.64228221199848,,83.48,79.82,76.16
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-05-31,2026-05-01,76.92072260419366,,72.71,68.18,63.65
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-05-31,2026-05-02,74.8448760012058,,72.71,68.18,63.65
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Power Consumption CO#4,CKPI Sp Power Cons CO 4,2026-05-31,2026-05-03,74.92337938155214,,72.71,68.18,63.65
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-05-31,2026-05-01,0.8460379198657789,,0.8689,0.8173,0.7658
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Specific Heat Consumption CO#3,CKPI Sp Fuel Cons CO 3,2026-05-31,2026-05-02,0.8535940299884719,,0.8689,0.8173,0.7658
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-05-31,2026-05-01,0.8899410454056729,,0.9103,0.8179,0.7255
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Specific Heat Consumption CO#4,CKPI Sp Fuel Cons CO 4,2026-05-31,2026-05-02,0.8714459630210994,,0.9103,0.8179,0.7255
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-01,1970.0264447447362,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-02,1961.3716320589872,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-03,1954.9329481130421,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-04,1904.4870129872145,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-05,1946.888761721364,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-06,1902.557408702338,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-07,1917.6736612051063,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-08,1874.430081239864,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-09,1884.45314298917,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Coke Oven 4 Utility Consumption,MKPI Utility Cost CO 4,2026-05-31,2026-05-10,2002.1449608406374,,2129.1,1945.0,1761.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,,Injury free work place through monitoring of LTIFR,MKPI LTI Fr,2025-01-01,2025-01-01,3790.0,,4026.0,3845.0,3664.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Water Consumption CO#3,CKPI Water Cons CO 3,2026-05-31,2026-05-01,2959.0,,3228.1,3059.3,2890.6
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Water Consumption CO#3,CKPI Water Cons CO 3,2026-05-31,2026-05-02,2979.0,,3228.1,3059.3,2890.6
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Water Consumption CO#3,CKPI Water Cons CO 3,2026-05-31,2026-05-03,2986.0,,3228.1,3059.3,2890.6
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-05-31,2026-05-01,4168.0,,4526.0,4241.0,3955.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-05-31,2026-05-02,4162.0,,4526.0,4241.0,3955.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Water Consumption  CO#4,CKPI Water Cons CO 4,2026-05-31,2026-05-03,3988.0,,4526.0,4241.0,3955.0
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-05-31,2026-05-01,0.59,,0.62735,0.58852,0.5497
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-05-31,2026-05-02,0.6,,0.62735,0.58852,0.5497
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Sulphur CO#3,CKPI Coke Sulfur CO 3,2026-05-31,2026-05-03,0.59,,0.62735,0.58852,0.5497
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-05-31,2026-05-01,0.6,,0.62063,0.58761,0.5546
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-05-31,2026-05-02,0.59,,0.62063,0.58761,0.5546
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Sulphur CO#4,CKPI Coke Sulfur CO 4,2026-05-31,2026-05-03,0.59,,0.62063,0.58761,0.5546
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-05-31,2026-05-01,13.1,,13.692,13.266,12.841
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-05-31,2026-05-02,13.01,,13.692,13.266,12.841
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Ash CO#3,CKPI Coke Ash CO 3,2026-05-31,2026-05-03,13.0,,13.692,13.266,12.841
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-05-31,2026-05-01,13.43,,13.596,13.218,12.84
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-05-31,2026-05-02,13.38,,13.596,13.218,12.84
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Ash CO#4,CKPI Coke Ash CO 4,2026-05-31,2026-05-03,13.27,,13.596,13.218,12.84
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-05-31,2026-05-01,0.28,,0.4623,0.3036,0.145
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-05-31,2026-05-02,0.26,,0.4623,0.3036,0.145
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Moisture CO#3,CKPI Coke Moisture CO 3,2026-05-31,2026-05-03,0.33,,0.4623,0.3036,0.145
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-05-31,2026-05-01,0.43,,0.4099,0.295,0.1801
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-05-31,2026-05-02,0.31,,0.4099,0.295,0.1801
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Moisture CO#4,CKPI Coke Moisture CO 4,2026-05-31,2026-05-03,0.45,,0.4099,0.295,0.1801
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-05-31,2026-05-01,70.27,,72.596,70.503,68.409
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-05-31,2026-05-02,71.01,,72.596,70.503,68.409
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke CSR CO#3,CKPI Coke CSR CO 3,2026-05-31,2026-05-03,69.97,,72.596,70.503,68.409
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-05-31,2026-05-01,69.14,,72.18,69.886,67.592
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-05-31,2026-05-02,68.8,,72.18,69.886,67.592
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke CSR CO#4,CKPI Coke CSR CO 4,2026-05-31,2026-05-03,69.35,,72.18,69.886,67.592
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-05-31,2026-05-01,0.9866666666666667,,1.0067,0.9625,0.9183
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-05-31,2026-05-02,0.9866666666666667,,1.0067,0.9625,0.9183
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 3,Quality Index CO#3,MKPI Quality Index CO 3,2026-05-31,2026-05-03,0.9866666666666667,,1.0067,0.9625,0.9183
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-05-31,2026-05-01,0.9600000000000001,,1.0148,0.9616,0.9083
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-05-31,2026-05-02,0.88,,1.0148,0.9616,0.9083
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CO 4,Quality Index CO#4,MKPI Quality Index CO 4,2026-05-31,2026-05-03,0.9166666666666667,,1.0148,0.9616,0.9083
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,CDQ 1&2,NA,CDQ 1&2 Steam Generation,Sp. Steam Generation CDQ#1&#2,2026-05-31,2026-05-01,0.7322748511437466,,0.905,0.8355,0.7661
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,CDQ 1&2,NA,CDQ 1&2 Steam Generation,Sp. Steam Generation CDQ#1&#2,2026-05-31,2026-05-02,0.8462880940422747,,0.905,0.8355,0.7661
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,CDQ 1&2,NA,CDQ 1&2 Steam Generation,Sp. Steam Generation CDQ#1&#2,2026-05-31,2026-05-03,0.8633577806913533,,0.905,0.8355,0.7661
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,CDQ 3&4,NA,CDQ 3&4 Steam Generation,Sp. Steam Generation CDQ#3&#4,2026-05-31,2026-05-01,0.5702489800812292,,0.6404,0.5941,0.5479
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,CDQ 3&4,NA,CDQ 3&4 Steam Generation,Sp. Steam Generation CDQ#3&#4,2026-05-31,2026-05-02,0.5411915327266926,,0.6404,0.5941,0.5479
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,CDQ 3&4,NA,CDQ 3&4 Steam Generation,Sp. Steam Generation CDQ#3&#4,2026-05-31,2026-05-03,0.5603546864863537,,0.6404,0.5941,0.5479
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-05-31,2026-05-01,58.041666666666664,,73.06,64.93,56.81
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-05-31,2026-05-02,62.916666666666664,,73.06,64.93,56.81
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3&4,CDQ PP,CDQ Power Gen,MKPI CDQ Power Gen-MKPI,2026-05-31,2026-05-03,64.54166666666667,,73.06,64.93,56.81
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-01,99.48248547547237,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-02,103.7270643222687,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-03,101.97612399605562,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-04,99.73872596726993,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-05,99.76599282882444,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-06,99.94046234217362,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-07,99.72778934188507,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-08,99.67510492715144,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-09,99.81469351459336,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-10,99.78840705463824,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-11,99.6851954379946,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-12,99.79994301973429,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-13,99.85211643413595,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-14,99.74183343152639,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-15,98.74436186964232,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-16,103.50529680626208,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-17,101.84500191104695,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-18,99.39819085318207,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-19,99.37413815902667,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-20,99.55552956910985,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-21,99.63069789258984,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-22,99.48273149754587,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-23,99.48668473276683,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-24,99.4928167094071,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-25,100.13101784597735,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-26,97.57475922279352,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-27,98.89515526872978,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-28,100.24444239391062,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-29,100.86493600482402,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-30,100.0480357720922,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Daywise Prod. compliance as per BP CO 3,Daywise Prod Comp BP CO 3,2026-05-31,2026-05-31,100.22420121422482,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-01,90.65164635946802,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-02,92.4000361359315,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-03,92.74178158105096,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-04,92.90969229213806,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-05,92.05156112247148,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-06,93.3256120143306,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-07,93.71590138137235,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-08,90.29696604666827,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-09,91.29388174464731,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-10,92.70013910169148,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-11,90.61676671021456,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-12,94.2394616888311,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-13,95.1362116645689,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-14,95.82508702513299,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-15,95.1294009874762,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-16,93.86796071162115,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-17,94.49560018754836,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-18,96.63645173156378,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-19,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-20,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-21,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-22,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-23,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-24,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-25,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-26,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-27,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-28,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-29,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-30,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Daywise Prod. compliance as per BP CO 4,Daywise Prod Comp BP CO 4,2026-05-31,2026-05-31,,100.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-01,4042.198083652265,4046.4724999036157,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-02,4045.772783436603,3884.3344724882427,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-03,4043.51484178958,3948.814700271085,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-04,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-05,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-06,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-07,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-08,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-09,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-10,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-11,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-12,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-13,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-14,,4038.718780143321,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-15,,4052.2711746100645,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-16,,3889.90080021135,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-17,,3962.0654110552227,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-18,,4052.2711746100645,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-19,,4052.2711746100645,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-20,,4052.2711746100645,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-21,,4052.2711746100645,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-22,,4052.2711746100645,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-23,,4052.2711746100645,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-24,,4052.2711746100645,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-25,,4040.6405949696223,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-26,,4040.6405949696223,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-27,,4040.6405949696223,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-28,,4040.6405949696223,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-29,,4040.6405949696223,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-30,,4040.6405949696223,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #3,NA,Coke Production CO#3 Total/Month,MKPI CO 3 COKE PRODUCTION Tr,2026-05-31,2026-05-31,,4028.0,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-01,4670.630264989415,5074.515706301444,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-02,4758.958916496351,5074.515706301444,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-03,4776.223896383785,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-04,,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-05,,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-06,,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-07,,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-08,,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-09,,4938.864717571525,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-10,,4974.843964948565,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-11,,5010.823212325606,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-12,,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-13,,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-14,,5064.792083391167,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-15,,5081.787587149345,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-16,,5081.787587149345,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-17,,5081.787587149345,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-18,,5081.787587149345,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-19,,5081.787587149345,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-20,,5081.787587149345,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-21,,5081.787587149345,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-22,,5081.787587149345,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-23,,4955.437657286837,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-24,,4991.537637247552,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-25,,5013.207600758088,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-26,,5067.202152783928,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-27,,5067.202152783928,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-28,,5067.202152783928,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-29,,5067.202152783928,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-30,,5067.202152783928,,,
+DWM CO3 & CO4  May26.xlsm,Coke Ovens,Coke Oven #4,NA,Coke Production CO#4,MKPI CO 4 COKE PRODUCTION Tr,2026-05-31,2026-05-31,,5054.0,,,

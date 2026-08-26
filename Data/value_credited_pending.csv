@@ -1,0 +1,95 @@
+id,zone,dept,date,item_name,tonnage,action,status,submitted_at
+dc969c35,DIC Agglo,SP2345,2026-01-02,Metallic Scrap,15.92,delete,approved,05-03-2026 09:10:00
+0125a439,DIC Agglo,SP2345,2026-02-07,Metallic Scrap,9.54,delete,approved,05-03-2026 09:19:11
+9dd38eb6,DIC Agglo,SP2345,2026-01-02,Metallic scrap,15.92,add,approved,05-03-2026 09:20:01
+ddb69b76,DIC Agglo,SP2345,2026-03-03,Metallic scrap,7.42,add,approved,06-03-2026 09:47:44
+aefa9142,DIC Agglo,SP2345,2026-03-05,Metallic scrap,6.44,add,approved,06-03-2026 09:48:16
+e9986069,DIC Agglo,SP2345,2026-03-03,Metallic scrap,7.42,add,rejected,06-03-2026 09:48:52
+b8deaadb,DIC Agglo,SP2345,2026-03-05,Metal Scrap,10.63,add,approved,07-03-2026 09:11:50
+5453b8ce,DIC Agglo,SP2345,2026-03-06,Metal Scrap,9.26,add,approved,07-03-2026 09:12:09
+0fca6cef,DIC Agglo,SP2345,2026-03-06,Metal Scrap,8.21,add,approved,07-03-2026 09:12:23
+2156a833,DIC Agglo,SP2345,2026-03-02,Metallic scrap,1.96,add,approved,07-03-2026 09:13:43
+3cb08f97,DIC Agglo,SP2345,2026-03-03,Metallic scrap,2.79,add,approved,07-03-2026 09:13:56
+cc59fc89,DIC Agglo,SP2345,2026-03-03,Metallic scrap,2.79,add,rejected,07-03-2026 09:13:57
+f2439d1d,DIC Agglo,SP2345,2026-03-03,Metallic scrap,3.02,add,approved,07-03-2026 09:14:05
+9bd980e3,DIC Agglo,SP2345,2026-03-03,Metallic scrap,8.47,add,approved,07-03-2026 09:14:11
+e8ab8ce9,DIC Agglo,SP2345,2026-03-05,Metallic scrap,6.43,add,approved,07-03-2026 09:16:44
+d3119984,DIC Agglo,SP2345,2026-03-05,Metallic scrap,9.26,add,approved,07-03-2026 09:16:50
+d2067a68,DIC Mill,WRM-1 & BRM-1,2026-02-02,Wooden Scrap,1.2,add,approved,07-03-2026 15:34:47
+76a1df36,DIC Mill,WRM-1 & BRM-1,2026-02-25,Wooden Scrap,1.5,add,rejected,07-03-2026 15:35:05
+94f5aea0,DIC Mill,WRM-1 & BRM-1,2026-02-25,Wooden Scrap,1.5,add,rejected,07-03-2026 15:35:07
+8d1fe217,DIC Mill,WRM-1 & BRM-1,2026-02-25,Wooden Scrap,1.5,add,rejected,07-03-2026 15:35:07
+b92643bf,DIC Mill,WRM-1 & BRM-1,2026-02-25,Wooden Scrap,1.5,add,approved,07-03-2026 15:35:48
+687aca3b,DIC Mill,WRM-1 & BRM-1,2026-02-26,Wooden Scrap,1.35,add,approved,07-03-2026 15:36:23
+0d33a89a,DIC Mill,WRM-1 & BRM-1,2026-02-24,Wooden Scrap,0.9,add,approved,07-03-2026 15:36:45
+1b464555,DIC Mill,WRM-2 & BRM-2,2026-02-16,Wooden Scrap,2.5,add,approved,07-03-2026 17:54:21
+e69f8431,DIC Mill,WRM-2 & BRM-2,2026-02-18,Wooden Scrap,1.5,add,approved,07-03-2026 17:54:47
+e6504664,DIC Mill,WRM-2 & BRM-2,2026-02-19,Wooden Scrap,0.5,add,approved,07-03-2026 17:55:12
+4b93519d,DIC Agglo,SP2345,2026-03-07,Metallic scrap,7.06,add,approved,09-03-2026 11:03:28
+9cbe43c5,DIC Agglo,SP2345,2026-03-07,Metallic scrap,6.55,add,approved,09-03-2026 11:03:34
+649292c2,DIC Agglo,SP2345,2026-03-09,Metallic scrap,8.45,add,approved,10-03-2026 16:05:14
+5a4dfb7b,DIC Agglo,SP2345,2026-03-09,Metallic scrap,11.57,add,approved,10-03-2026 16:05:25
+8939759b,DIC Agglo,SP2345,2026-03-09,Grate Bars,4.08,add,approved,10-03-2026 16:05:36
+e7750e17,DIC Mill,WRM-1 & BRM-1,2026-02-21,Metallic Scrap,3.0,add,approved,11-03-2026 10:26:17
+cf8db680,DIC Mill,WRM-1 & BRM-1,2026-02-24,Metallic Scrap,11.5,add,approved,11-03-2026 10:26:38
+2dbb0755,DIC Mill,WRM-1 & BRM-1,2026-02-25,Metallic Scrap,9.86,add,approved,11-03-2026 10:26:53
+3a8b35e3,DIC Mill,WRM-1 & BRM-1,2026-02-23,Bearing Scrap,2.06,add,approved,11-03-2026 10:30:46
+bd3d276f,DIC Mill,WRM-1 & BRM-1,2025-12-05,Brass Scrap,0.3,add,approved,11-03-2026 10:31:57
+ee718928,DIC Mill,WRM-1 & BRM-1,2025-12-05,Brass Scrap,0.3,add,rejected,11-03-2026 10:32:00
+091d61a3,DIC Mill,WRM-1 & BRM-1,2025-12-05,Brass Scrap,0.3,add,rejected,11-03-2026 10:32:22
+de57d92e,DIC Iron Making,BF-5,2026-01-29,METALLIC SCRAP,6.79,add,approved,14-03-2026 17:59:15
+bd34447e,DIC Iron Making,BF-5,2026-01-29,METALLIC SCRAP,10.7,add,approved,14-03-2026 17:59:39
+a1e5a368,DIC Iron Making,BF-5,2026-01-29,METALLIC SCRAP,10.7,add,rejected,14-03-2026 17:59:41
+2faa4b3b,DIC Iron Making,BF-5,2026-01-28,METALLIC SCRAP,17.2,add,approved,14-03-2026 18:00:07
+9b132df6,DIC Iron Making,BF-5,2026-01-30,METALLIC SCRAP,2.9,add,approved,14-03-2026 18:01:19
+0bcd97f1,DIC Iron Making,BF-5,2026-01-29,METALLIC SCRAP,2.5,add,approved,14-03-2026 18:01:36
+201c9fe8,DIC Iron Making,BF-5,2026-01-31,METALLIC SCRAP,13.57,add,approved,14-03-2026 18:01:52
+de4bcc75,DIC Iron Making,BF-5,2026-01-31,METALLIC SCRAP,1.58,add,approved,14-03-2026 18:02:08
+265f9972,DIC Iron Making,BF-5,2026-01-31,METALLIC SCRAP,3.95,add,approved,14-03-2026 18:02:22
+95975c8a,DIC Iron Making,BF-5,2026-01-27,METALLIC SCRAP,15.78,add,approved,14-03-2026 18:02:38
+d1bc2b81,DIC Iron Making,BF-5,2026-03-02,METALLIC SCRAP,8.02,add,approved,14-03-2026 18:02:57
+d27cc6cb,DIC Mill,WRM-2 & BRM-2,2026-02-14,Wooden Scrap,1.3,add,approved,16-03-2026 11:29:34
+b1f28977,DIC Mill,WRM-2 & BRM-2,2026-02-16,Wooden Scrap,1.74,add,approved,16-03-2026 11:30:11
+09e4d5ac,DIC Mill,WRM-2 & BRM-2,2026-02-14,Wooden Scrap,0.95,add,approved,16-03-2026 11:30:38
+fa3fdfb4,DIC Mill,WRM-2 & BRM-2,2026-02-25,Metallic Scrap,4.22,add,approved,16-03-2026 11:31:19
+f27c9a37,DIC Mill,WRM-2 & BRM-2,2026-02-26,Metallic Scrap,3.55,add,approved,16-03-2026 11:31:49
+4ed5deac,DIC Mill,WRM-2 & BRM-2,2026-02-27,Metallic Scrap,1.71,add,approved,16-03-2026 11:32:23
+18a59893,DIC Agglo,SP2345,2026-03-10,Metallic Scrap,13.29,add,approved,16-03-2026 16:36:33
+b9a15a04,DIC Agglo,SP2345,2026-03-10,Metallic Scrap,14.16,add,approved,16-03-2026 16:36:44
+5b214060,DIC Agglo,SP2345,2026-03-12,Metallic Scrap,9.13,add,approved,16-03-2026 16:37:23
+3a6427c5,DIC Agglo,SP2345,2026-03-13,Metallic Scrap,10.96,add,rejected,16-03-2026 16:37:35
+d4a3a56d,DIC Agglo,SP2345,2026-03-13,Grate Bars,10.96,add,approved,16-03-2026 16:37:45
+5eb415fe,DIC Agglo,SP2345,2026-03-13,Grate Bars,2.69,add,approved,16-03-2026 16:37:56
+d55cda2e,DIC Agglo,SP2345,2026-03-14,Metallic Scrap,8.73,add,approved,16-03-2026 16:38:16
+63476689,DIC Utility,"CMD, ERS and ARS",2026-03-23,4900101289,7.6,add,approved,23-03-2026 13:08:06
+1c72a133,DIC Agglo,SP2345,2026-03-10,Metallic Scrap,2.2,add,approved,23-03-2026 15:11:13
+9c14c0fc,DIC Agglo,SP2345,2026-03-16,Metallic Scrap,2.18,add,approved,23-03-2026 15:11:34
+a146d35b,DIC Agglo,SP2345,2026-03-16,Metallic Scrap,2.17,add,approved,23-03-2026 15:11:51
+ee519243,DIC Agglo,SP2345,2026-03-17,Metallic Scrap,2.1,add,approved,23-03-2026 15:12:04
+e4056344,DIC Agglo,SP2345,2026-03-17,Metallic Scrap,1.4,add,approved,23-03-2026 15:12:14
+6602e8fe,DIC Agglo,SP2345,2026-03-17,Metallic Scrap,14.5,add,approved,23-03-2026 15:12:27
+a059a17a,DIC Agglo,SP2345,2026-03-18,Metallic Scrap,2.3,add,approved,23-03-2026 15:12:40
+56ab3e77,DIC Agglo,SP2345,2026-03-20,Metallic Scrap,2.09,add,approved,23-03-2026 15:13:00
+45c18946,DIC Agglo,SP2345,2026-03-20,Metallic Scrap,5.1,add,approved,23-03-2026 15:13:07
+65056e99,DIC Agglo,SP2345,2026-03-23,Metallic Scrap,18.06,add,approved,23-03-2026 15:13:20
+c2bdcb07,DIC Utility,"CMD, ERS and ARS",2026-03-23,4900101289,7.6,delete,pending,23-03-2026 15:48:22
+e09d9931,DIC Agglo,SP2345,2026-03-23,Metallic Scrap,2.36,add,approved,06-05-2026 16:10:30
+f643003a,DIC Agglo,SP2345,2026-03-23,Metallic Scrap,1.45,add,approved,06-05-2026 16:10:39
+056e2fdb,DIC Agglo,SP2345,2026-03-24,Metallic Scrap,4.3,add,approved,06-05-2026 16:10:55
+318ea1fb,DIC Agglo,SP2345,2026-03-30,Metallic Scrap,5.05,add,approved,06-05-2026 16:11:54
+290d0821,DIC Agglo,SP2345,2026-03-30,Metallic Scrap,2.29,add,rejected,06-05-2026 16:12:29
+ce764b9d,DIC Agglo,SP2345,2026-03-31,Metallic Scrap,2.29,add,approved,06-05-2026 16:12:38
+f1d23d0c,DIC Agglo,SP2345,2026-03-31,Metallic Scrap,6.25,add,approved,06-05-2026 16:12:47
+49c1e76d,DIC Agglo,SP2345,2026-03-31,Metallic Scrap,2.14,add,approved,06-05-2026 16:12:56
+677dc421,DIC Agglo,SP2345,2026-03-31,Metallic Scrap,1.71,add,approved,06-05-2026 16:13:02
+60387c4f,DIC Agglo,SP2345,2026-04-03,Metallic Scrap,3.56,add,approved,06-05-2026 16:14:04
+944c6096,DIC Agglo,SP2345,2026-04-04,Metallic Scrap,6.15,add,approved,06-05-2026 16:14:18
+694212a4,DIC Agglo,SP2345,2026-04-04,Metallic Scrap,15.67,add,approved,06-05-2026 16:14:30
+73394c9a,DIC Agglo,SP2345,2026-04-04,Metallic Scrap,9.05,add,rejected,06-05-2026 16:14:40
+81bcbcac,DIC Agglo,SP2345,2026-04-04,Metallic Scrap,12.18,add,rejected,06-05-2026 16:14:47
+e7970e1b,DIC Agglo,SP2345,2026-04-10,Metallic Scrap,12.18,add,approved,06-05-2026 16:16:03
+88d40360,DIC Agglo,SP2345,2026-04-10,Metallic Scrap,11.18,add,approved,06-05-2026 16:16:30
+f471e063,DIC Agglo,SP2345,2026-04-17,Metallic Scrap,9.05,add,approved,06-05-2026 16:16:40
+31beb6d1,DIC Agglo,SP2345,2026-04-24,Metallic Scrap,5.63,add,approved,06-05-2026 16:16:50
+14829939,DIC Agglo,SP2345,2026-04-27,Metallic Scrap,3.2,add,approved,06-05-2026 16:17:01
+4cba932c,DIC Agglo,SP2345,2026-04-30,Metallic Scrap,7.01,add,approved,06-05-2026 16:17:10

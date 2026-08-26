@@ -1,0 +1,76 @@
+﻿sl_no,model_area,zone,november_1s,december_1s,december_2s,february_1s,february_2s,february_3s,march_1s,march_2s,march_3s,march_4s,march_5s
+1,CRM-1 SPM-ECR,Mills,–,★★★★★,★★★★★,★★★★★,★★★,–,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+2,WRM#2 Roll Shop,Mills,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+3,WRM#1 RGS,Mills,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+4,Coke Oven-5 Achorage Room,Iron,★★★★★,★★★★★,★★★★★,–,–,–,★★★★,★★★★★,★★★,★★★,★★★
+5,Coke Oven-5 Hydraulic Room,Iron,★★★★★,★★★★★,★★★★★,★★★,★★★,–,★★★★,★★★★★,★★★,★★★,★★★
+6,ERS CMD,Service,–,★★★,–,★★,★★,–,★★★★,★★★,–,–,–
+7,PDQC Office,Service,★★★★★,★★,–,–,–,–,★★★★★,★★★★★,–,–,–
+8,BRM#2 RollShop,Mills,★★★★★,★★,–,★★★★★,★★★★,★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+9,"MSDS -1,2,3, Yard and Store",Service,,★★,–,★★★,★★★,–,★★★,★★★,–,–,–
+10,SP-1Electrical Sub Store,Agglo,★★★★,★★,–,★★,★,–,★★,★,–,–,–
+11,Ferro alloy store SMS2,Steel,–,–,–,–,–,–,★★,–,–,–,–
+12,LCP#2 Mechanical Store,Steel,–,–,–,★★,★,–,★★,★,–,,
+13,HSM#1 Roll Shop,Mills,–,–,–,–,–,–,–,–,–,–,–
+14,I-Shop,Service,★,★,–,★,★,–,★,★,–,–,–
+15,Roll shop HSM#2,Mills,–,★,–,★★★,★★,–,★★★,★★,–,–,–
+16,Sub Store HSM#2,Mills,–,★,–,★★★,★★★,–,★★★,★★★,–,–,–
+17,BF#4 Electrical Store,Iron,–,★,–,–,–,–,★★★,★★,–,–,–
+18,Caster repair area SMS#1,Steel,–,★,–,★★★,★★,–,★★★★★,★★★★,★,–,–
+19,RMHS 7MT ESS#4,RMHS,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,–,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+20,Electrical Sub Store (RHMS),RMHS,–,★★★★★,★★★,★★★,★★,–,★★★,★★,–,–,–
+21,EMD Gasline Workshop,Service,★★★★★,★★★★★,★★★,★★★,★★★,–,★★★,★★★,–,–,–
+22,Glass House project office,Service,–,★★★★★,★★★★★,★★★★★,★★★★★,★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+23,PPC MIS,Service,–,★,–,★★★★★,★★★★★,★,★★★★★,★★★★★,★★★★★,★★★,★★★
+24,BRM#1 Roll Shop,Mills,★★★★★,★★★★★,★★★★★,★★★★,★★★★,–,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+25,Corex Lab,Service,★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+26,BF#2  Stock house substore,Iron,–,–,–,★★,★★,–,★,★,–,–,–
+27,BF#2 E&I Store,Iron,★★,★★★,–,★★,★★,–,★★★★,★★★★★,–,–,–
+28,L&D Dept,Service,★★★,★★★★,★★★★★,★★★,★★,–,★★★★,★★★★★,★★,–,–
+29,TQM Department,Service,★★★,★★★★,★★★★★,★★★★★,★★★★★,★,★★★★★,★★★★★,★★★,–,–
+30,Utility,Service,★★★★,★★★★★,★★★★,★★★,★★,–,★★★,★★,–,–,–
+31,Commerial,Service,★★,★★★,–,–,–,–,★★★★,★★,–,–,–
+32,CSD,Service,–,★★,★★,★★★,★★,–,★★★★,★★★,★★★,–,–
+33,DRI Store,Steel,★★★,★★★★,★★★★,★★,★★,–,★★,★★,–,–,–
+34,Central Stores,Service,★★★★,★★★★,★★★★★,★★★,★★★,–,★★★★★,★★★★,★★,★★★★,★★
+35,Locomotive Service Centre,Service,–,★★★★★,★★★,–,–,–,★★★,★★★,–,–,–
+36,IGPL - J3 Control Room,Service,–,★★★★,★★★,★★★★,★★★,–,★★★★,★★★,–,–,–
+37,Pellet plant 3 Store,Agglo,★★★,★★★,–,–,–,–,★★★★★,★★★★★,★★★★,★★★★,★★★★
+38,Pellet plant 2 Store,Agglo,★★,★★★★★,★★★,★★★★★,★★★★★,–,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+39,OBP-2 Mechanical substore,Agglo,–,★★,–,★★,★,–,★★,★★,–,–,–
+40,Fire Service Store,Service,–,★★★★★,★★★★★,★★★★★,★★★★★,,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+41,Maintanance Area Spares CAL&CGL - CRM2,Mills,–,★★★,–,–,–,–,★★★,★★★,–,–,–
+42,"Corex 1,2 Mechanical Substore",Iron,★★★,★★★★,–,★★★,★★,–,★★,★★,–,–,–
+43,CO-4 Bonding Press Room,Iron,★★★,★★★★★,★★★,★★★,★★★,–,★★★★,★★★★,★,–,–
+44,R&D Chemical Laboratory,Service,★★★,★★★,–,★★★★★,★★★★,–,★★★★,★★★★,★★★,–,–
+45,Environment Laboratory,Service,★★,★★,–,★★,★★,–,★★,★★,–,–,–
+46,H O Mines,Mines,★★,★★★,–,★★★★,★★,–,★★★★,★★,–,–,–
+47,Bhadra mines,Mines,★★,★★★,–,–,–,–,–,–,–,–,–
+48,Tunga mines,Mines,,★★★,–,–,–,–,–,–,–,–,–
+49,Nandi mines,Mines,★★,★★★,–,–,–,–,–,–,–,–,–
+50,Devadari mines,Mines,★,★★,–,–,–,–,–,–,–,–,–
+51,Dharma mines,Mines,★,★,–,★★★★,★★★,–,★★★★★,★★★★★,★★★,–,–
+52,Rama mines,Mines,★★,★★,–,–,–,–,–,–,–,–,–
+53,Narayana mines,Mines,–,★,–,–,–,–,–,–,–,–,–
+54,Ubbalagundi Mines,Mines,–,–,–,–,–,–,–,–,–,–,–
+55,Bhooman Mines,Mines,–,–,–,–,–,–,–,–,–,–,–
+56,CAL-2 CRM2 - trimmer,Mills,–,–,–,★★★,★★,–,★★★★★,★★★★★,★★,–,–
+57,"Steel House, Admin Area",Service,–,–,–,–,–,–,–,–,–,–,–
+58,BF5 ECR2 E&I Store,Iron,★,–,–,–,–,–,★★★★,★★★★,★★,–,–
+59,SP-5 road works,Service,–,–,–,–,–,–,–,–,–,–,–
+60,RMHS office (18 MT / JVML),RMHS,–,–,–,–,–,–,–,–,–,–,–
+61,RMHS control room (5 MT),RMHS,–,–,–,★★★,★★,–,★★★,★★,–,–,–
+62,Workshop HSM#2,Mills,–,–,–,–,–,–,–,–,–,–,–
+63,HSM#3 Roll Shop,Mills,–,–,–,–,–,–,–,–,–,–,–
+64,CRM2 PLTCM Spare Maintenance,Mills,–,–,–,★★★,★★★,–,★★★,★★★,–,–,–
+65,Mechanical store & Workshop SP3,Agglo,–,–,–,–,–,–,–,–,–,–,–
+66,CRM-2 YMS Room,Mills,–,–,–,★★★★,★★★★,–,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+67,CRM -2  RCL Mechanical Stores,Mills,–,–,–,★★★★★,★★★,–,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+68,CRM -2 RCL Electrical,Mills,–,–,–,★★★★,★★★,–,★★★,★★★,–,–,–
+69,CRM -1 RCL,Mills,–,–,–,★★★★,–,–,★★★★,★★★,–,–,–
+70,CO-3 AB Battery anchorage Room,Iron,–,–,–,★★★,★★★,–,★★★★★,★★★★★,–,–,–
+71,CO-3 CD Battery anchorge Room,Iron,–,–,–,–,–,–,★★★★★,★★★★★,–,–,–
+72,CO-3Hydraulic Store Room,Iron,–,–,–,★,★★,–,★★★★★,★★★★★,–,–,–
+73,CO-4 Operations Store Room,Iron,–,–,–,★★,★★,–,★★,★★,–,–,–
+74,CRM-1 CGL2,Mills,–,–,–,–,–,–,★★★,★★,–,–,–
+75,CRM-2 PLTCM ECR,Mills,–,–,–,–,–,–,★★★,★★,–,–,–

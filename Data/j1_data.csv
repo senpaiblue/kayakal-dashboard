@@ -1,0 +1,895 @@
+Employee ID,EMail ID,Score,Practical Score,Grace Mark,Total Score,Attempted On,Status,Attempt No,Department,Name,Zone,Date,No of people regisered,Column 14,Column 15
+1093850,shyam.sharma3@jsw.in,58,27,0,85,17/01/2026,PASS,2,Raw Material Handling System,Shyam Sunder Sharma,DIC RMHS,2/3/2026,14,,"true"
+1107636,bahirudheen.samad@jsw.in,64,22,0,86,17/01/2026,PASS,1,CRGO,Bahirudheen Abdul Samad,DIC Mill,2/4/2026,31,,"true"
+1018828,sanjay.vk@jsw.in,71,6,0,77,17/01/2026,PASS,1,Logistics,V K Sanjay,Services,2/5/2026,14,,"true"
+1105588,sushil.kumar4@jsw.in,49,12,0,61,17/01/2026,FAIL,1,Logistics,Sushil Kumar,Services,2/7/2026,12,,"true"
+1107540,s.sidharth@jsw.in,44,40,0,84,17/01/2026,PASS,1,Total Quality Management,S Sidharth,Services,2/8/2026,3,,"true"
+1107618,umaima.lutfi@jsw.in,69,40,0,109,17/01/2026,SILVER,1,Total Quality Management,Umaima Lutfi,Services,2/9/2026,18,,"true"
+1107534,sakcham.singh@jsw.in,55,40,0,95,17/01/2026,BRONZE,1,Total Quality Management,Sakcham Singh,Services,2/11/2026,15,,"true"
+1107648,kratika.patidar@jsw.in,50,40,0,90,17/01/2026,PASS,1,Total Quality Management,Kratika Patidar,Services,2/12/2026,10,,"true"
+1105974,y.pankaj@jsw.in,63,40,0,103,17/01/2026,SILVER,1,Total Quality Management,Pankaj Kumar Yadav,Services,2/13/2026,6,,"true"
+1105742,madhav.warrier@jsw.in,70,35,0,105,27/01/2026,SILVER,1,Utilities,Madhav N Warrier,Services,2/16/2026,10,,"true"
+1105734,affan.b@jsw.in,61,20,0,81,27/01/2026,PASS,1,Cold Rolling Mill II,Affan Ahamed B,DIC Mill,2/17/2026,11,,"true"
+1100986,nareshprasath.g@jsw.in,65,26,0,91,27/01/2026,BRONZE,1,Steel Melting Shop I,NARESH PRASATH G,DIC Steel,2/19/2026,12,,"true"
+1032929,nagender.muddasami@jsw.in,43,10,0,53,28/01/2026,FAIL,3,Technology Excellence,M Nagender,Services,2/20/2026,2,,"true"
+1105807,ajwad.m@jsw.in,48,28,0,76,28/01/2026,PASS,1,Energy Management,Ajwad S M,DIC Utility,2/21/2026,16,,"true"
+1043618,manojk.sharma@jsw.in,47,29,0,76,28/01/2026,PASS,2,Logistics,Manoj Kumar Sharma,Services,2/22/2026,6,,"true"
+1090656,ummadi.raviteja@jsw.in,65,37,0,102,28/01/2026,SILVER,1,Product Development & Quality Control,Ummadi Raviteja,Services,2/23/2026,5,,"true"
+1096114,vigneshwar.m@jsw.in,72,13,0,85,28/01/2026,PASS,1,Steel Melting Shop I,Vigneshwar M,DIC Steel,2/24/2026,2,,"true"
+1101624,aryan.rana@jsw.in,63,27,0,90,29/01/2026,PASS,1,Human Resources - IED ,ARYAN RANA,,2/25/2026,8,,"true"
+1100630,balivada.meghana@jsw.in,79,19,0,98,29/01/2026,BRONZE,1,Mines,BALIVADA SAI MEGHANA,Mines,2/27/2026,6,,"true"
+1030921,vinay.rajput@jsw.in,46,10,0,56,29/01/2026,FAIL,2,Cold Rolling Mill I,Vinay Udaysing Rajput,DIC Mill,2/28/2026,20,,"true"
+1107475,jeba.j@jsw.in,51,0,0,51,29/01/2026,FAIL,1,Cold Rolling Mill II,Jeba Samuel Adam J,DIC Mill,3/1/2026,23,,"true"
+1030905,suresh.m@jsw.in,46,8,0,54,29/01/2026,FAIL,2,Cold Rolling Mill I,Suresh Sable M,DIC Mill,3/2/2026,5,,"true"
+1044915,naga.bhushan@jsw.in,59,25,0,84,30/01/2026,PASS,1,Central Maintenance,Nagabhushana R K,Services,3/4/2026,4,,"true"
+1107514,sandeep.mandal@jsw.in,38,0,0,38,30/01/2026,FAIL,1,Cold Rolling Mill I,Sandeep Mandal,DIC Mill,3/6/2026,7,,"true"
+1032304,ganesh.kushwaha@jsw.in,0,5,58,63,30/01/2026,FAIL,3,Cold Rolling Mill I,Ganesh Kushwaha,DIC Mill,3/7/2026,8,,"false"
+1101996,praful.kumar@jsw.in,41,11,0,52,30/01/2026,FAIL,1,Cold Rolling Mill I,Praful Kumar,DIC Mill,3/8/2026,6,,"true"
+1089980,santosh.kumar7@jsw.in,75,12,0,87,30/01/2026,PASS,1,Mines,Santosh Kumar,Mines,3/9/2026,10,,"true"
+1095506,teja.damerla@jsw.in,55,23,0,78,30/01/2026,PASS,1,Mines,Teja Damerla,Mines,3/10/2026,12,,"true"
+1101677,chethan.lolla@jsw.in,60,23,0,83,30/01/2026,PASS,1,Utilities,CHETHAN DATTA LOLLA,Services,3/11/2026,22,,"true"
+1105806,sudhan.v@jsw.in,47,8,0,55,30/01/2026,FAIL,1,Cold Rolling Mill I,Sudhan V,DIC Mill,3/12/2026,12,,"true"
+1096021,gowthamm.p@jsw.in,0,28,56,84,30/01/2026,PASS,1,"Sinter Plant II,III,IV,V",Gowthamm P,DIC Agglotech,3/13/2026,15,,"false"
+1100938,kaviraj.sn@jsw.in,46,30,0,76,30/01/2026,PASS,1,Raw Material Handling System,Kaviraj S N,DIC RMHS,3/15/2026,2,,"true"
+1103104,vivek.goswami@jsw.in,46,8,0,54,30/01/2026,FAIL,1,Cold Rolling Mill I,Vivek Kumar Goswami,DIC Mill,3/16/2026,20,,"true"
+1104984,harshit.belji@jsw.in,59,23,0,82,30/01/2026,PASS,1,Cold Rolling Mill I,Harshit Bijendra Belji,DIC Mill,3/18/2026,31,,"true"
+1104480,balaji.r@jsw.in,38,18,0,56,30/01/2026,FAIL,1,"Sinter Plant II,III,IV,V",Balaji R,DIC Agglotech,3/19/2026,12,,"true"
+1100829,jeffrin.jr@jsw.in,80,24,0,104,30/01/2026,SILVER,1,Utilities,Jeffrin J R,Services,3/20/2026,0,,"true"
+1103981,dipayan.mukherjee@jsw.in,39,16,0,55,30/01/2026,FAIL,1,Cold Rolling Mill I,DIPAYAN MUKHERJEE,DIC Mill,3/21/2026,0,,"true"
+1093745,dipak.sinha@jsw.in,57,10,0,67,30/01/2026,FAIL,2,Cold Rolling Mill II,DIPAK KUMAR SINHA,DIC Mill,3/22/2026,12,,"true"
+1026561,havappa.gadiganur@jsw.in,37,6,0,43,31/01/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",Havappa K,Services,3/23/2026,1,,"true"
+1105933,samantha.jibu@jsw.in,53,28,0,81,31/01/2026,PASS,2,Cold Rolling Mill II,Samantha Clara Jibu,DIC Mill,3/25/2026,15,,"true"
+1105705,mithun.s@jsw.in,48,7,0,55,31/01/2026,FAIL,1,Raw Material Handling System,Mithun Bharathy K S,DIC RMHS,3/26/2026,12,,"true"
+1096125,bhoomika.kn@jsw.in,47,22,0,69,31/01/2026,FAIL,1,Central Maintenance,Bhoomika K N,Services,3/27/2026,22,,"true"
+1096088,archana.h@jsw.in,51,8,0,59,31/01/2026,FAIL,1,"Sinter Plant II,III,IV,V",Archana H,DIC Agglotech,3/28/2026,23,,"true"
+1049949,hpviswanatha.goud@jsw.in,37,16,0,53,31/01/2026,FAIL,2,Projects,H P Viswanatha Goud,projects,3/29/2026,5,,"true"
+1105932,bezawada.yashwitha@jsw.in,81,40,0,121,31/01/2026,PLATINUM,1,Production Planning & Control (PPC),Bezawada Yashwitha,Services,3/30/2026,6,,"true"
+1103291,mohammadgouse.d@jsw.in,44,10,0,54,31/01/2026,FAIL,1,"Sinter Plant II,III,IV,V",MOHAMMAD GOUSE D,DIC Agglotech,3/31/2026,18,,"true"
+1101732,y.gaurav@jsw.in,54,30,0,84,31/01/2026,PASS,1,Production Planning & Control (PPC),GAURAV YADAV,Services,,,,"true"
+1105765,vysyaraju.raj@jsw.in,52,6,0,58,31/01/2026,FAIL,1,Cold Rolling Mill I,Vysyaraju Prudhvi Raj,DIC Mill,,,,"true"
+1103739,prasad.barawkar@jsw.in,57,20,0,77,31/01/2026,PASS,1,Logistics,Prasad Ramchandra Barawkar,Services,,,,"true"
+1041596,chandru.haramuchudi@jsw.in,49,8,0,57,31/01/2026,FAIL,1,"Sinter Plant II,III,IV,V",Chandru H E,DIC Agglotech,,,,"true"
+1096202,meka.geethavani@jsw.in,49,8,0,57,31/01/2026,FAIL,1,Beneficiation II,MEKA GEETHAVANI,DIC Agglotech,,,,"true"
+1105947,akula.madhuri@jsw.in,79,0,0,79,2/2/2026,PASS,1,"Commercial,Commercial Stores,Central Planning Team",Akula Sai Madhuri,Services,,,,"true"
+1103855,upender.pudari@jsw.in,45,12,0,57,2/2/2026,FAIL,1,Cold Rolling Mill I,Upender Pudari,DIC Mill,,,,"true"
+1101579,ritik.kumar@jsw.in,41,0,0,41,2/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",RITIK KUMAR,DIC Mill,,,,"true"
+1102663,muhammedfarhan.mullaabdulshukoor@jsw.in,57,19,0,76,2/2/2026,PASS,1,"Wire Rod Mill I,Bar Rod Mill I",Muhammed Farhan Mulla Abdul Shukoor,DIC Mill,,,,"true"
+1105876,koushiq.m@jsw.in,56,8,0,64,2/2/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",Koushiq M M,Services,,,,"true"
+1096072,vigneshwaran.s@jsw.in,79,17,0,96,2/2/2026,BRONZE,1,Coke Ovens V,Vigneshwaran S,DIC Cokeoven,,,,"true"
+1107496,santhoshraj.br@jsw.in,38,38,0,76,2/2/2026,PASS,1,Hot Strip Mill I,Santhosh Raj B R,DIC Mill,,,,"true"
+1099666,sourabh.tiwari@jsw.in,50,2,0,52,2/2/2026,FAIL,1,"Sinter Plant II,III,IV,V",Sourabh Tiwari,DIC Agglotech,,,,"true"
+1096130,amgoth.ganesh@jsw.in,43,4,0,47,2/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",AMGOTH GANESH,DIC Mill,,,,"true"
+1105774,visakan.n@jsw.in,24,2,0,26,2/2/2026,FAIL,1,Raw Material Handling System,Visakan N,DIC RMHS,,,,"true"
+8015442,genathikatti.savitramma@jsw.in,41,0,0,41,2/2/2026,FAIL,1,Mines,Genathikatti Savitramma,Mines,,,,"true"
+1105696,suganth.r@jsw.in,52,2,0,54,2/2/2026,FAIL,1,Raw Material Handling System,SUGANTH S R,DIC RMHS,,,,"true"
+1095260,p.mkrishna@jsw.in,53,12,0,65,2/2/2026,FAIL,1,"Civil & Engineering Services,Structural",M Krishna Podagatlapalli,Services,,,,"true"
+1093961,mohammad.muzzammil@jsw.in,81,32,0,113,2/2/2026,GOLD,1,Central Maintenance,Mohammad Muzzammil,Services,,,,"true"
+1105723,s.siva@jsw.in,47,15,0,62,2/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",Siva S,DIC Mill,,,,"true"
+1105729,iyappan.r@jsw.in,40,2,0,42,2/2/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",Iyappan R,Services,,,,"true"
+1105695,mirthulaa.cs@jsw.in,69,0,0,69,2/2/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",MIRTHULAA C S,Services,,,,"true"
+1105692,sreelakshmy.menon@jsw.in,73,40,0,113,2/2/2026,GOLD,2,Total Quality Management,Sreelakshmy R Menon,Services,,,,"true"
+1200695,kanchanapalli.raju@jsw.in,0,40,82,122,2/2/2026,PLATINUM,2,Total Quality Management,Kanchana Palli Snehith Raju,Services,,,,"false"
+1043635,dileep.n@jsw.in,57,19,0,76,3/2/2026,PASS,2,"Wire Rod Mill I,Bar Rod Mill I",Dileep N,DIC Mill,,,,"true"
+1032963,prashant.kumar@jsw.in,61,16,0,77,3/2/2026,PASS,2,Mines,Prashant Kumar V,Mines,,,,"true"
+1107606,ronit.dey@jsw.in,44,12,0,56,3/2/2026,FAIL,1,Cold Rolling Mill II,Ronit Dey,DIC Mill,,,,"true"
+1101723,mangipudi.sanjana@jsw.in,59,14,0,73,3/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",MANGIPUDI SANJANA,DIC Mill,,,,"true"
+1027351,padma.priya@jsw.in,44,8,0,52,3/2/2026,FAIL,2,"Commercial,Commercial Stores,Central Planning Team",M Padma Priya,Services,,,,"true"
+1026911,makthal.harsha@jsw.in,42,18,0,60,3/2/2026,FAIL,2,"Commercial,Commercial Stores,Central Planning Team",Harsha M,Services,,,,"true"
+8015156,sachin.chikodi@jsw.in,40,6,0,46,3/2/2026,FAIL,1,,,,,,,"true"
+1107588,jarapala.srihari@jsw.in,39,6,0,45,3/2/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",Jarapala Srihari,Services,,,,"true"
+1105763,santhoshchakravarthy.e@jsw.in,29,14,0,43,3/2/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",Santhosh Chakravarthy E,Services,,,,"true"
+1095367,priyanka.k@jsw.in,79,18,0,97,3/2/2026,BRONZE,1,"Commercial,Commercial Stores,Central Planning Team",PRIYANKA K,Services,,,,"true"
+1100714,edwinadharsh.ds@jsw.in,47,2,0,49,3/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",EDWIN ADHARSH D S,DIC Mill,,,,"true"
+1099522,pramod.patel@jsw.in,43,14,0,57,3/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",Pramod Kumar Patel,DIC Mill,,,,"true"
+1101802,sahil.kumar@jsw.in,33,4,0,37,3/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",Sahil Kumar,DIC Mill,,,,"true"
+1095431,srikanth.bavu@jsw.in,62,28,0,90,3/2/2026,PASS,1,Cold Rolling Mill II,Srikanth Bavu,DIC Mill,,,,"true"
+1100066,sunil.dangi@jsw.in,55,0,0,55,3/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",Sunil Dangi,DIC Mill,,,,"true"
+1101056,abhishek.vaibhav@jsw.in,74,28,0,102,3/2/2026,SILVER,1,Cold Rolling Mill II,Abhishek Kumar Vaibhav,DIC Mill,,,,"true"
+1045847,rohit.marigoudar@jsw.in,60,32,0,92,3/2/2026,BRONZE,2,Production Planning & Control (PPC),Rohit Basanagouda Marigoudar,Services,,,,"true"
+1094397,n.bhargavkumar@jsw.in,58,20,0,78,3/2/2026,PASS,1,Production Planning & Control (PPC),Bhargav Kumar Nidadavolu,Services,,,,"true"
+1100709,daniel.stephens@jsw.in,50,18,0,68,3/2/2026,FAIL,1,Raw Material Handling System,DANIEL STEPHEN S,DIC RMHS,,,,"true"
+1096014,gurudev.m@jsw.in,59,32,0,91,3/2/2026,BRONZE,3,Raw Material Handling System,GURUDEV M,DIC RMHS,,,,"true"
+1096161,nithyasri.a@jsw.in,56,20,0,76,3/2/2026,PASS,2,Central Maintenance,NITHYASRI A,Services,,,,"true"
+1105709,harisankar.j@jsw.in,55,22,0,77,4/2/2026,PASS,1,Cold Rolling Mill I,Harisankar V J,DIC Mill,,,,"true"
+1095010,abdul.farooqui@jsw.in,0,23,79,102,4/2/2026,SILVER,2,Cold Rolling Mill II,Abdul Hakim Farooqui,DIC Mill,,,,"false"
+1093829,a.murty@jsw.in,45,12,0,57,4/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",A SURYANARAYAN MURTY,DIC Mill,,,,"true"
+1095370,aswin.raja@jsw.in,78,29,0,107,4/2/2026,SILVER,1,"Wire Rod Mill I,Bar Rod Mill I",Aswin Raj A,DIC Mill,,,,"true"
+1100655,thejashri.v@jsw.in,57,19,0,76,4/2/2026,PASS,1,"Wire Rod Mill I,Bar Rod Mill I",THEJASHRI V,DIC Mill,,,,"true"
+1100745,ananth.k@jsw.in,57,19,0,76,4/2/2026,PASS,1,"Wire Rod Mill I,Bar Rod Mill I",ANANTH K,DIC Mill,,,,"true"
+1020124,nareshreddy.sura@jsw.in,62,32,0,94,4/2/2026,BRONZE,1,Coke Ovens V,Naresh Reddy Sura,DIC Cokeoven,,,,"true"
+1096004,barath.r@jsw.in,50,30,0,80,4/2/2026,PASS,1,Central Maintenance,BARATH R,Services,,,,"true"
+1105733,amirthan.k@jsw.in,44,0,0,44,4/2/2026,FAIL,1,"Wire Rod Mill II,Bar Rod Mill II,LRCP Strand",Amirthan K,DIC Mill,,,,"true"
+1097455,s.poloju@jsw.in,59,18,0,77,4/2/2026,PASS,1,"Blast Furnace III,IV",POLOJU SIDHARDHACHARY,DIC Iron making,,,,"true"
+1107467,dharanesh.r@jsw.in,67,9,0,76,4/2/2026,PASS,1,Hot Strip Mill III,Dharanesh R,DIC Mill,,,,"true"
+1105879,n.dhamodharan@jsw.in,84,2,0,86,4/2/2026,PASS,1,"Commercial,Commercial Stores,Central Planning Team",N Dhamodharan,Services,,,,"true"
+1094115,uppalapati.venkatesh@jsw.in,55,21,0,76,4/2/2026,PASS,1,Production Planning & Control (PPC),UPPALAPATI VENKATESH,Services,,,,"true"
+1107486,pramath.m@jsw.in,72,0,0,72,5/2/2026,FAIL,1,CRGO,Pramath Srivathsa M,DIC Mill,,,,"true"
+1096224,abhirami.a@jsw.in,43,8,0,51,5/2/2026,FAIL,1,Central Maintenance,Abhirami A,Services,,,,"true"
+1047328,yakoob.sm@jsw.in,55,16,0,71,5/2/2026,FAIL,1,Technology Excellence,Yakoob S M,Services,,,,"true"
+1091391,ch.raju@jsw.in,81,37,0,118,5/2/2026,GOLD,1,Product Development & Quality Control,Ch Raju,Services,,,,"true"
+1025305,manjula.heera@jsw.in,44,0,0,44,5/2/2026,FAIL,2,"Commercial,Commercial Stores,Central Planning Team",R Manjula,Services,,,,"true"
+1095349,bhanu.ankam@jsw.in,51,14,0,65,5/2/2026,FAIL,1,"Blast Furnace III,IV",BHANU TEJA ANKAM,DIC Iron making,,,,"true"
+1105899,samyuktha.b@jsw.in,48,0,0,48,5/2/2026,FAIL,1,Blast Furnace V,Samyuktha B,DIC Iron making,,,,"true"
+1107499,ashwien.p@jsw.in,61,22,0,83,5/2/2026,PASS,1,CRGO,Ashwien S P,DIC Mill,,,,"true"
+1023795,g.santhoshkumar@jsw.in,56,39,0,95,5/2/2026,BRONZE,2,Production Planning & Control (PPC),Santhosh Kumar G,Services,,,,"true"
+1092475,abhishek.sadashiv@jsw.in,69,8,0,77,6/2/2026,PASS,1,Steel Melting Shop III,Abhishek Sadashiv,DIC Steel,,,,"true"
+1023774,mallikarjuna.ayyanagouda@jsw.in,58,34,0,92,6/2/2026,BRONZE,1,Hot Strip Mill I,Mallikarjuna .,DIC Mill,,,,"true"
+1096020,rajneesh.patelk@jsw.in,50,28,0,78,6/2/2026,PASS,1,Production Planning & Control (PPC),RAJNEESH KUMAR PATEL,Services,,,,"true"
+1026529,lokesha.k@jsw.in,53,25,0,78,6/2/2026,PASS,1,Steel Melting Shop I,Lokesha K,DIC Steel,,,,"true"
+1102661,sreekiran.v@jsw.in,58,8,0,66,6/2/2026,FAIL,1,Steel Melting Shop IV,SREEKIRAN V,DIC Steel,,,,"true"
+1107465,shanmugam.v@jsw.in,72,30,0,102,6/2/2026,SILVER,2,Cold Rolling Mill I,Shanmugam V,DIC Mill,,,,"true"
+1092320,gaurv.swami@jsw.in,51,18,0,69,6/2/2026,FAIL,1,"Wire Rod Mill II,Bar Rod Mill II,LRCP Strand",Gaurv Swami,DIC Mill,,,,"true"
+1096195,n.eswarajaysai@jsw.in,74,37,0,111,6/2/2026,GOLD,1,Cold Rolling Mill II,Eswar Ajay Sai Nuthakki,DIC Mill,,,,"true"
+1107794,pankaj.gupta4@jsw.in,54,8,0,62,6/2/2026,FAIL,1,"Wire Rod Mill I,Bar Rod Mill I",Pankaj Kumar Gupta,DIC Mill,,,,"true"
+1105714,k.hariprasath@jsw.in,48,17,0,65,7/2/2026,FAIL,1,Utilities,K Hariprasath,Services,,,,"true"
+1103977,vishal.malakar@jsw.in,41,16,0,57,7/2/2026,FAIL,1,Cold Rolling Mill I,VISHAL MALAKAR,DIC Mill,,,,"true"
+1105964,sanjaykumaran.s@jsw.in,47,0,0,47,7/2/2026,FAIL,1,Central Maintenance,Sanjaykumaran S,Services,,,,"true"
+1100635,tanushkumaar.p@jsw.in,53,18,0,71,7/2/2026,FAIL,1,Cold Rolling Mill I,TANUSHKUMAAR P,DIC Mill,,,,"true"
+1101333,mahadev.patidar@jsw.in,55,12,0,67,7/2/2026,FAIL,1,Cold Rolling Mill I,Mahadev Patidar,DIC Mill,,,,"true"
+1105749,dhanvarsh.d@jsw.in,45,0,0,45,7/2/2026,FAIL,1,Central Maintenance,Dhanvarsh D,Services,,,,"true"
+1100955,kumar.abhay@jsw.in,71,20,0,91,7/2/2026,BRONZE,1,Hot Strip Mill II,KUMAR ABHAY,DIC Mill,,,,"true"
+1088349,kiran.math@jsw.in,53,19,0,72,7/2/2026,FAIL,1,Projects,Kiran Math,projects,,,,"true"
+1091677,shubham.pandey1@jsw.in,58,14,0,72,7/2/2026,FAIL,1,Projects,Shubham Pandey,projects,,,,"true"
+1095955,laxman.katkuri@jsw.in,50,11,0,61,7/2/2026,FAIL,1,Steel Melting Shop III,LAXMAN KATKURI,DIC Steel,,,,"true"
+1027962,karthikeya.nikkam@jsw.in,62,40,0,102,7/2/2026,SILVER,1,Steel Melting Shop III,Karthikeya Nikkam,DIC Steel,,,,"true"
+1100674,mohammed.faizalst@jsw.in,58,18,0,76,7/2/2026,PASS,1,Central Maintenance,MOHAMMED FAIZAL S T,Services,,,,"true"
+1030676,surendra.jogi@jsw.in,31,20,0,51,7/2/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",Surendra Jogi,Services,,,,"true"
+1107494,monica.v@jsw.in,48,0,0,48,7/2/2026,FAIL,1,Hot Strip Mill II,Monica A V,DIC Mill,,,,"true"
+1105810,boobalan.r@jsw.in,32,8,0,40,7/2/2026,FAIL,1,Raw Material Handling System,Boobalan R,DIC RMHS,,,,"true"
+1091512,aditya.balaji@jsw.in,73,40,0,113,7/2/2026,GOLD,1,Logistics,ADITYA BALAJI,Services,,,,"true"
+1091581,kodali.krishna@jsw.in,72,30,0,102,7/2/2026,SILVER,1,Central Maintenance,Kodali Leela Krishna,Services,,,,"true"
+1100744,sahana.s@jsw.in,54,24,0,78,7/2/2026,PASS,1,Central Maintenance,SAHANA S,Services,,,,"true"
+1032250,narasimhalu.bhandari@jsw.in,50,26,0,76,7/2/2026,PASS,1,Utilities,Narasimhalu .,Services,,,,"true"
+1105845,abinash.r@jsw.in,55,16,0,71,7/2/2026,FAIL,1,Utilities,Abinash R,Services,,,,"true"
+1091572,archit.gangwar@jsw.in,43,40,0,83,7/2/2026,PASS,1,Production Planning & Control (PPC),Archit Gangwar,Services,,,,"true"
+1100762,battu.lakshmiprasanna@jsw.in,51,30,43,124,9/2/2026,PLATINUM,1,Beneficiation II,BATTU LAKSHMI PRASANNA,DIC Agglotech,,,,"true"
+1101681,yash.bhadoriya@jsw.in,0,20,73,93,9/2/2026,BRONZE,1,Utilities,YASH BHADORIYA,Services,,,,"false"
+1093892,hanumant.gupta@jsw.in,44,13,23,80,9/2/2026,PASS,1,Steel Melting Shop IV,Hanumant Mani Gupta,DIC Steel,,,,"true"
+1100746,abdulmaajeeth.n@jsw.in,70,12,0,82,9/2/2026,PASS,1,"Wire Rod Mill I,Bar Rod Mill I",ABDUL MAAJEETH N,DIC Mill,,,,"true"
+1093888,soumitra.yeole@jsw.in,43,0,0,43,9/2/2026,FAIL,1,Central Maintenance,Soumitra Yeole,Services,,,,"true"
+1100970,t.aniket@jsw.in,74,30,0,104,9/2/2026,SILVER,1,Lime Calcination Plant,ANIKET KUMAR THAKUR,DIC Steel,,,,"true"
+1042811,prashant.javali@jsw.in,40,38,0,78,9/2/2026,PASS,1,Central Maintenance,Prashantha Javali,Services,,,,"true"
+1107591,kadiyam.pradeep@jsw.in,59,23,0,82,10/2/2026,PASS,1,Cold Rolling Mill I,Kadiyam Chiranjeevi Pradeep,DIC Mill,,,,"true"
+1105677,bharath.satravu@jsw.in,74,18,0,92,10/2/2026,BRONZE,1,Technology Excellence,BHARATH GANESH SATRAVU,Services,,,,"true"
+1105896,arangi.meghana@jsw.in,59,26,0,85,10/2/2026,PASS,1,"Coke Ovens III,IV,CDQ",Arangi Sai Meghana,DIC Cokeoven,,,,"true"
+1095968,srivishnuprasanth.g@jsw.in,50,16,0,66,10/2/2026,FAIL,1,Central Maintenance,SRI VISHNUPRASANTH G,Services,,,,"true"
+1107631,gorusu.poojitha@jsw.in,40,6,0,46,10/2/2026,FAIL,1,Steel Melting Shop II,Gorusu Sai Poojitha,DIC Steel,,,,"true"
+1026379,basavaraj.kantli@jsw.in,50,12,0,62,10/2/2026,FAIL,1,Steel Melting Shop I,Basavaraj Kantli .,DIC Steel,,,,"true"
+1099205,sujata.panda@jsw.in,39,24,0,63,10/2/2026,FAIL,1,Research & Development,Sujata Panda,Services,,,,"true"
+1107645,kavya.ketapalli@jsw.in,43,0,0,43,10/2/2026,FAIL,1,Sinter Plant I,KAVYA KETAPALLI,DIC Agglotech,,,,"true"
+1107557,kamatam.gayathri@jsw.in,0,0,0,0,10/2/2026,FAIL,1,"Pellet Plant II,III",Kamatam Gayathri,DIC Agglotech,,,,"false"
+1031803,vinay.gowda@jsw.in,55,28,0,83,10/2/2026,PASS,1,Steel Melting Shop II,Vinay K,DIC Steel,,,,"true"
+1105824,bandaru.joshua@jsw.in,49,14,0,63,10/2/2026,FAIL,1,Utilities,Bandaru Joshua,Services,,,,"true"
+1107519,remala.reddy@jsw.in,29,0,0,29,10/2/2026,FAIL,1,"Blast Furnace III,IV",Remala Venkata Raj Kumar Reddy,DIC Iron making,,,,"true"
+1107560,chintala.lithin@jsw.in,32,0,0,32,10/2/2026,FAIL,1,Technology Excellence,Chintala Lithin,Services,,,,"true"
+1107529,mukesh.s1@jsw.in,43,0,0,43,10/2/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Mukesh S,DIC Cokeoven,,,,"true"
+1105956,sanu.j@jsw.in,44,0,0,44,10/2/2026,FAIL,1,"Pellet Plant II,III",Sanu J,DIC Agglotech,,,,"true"
+1107592,malleti.jahnavi@jsw.in,47,0,0,47,10/2/2026,FAIL,1,Technology Excellence,MALLETI JAHNAVI,Services,,,,"true"
+1105685,kalathieswaran.r@jsw.in,45,0,0,45,10/2/2026,FAIL,1,"Blast Furnace III,IV",Kalathieswaran R,DIC Iron making,,,,"true"
+1049287,neelamma.uppar@jsw.in,36,8,0,44,10/2/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",Neelamma Neela U,Services,,,,"true"
+1046033,varna.kumar@jsw.in,66,18,0,84,11/2/2026,PASS,1,Direct Reduced Iron,Varna Kumar N,DIC Steel,,,,"true"
+1095369,gaurav.pandey@jsw.in,59,17,0,76,11/2/2026,PASS,1,Cold Rolling Mill I,GAURAV KUMAR PANDEY,DIC Mill,,,,"true"
+1105827,udhayanjacob.s@jsw.in,48,20,0,68,11/2/2026,FAIL,1,"Sinter Plant II,III,IV,V",Udhayan Jacob S,DIC Agglotech,,,,"true"
+1107598,akellasai.bhargav@jsw.in,53,2,0,55,11/2/2026,FAIL,1,Technology Excellence,Akella Sai Bhargav,Services,,,,"true"
+1105825,pranav.j@jsw.in,41,39,0,80,11/2/2026,PASS,1,"Coke Ovens III,IV,CDQ",Pranav J,DIC Cokeoven,,,,"true"
+1103754,k.manoj@jsw.in,0,0,0,0,11/2/2026,FAIL,1,Coke Ovens V,Manoj Kumar,DIC Cokeoven,,,,"false"
+1092506,venkatarathnam.v@jsw.in,53,30,0,83,11/2/2026,PASS,1,"Coke Ovens III,IV,CDQ",Venkatarathnam V,DIC Cokeoven,,,,"true"
+1091634,sourabh.kulkarni@jsw.in,58,36,0,94,11/2/2026,BRONZE,1,Production Planning & Control (PPC),Sourabh Kulkarni,Services,,,,"true"
+1096057,nidhi@jsw.in,52,36,0,88,11/2/2026,PASS,1,Production Planning & Control (PPC),NIDHI .,Services,,,,"true"
+1100929,sreehari.sethunathanc@jsw.in,54,8,0,62,11/2/2026,FAIL,1,Hot Strip Mill I,Sreehari Sethunathan C,DIC Mill,,,,"true"
+1030967,mallikarjuna.golla@jsw.in,62,15,0,77,11/2/2026,PASS,1,Cold Rolling Mill I,G Mallikarjuna,DIC Mill,,,,"true"
+1091579,tapas.senapati@jsw.in,49,12,0,61,11/2/2026,FAIL,1,Technology Excellence,Tapas Senapati,Services,,,,"true"
+1091212,firoz.alam@jsw.in,47,29,0,76,11/2/2026,PASS,1,Production Planning & Control (PPC),Firoz Alam,Services,,,,"true"
+1105907,tanniru.ankubabu@jsw.in,44,8,0,52,11/2/2026,FAIL,1,Technology Excellence,Tanniru Ankubabu,Services,,,,"true"
+1101891,jacob.s@jsw.in,40,8,0,48,11/2/2026,FAIL,1,Hot Strip Mill III,Jacob Raa S,DIC Mill,,,,"true"
+1032854,suresh.thodabandi@jsw.in,40,8,0,48,11/2/2026,FAIL,1,"Sinter Plant II,III,IV,V",Suresh Kumar Thodabandi,DIC Agglotech,,,,"true"
+1102224,rakesh.batsya@jsw.in,44,18,0,62,12/2/2026,FAIL,1,Cold Rolling Mill II,Rakesh Batsya,DIC Mill,,,,"true"
+1101608,hariharan.gc@jsw.in,74,28,0,102,12/2/2026,SILVER,1,Mines,HARI HARAN G C,Mines,,,,"true"
+1107466,praveenraj.s@jsw.in,52,25,0,77,12/2/2026,PASS,1,Hot Strip Mill II,Praveen Raj S,DIC Mill,,,,"true"
+1107654,vaishali.g@jsw.in,58,18,0,76,12/2/2026,PASS,1,Hot Strip Mill I,Vaishali G,DIC Mill,,,,"true"
+1107617,rogeeth.c@jsw.in,39,28,0,67,12/2/2026,FAIL,1,Hot Strip Mill II,Rogeeth C,DIC Mill,,,,"true"
+1107463,adhithiyan.a@jsw.in,53,24,0,77,12/2/2026,PASS,1,CRGO,Adhithiyan A,DIC Mill,,,,"true"
+1107535,krithika.s@jsw.in,53,8,0,61,12/2/2026,FAIL,1,CRGO,Krithika S,DIC Mill,,,,"true"
+1105730,bantupalli.abhilash@jsw.in,44,0,0,44,12/2/2026,FAIL,1,Hot Strip Mill II,Bantupalli Lalith Abhilash,DIC Mill,,,,"true"
+1100768,aadimithra.anil@jsw.in,71,23,0,94,12/2/2026,BRONZE,1,Human Resources,AADIMITHRA ANIL,Services,,,,"true"
+1108585,sethuram.m@jsw.in,44,0,0,44,12/2/2026,FAIL,1,Training,Sethuram M,,,,,"true"
+1093959,s.prasannakumar@jsw.in,58,9,0,67,12/2/2026,FAIL,1,Utilities,PRASANNA KUMAR SINGAMPALLI,Services,,,,"true"
+1101731,k.krishna@jsw.in,0,0,0,0,12/2/2026,FAIL,1,Steel Melting Shop III,KRISHNA KUMAR,DIC Steel,,,,"false"
+1101057,kuber.gajula@jsw.in,59,28,0,87,12/2/2026,PASS,1,"Coke Ovens III,IV,CDQ",Kuber Goud Gajula,DIC Cokeoven,,,,"true"
+1095992,srinivas.dhammala@jsw.in,71,33,0,104,13/02/2026,SILVER,1,Logistics,Srinivas Dhammala,Services,,,,"true"
+7045086,ifthekar.ahmed@jsw.in,71,29,0,100,13/02/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Ifthekar Ahmed A,DIC Cokeoven,,,,"true"
+1105912,polaki.gopidev@jsw.in,29,9,0,38,13/02/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Polaki Gopidev,DIC Cokeoven,,,,"true"
+1105834,yarnanadurga.rajasekhar@jsw.in,48,12,0,60,13/02/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Yarnana Durga Rajasekhar,DIC Cokeoven,,,,"true"
+1030220,anand.gautam@jsw.in,80,39,0,119,13/02/2026,GOLD,1,"Civil & Engineering Services,Structural",Anand  Kumar Gautam,Services,,,,"true"
+1026722,manjunatha.javaregowda@jsw.in,57,20,0,77,13/02/2026,PASS,1,Technology Excellence,Manjunath J,Services,,,,"true"
+1105761,gandivalasa.navyasri@jsw.in,28,12,0,40,13/02/2026,FAIL,2,"Blast Furnace III,IV",Gandivalasa Navyasri,DIC Iron making,,,,"true"
+1107460,chandini.kummarakuntla@jsw.in,59,30,0,89,13/02/2026,PASS,2,"Coke Ovens III,IV,CDQ",Chandini Kummarakuntla,DIC Cokeoven,,,,"true"
+7045709,ashok.bevoor@jsw.in,62,27,0,89,13/02/2026,PASS,1,"Coke Ovens III,IV,CDQ",Ashok Dhariyappa Bevoor,DIC Cokeoven,,,,"true"
+1104929,kp.reshma@jsw.in,70,31,0,101,13/02/2026,SILVER,1,Production Planning & Control (PPC),K P Reshma,Services,,,,"true"
+1095379,panneerselvam.k1@jsw.in,45,19,0,64,13/02/2026,FAIL,1,"Sinter Plant II,III,IV,V",PANNEERSELVAM K,DIC Agglotech,,,,"true"
+1092249,M_BAKSHU2@jsw.in,40,0,0,40,13/02/2026,FAIL,1,"Sinter Plant II,III,IV,V",M ALLA BAKSHU,DIC Agglotech,,,,"true"
+1048496,piyush.singh@jsw.in,60,19,0,79,14/02/2026,PASS,1,"I-Shop,Central Repair Shop",Piyush Singh,Services,,,,"true"
+1095405,sai.mandapati@jsw.in,0,0,82,82,16/02/2026,PASS,1,Logistics,Sai Jayanth Mandapati,Services,,,,"false"
+1100779,bharath.m@jsw.in,0,0,83,83,16/02/2026,PASS,1,"Wire Rod Mill II,Bar Rod Mill II,LRCP Strand",Bharath M,DIC Mill,,,,"false"
+1102732,haritha.p@jsw.in,0,0,95,95,16/02/2026,BRONZE,1,Human Resources,Haritha P,Services,,,,"false"
+1041732,amrendra.mishra@jsw.in,72,39,0,111,16/02/2026,GOLD,1,"Coke Ovens III,IV,CDQ",Amrendra Nath Mishra,DIC Cokeoven,,,,"true"
+1105981,katur.raphan@jsw.in,41,6,0,47,16/02/2026,FAIL,1,Technology Excellence,Katur Rich Smile Raphan,Services,,,,"true"
+1030972,bharath.somashekhar@jsw.in,37,12,0,49,16/02/2026,FAIL,1,Cold Rolling Mill II,S Bharath,DIC Mill,,,,"true"
+1049814,rohan.sanjeev@jsw.in,49,18,0,67,16/02/2026,FAIL,1,"Sinter Plant II,III,IV,V",Rohan Sanjeev,DIC Agglotech,,,,"true"
+1041466,marachu.mahesh@jsw.in,58,30,0,88,16/02/2026,PASS,3,Logistics,Marachu Mahesh,Services,,,,"true"
+1105817,divi.navya@jsw.in,0,0,121,121,16/02/2026,PLATINUM,1,Cold Rolling Mill I,Divi Naga Navya,DIC Mill,,,,"false"
+1095363,b.udhayaraga@jsw.in,58,40,0,98,16/02/2026,BRONZE,1,Production Planning & Control (PPC),Udhayaraga Balamurugan,Services,,,,"true"
+1107530,syed.seenimohameds@jsw.in,34,0,0,34,16/02/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Syed Seeni Mohamed S,DIC Cokeoven,,,,"true"
+1091062,ramjan.ali@jsw.in,51,8,0,59,17/02/2026,FAIL,1,Steel Melting Shop III,Ramjan Ali,DIC Steel,,,,"true"
+1095976,raghav.choudhary@jsw.in,61,15,0,76,17/02/2026,PASS,1,Technology Excellence,Raghav Choudhary,Services,,,,"true"
+1099433,landu.achyuth@jsw.in,61,40,0,101,18/02/2026,SILVER,1,Logistics,LANDU ACHYUTH,Services,,,,"true"
+1101671,neelesh.yadav@jsw.in,67,10,0,77,18/02/2026,PASS,1,Cold Rolling Mill I,NEELESH YADAV,DIC Mill,,,,"true"
+1099933,kukkala.sivasankar@jsw.in,47,23,0,70,18/02/2026,FAIL,1,Cold Rolling Mill II,Kukkala Sivasankar,DIC Mill,,,,"true"
+1107501,amartya.santra@jsw.in,77,20,0,97,18/02/2026,BRONZE,1,LP Mills,Amartya Santra,,,,,"true"
+1103289,anuragbhai.devani@jsw.in,32,25,0,57,18/02/2026,FAIL,2,Cold Rolling Mill I,Anuragbhai Hasmukhbhai Devani,DIC Mill,,,,"true"
+1045850,shankar.kalagi@jsw.in,0,0,97,97,18/02/2026,BRONZE,1,Steel Melting Shop III,Shankar Kalagi,DIC Steel,,,,"false"
+1100188,venkatesha.p1@jsw.in,36,10,0,46,19/02/2026,FAIL,1,"Coke Ovens III,IV,CDQ",VENKATESHA P,DIC Cokeoven,,,,"true"
+1096080,alfaizal.m@jsw.in,0,0,110,110,19/02/2026,SILVER,1,Cold Rolling Mill II,Alfaizal M,DIC Mill,,,,"false"
+1046075,hariom.tiwari@jsw.in,51,25,0,76,19/02/2026,PASS,1,Technology Excellence,Hari Om,Services,,,,"true"
+1096168,karthickraja.p@jsw.in,71,30,0,101,19/02/2026,SILVER,1,Steel Melting Shop IV,KARTHICK RAJA P,DIC Steel,,,,"true"
+1045272,ranganatha.prasanna@jsw.in,56,37,0,93,19/02/2026,BRONZE,1,Production Planning & Control (PPC),Ranganathaprasanna .,Services,,,,"true"
+1091349,govindaraj.p@jsw.in,0,0,93,93,19/02/2026,BRONZE,1,"Wire Rod Mill II,Bar Rod Mill II,LRCP Strand",Govindaraj P,DIC Mill,,,,"false"
+1096025,jayasakthi.s@jsw.in,67,34,0,101,19/02/2026,SILVER,1,Energy Management,JAYASAKTHI S,DIC Utility,,,,"true"
+1091238,arpit.madnawat@jsw.in,52,25,0,77,19/02/2026,PASS,1,"Coke Ovens III,IV,CDQ",Arpit Madnawat,DIC Cokeoven,,,,"true"
+1095346,denora.s@jsw.in,49,6,0,55,19/02/2026,FAIL,1,"Commercial,Commercial Stores,Central Planning Team",Denora S,Services,,,,"true"
+1097282,jayesh.patel@jsw.in,65,11,0,76,19/02/2026,PASS,1,"Wire Rod Mill II,Bar Rod Mill II,LRCP Strand",Jayesh Patel,DIC Mill,,,,"true"
+1094127,sayantan.kuiti@jsw.in,33,22,0,55,19/02/2026,FAIL,1,Cold Rolling Mill II,Sayantan Kuiti,DIC Mill,,,,"true"
+1107623,abirami.b@jsw.in,68,23,0,91,19/02/2026,BRONZE,1,Central Maintenance,Abirami B,Services,,,,"true"
+1107478,tholkappiyan.r@jsw.in,32,0,0,32,19/02/2026,FAIL,1,Raw Material Handling System,Tholkappiyan R,DIC RMHS,,,,"true"
+1107492,jesu.r@jsw.in,38,26,0,64,19/02/2026,FAIL,1,"Sinter Plant II,III,IV,V",Jesu Antony Austeen R,DIC Agglotech,,,,"true"
+1107533,vasanth.v@jsw.in,31,0,0,31,19/02/2026,FAIL,1,"Blast Furnace III,IV",Vasanth V,DIC Iron making,,,,"true"
+1091231,c.prasad@jsw.in,62,25,0,87,25/02/2026,PASS,1,Production Planning & Control (PPC),Prasad C,Services,,,,"true"
+1100715,pankaj.chauhan@jsw.in,84,30,0,114,25/02/2026,GOLD,2,"Wire Rod Mill I,Bar Rod Mill I",PANKAJ CHAUHAN,DIC Mill,,,,"true"
+1093730,yernena.jitendra@jsw.in,60,30,0,90,25/02/2026,PASS,2,"Coke Ovens III,IV,CDQ",Yernena Jitendra,DIC Cokeoven,,,,"true"
+1043204,umesh.vajjaramatti@jsw.in,70,35,0,105,25/02/2026,SILVER,1,"Coke Ovens III,IV,CDQ",Umesh Vajjaramatti,DIC Cokeoven,,,,"true"
+1095385,kaviya.m@jsw.in,66,30,0,96,25/02/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Kaviya M,DIC Cokeoven,,,,"true"
+1027355,yellakishore.kumar@jsw.in,54,30,0,84,25/02/2026,PASS,1,"Coke Ovens III,IV,CDQ",Yella Kishore Kumar,DIC Cokeoven,,,,"true"
+1095969,valliammai.v@jsw.in,51,30,0,81,25/02/2026,PASS,1,Steel Melting Shop IV,VALLIAMMAI V.,DIC Steel,,,,"true"
+1096034,pavithra.ambalakaran@jsw.in,69,40,0,109,25/02/2026,SILVER,1,Technology Excellence,PAVITHRA VELMURUGAN AMBALAKARAN,Services,,,,"true"
+1095342,thavaloshini.a@jsw.in,53,25,0,78,25/02/2026,PASS,1,"Wire Rod Mill II,Bar Rod Mill II,LRCP Strand",Thavaloshini A,DIC Mill,,,,"true"
+1095357,sneka.d@jsw.in,57,25,0,82,25/02/2026,PASS,1,Steel Melting Shop IV,SNEKA D,DIC Steel,,,,"true"
+1107622,anoj.kumar@jsw.in,77,30,0,107,25/02/2026,SILVER,1,Production Planning & Control (PPC),Anoj Kumar,Services,,,,"true"
+1105800,amballa.manikanta@jsw.in,69,35,0,104,25/02/2026,SILVER,1,Energy Management,AMBALLA MANIKANTA,DIC Utility,,,,"true"
+1107621,k.ayush@jsw.in,0,30,0,30,25/02/2026,FAIL,1,Production Planning & Control (PPC),Ayush Kumar,Services,,,,"false"
+1093939,rebba.shivani@jsw.in,55,30,0,85,26/02/2026,PASS,1,Blast Furnace V,Rebba Shivani,DIC Iron making,,,,"true"
+1029976,kaisar.bakli@jsw.in,74,30,0,104,26/02/2026,SILVER,1,"Blast Furnace I,II",Kaisar B,DIC Iron making,,,,"true"
+1101673,sanchit.sawant@jsw.in,68,40,0,108,26/02/2026,SILVER,1,Production Planning & Control (PPC),SANCHIT SUNIL SAWANT,Services,,,,"true"
+1091521,Yadagiri_Gantam2@jsw.in,75,25,0,100,26/02/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Yadagiri Gantam,DIC Cokeoven,,,,"true"
+1107485,debadyuti.palit@jsw.in,80,30,0,110,26/02/2026,SILVER,1,Cold Rolling Mill I,Debadyuti Palit,DIC Mill,,,,"true"
+1100753,tejaswi.pandey@jsw.in,77,30,0,107,26/02/2026,SILVER,1,Cold Rolling Mill II,TEJASWI PANDEY,DIC Mill,,,,"true"
+1096030,dantham.kanth@jsw.in,71,25,0,96,26/02/2026,BRONZE,1,Cold Rolling Mill II,DANTHAM RAVI KANTH,DIC Mill,,,,"true"
+1101686,s.nitesh@jsw.in,74,20,0,94,27/02/2026,BRONZE,1,Central Maintenance,NITESH SHARMA,Services,,,,"true"
+1091540,abhishekkumar.singh1@jsw.in,75,39,0,114,27/02/2026,GOLD,2,Production Planning & Control (PPC),Abhishek Kumar Singh,Services,,,,"true"
+1027443,srinivas.achar@jsw.in,32,26,0,58,27/02/2026,FAIL,1,"Blast Furnace III,IV",Srinivasachar M,DIC Iron making,,,,"true"
+1096076,m.anandsai@jsw.in,62,25,0,87,27/02/2026,PASS,1,"Pellet Plant II,III",Anand Sai Mellacheruvu,DIC Agglotech,,,,"true"
+1104389,gnanaprakash.g@jsw.in,0,31,0,31,28/02/2026,FAIL,1,Coke Ovens V,GNANAPRAKASH G,DIC Cokeoven,,,,"false"
+1026683,imam.sharif@jsw.in,44,24,0,68,3/3/2026,FAIL,1,Technology Excellence,Imam Sharif,Services,,,,"true"
+1030449,vasukoti.ranganadh@jsw.in,72,29,0,101,3/3/2026,SILVER,1,Technology Excellence,Vasu Koti Ranganadh K,Services,,,,"true"
+1032781,nagarjuna.y@jsw.in,60,24,0,84,3/3/2026,PASS,2,Steel Melting Shop II,Nagarjuna Y,DIC Steel,,,,"true"
+1033186,praveen.chandrashekhar@jsw.in,69,36,0,105,3/3/2026,SILVER,2,"Coke Ovens III,IV,CDQ",Praveen C,DIC Cokeoven,,,,"true"
+1100727,madan.g@jsw.in,52,24,0,76,4/3/2026,PASS,1,Utilities,MADAN G,Services,,,,"true"
+7045087,rajesh.k@jsw.in,59,0,0,59,5/3/2026,FAIL,1,Direct Reduced Iron,Rajesh K,DIC Steel,,,,"true"
+1096907,biswaranjan.senapati@jsw.in,54,9,0,63,5/3/2026,FAIL,1,Direct Reduced Iron,Biswaranjan Senapati,DIC Steel,,,,"true"
+1102352,arogya.a@jsw.in,66,14,0,80,5/3/2026,PASS,1,Direct Reduced Iron,AROGYA DASS A,DIC Steel,,,,"true"
+1046485,manjunatha.alivelli@jsw.in,0,0,0,0,5/3/2026,FAIL,1,Direct Reduced Iron,Manjunatha Babu A,DIC Steel,,,,"false"
+1046466,suryaprakash.dri@jsw.in,45,14,0,59,5/3/2026,FAIL,1,Direct Reduced Iron,Surya Prakash,DIC Steel,,,,"true"
+1046511,vijaykumar.rajendran@jsw.in,59,21,0,80,5/3/2026,PASS,1,Direct Reduced Iron,Vijayakumar R,DIC Steel,,,,"true"
+1097467,s.susmith@jsw.in,36,0,0,36,5/3/2026,FAIL,1,Direct Reduced Iron,S Susmith,DIC Steel,,,,"true"
+1105754,logeswaran.r@jsw.in,62,4,0,66,5/3/2026,FAIL,1,Direct Reduced Iron,Logeswaran R,DIC Steel,,,,"true"
+1046254,vijaykumar.narayanaswamy@jsw.in,67,10,0,77,5/3/2026,PASS,1,Direct Reduced Iron,Vijay Kumar N,DIC Steel,,,,"true"
+1095312,shivani.singh@jsw.in,68,15,0,83,5/3/2026,PASS,1,Direct Reduced Iron,Shivani Singh,DIC Steel,,,,"true"
+1105687,silarapu.mounika@jsw.in,72,13,0,85,5/3/2026,PASS,1,Direct Reduced Iron,Silarapu Mahalaxmi Mounika,DIC Steel,,,,"true"
+1045930,vinay.malapuram@jsw.in,61,15,0,76,5/3/2026,PASS,1,Direct Reduced Iron,Vinay M,DIC Steel,,,,"true"
+1107484,kandanoori.venkateswarlu@jsw.in,48,4,0,52,5/3/2026,FAIL,1,Direct Reduced Iron,Kandanoori Venkateswarlu,DIC Steel,,,,"true"
+1101744,abhishek.marwadi@jsw.in,58,9,0,67,5/3/2026,FAIL,1,Direct Reduced Iron,ABHISHEK MARWADI,DIC Steel,,,,"true"
+1018085,nirmit.bhomia@jsw.in,60,32,0,92,9/3/2026,BRONZE,1,Production Planning & Control (PPC),Nirmit Bhomia,Services,,,,"true"
+1035220,shreejit.gowda@jsw.in,59,20,0,79,9/3/2026,PASS,1,Raw Material Handling System,Shreejit C Gowda,DIC RMHS,,,,"true"
+1103207,kaushal.nath@jsw.in,71,29,0,100,9/3/2026,BRONZE,1,"Oxygen Plant,Industrial Gas",KAUSHAL NATH,DIC Utility,,,,"true"
+1048754,subbarao.bharmappa@jsw.in,55,26,0,81,9/3/2026,PASS,1,"Coke Ovens III,IV,CDQ",Subbarao bharmappa .,DIC Cokeoven,,,,"true"
+1100690,ratchagan.m@jsw.in,42,14,0,56,9/3/2026,FAIL,1,Central Maintenance,RATCHAGAN M,Services,,,,"true"
+1105862,saurav.karmakar@jsw.in,65,27,0,92,9/3/2026,BRONZE,2,Production Planning & Control (PPC),Saurav Karmakar,Services,,,,"true"
+1107589,stuvat.topno@jsw.in,71,14,0,85,9/3/2026,PASS,1,Production Planning & Control (PPC),Stuvat Topno,Services,,,,"true"
+1107462,navneet.kumar2@jsw.in,84,40,0,124,13/03/2026,PLATINUM,2,Total Quality Management,Navneet Kumar,Services,,,,"true"
+1047448,harish.jonulla@jsw.in,59,39,0,98,13/03/2026,BRONZE,1,Production Planning & Control (PPC),Harish J,Services,,,,"true"
+1101724,shaik.afreen@jsw.in,71,39,0,110,13/03/2026,SILVER,1,Production Planning & Control (PPC),SHAIK AFREEN,Services,,,,"true"
+1106918,ramya.sahu@jsw.in,58,21,0,79,13/03/2026,PASS,2,Production Planning & Control (PPC),RAMYA BIBHAS SAHU,Services,,,,"true"
+1019304,banoth.srikanth@jsw.in,58,38,0,96,13/03/2026,BRONZE,1,Production Planning & Control (PPC),Banoth Srikanth,Services,,,,"true"
+1041948,umesh.kotalli@jsw.in,42,35,0,77,13/03/2026,PASS,1,Production Planning & Control (PPC),Umesh Kotalli,Services,,,,"true"
+1094233,kuntesh.patel@jsw.in,81,34,0,115,13/03/2026,GOLD,1,Production Planning & Control (PPC),Kuntesh Bharatbhai Patel,Services,,,,"true"
+1093935,k.sathyanarayan@jsw.in,61,40,0,101,13/03/2026,SILVER,1,Production Planning & Control (PPC),Sathyanarayan Kulkarni,Services,,,,"true"
+1105938,sakrika.kandasami@jsw.in,56,29,0,85,13/03/2026,PASS,1,Production Planning & Control (PPC),SAKRIKA KANDASAMI,Services,,,,"true"
+1049849,soumendra.samal@jsw.in,63,39,0,102,13/03/2026,SILVER,1,Production Planning & Control (PPC),Soumendra Samal,Services,,,,"true"
+1100639,gowtham.sd@jsw.in,50,38,0,88,13/03/2026,PASS,1,Production Planning & Control (PPC),GOWTHAM S D,Services,,,,"true"
+1101861,harsh.mishra@jsw.in,77,39,0,116,13/03/2026,GOLD,1,Production Planning & Control (PPC),HARSH MISHRA,Services,,,,"true"
+1027259,rajasekhara.kanikeri@jsw.in,48,29,0,77,13/03/2026,PASS,3,Production Planning & Control (PPC),Rajasekhara K,Services,,,,"true"
+1107614,ankush.yadav@jsw.in,57,27,0,84,13/03/2026,PASS,1,Production Planning & Control (PPC),Ankush Kumar Yadav,Services,,,,"true"
+1094218,shaktikumar.patil@jsw.in,48,38,0,86,13/03/2026,PASS,1,Production Planning & Control (PPC),Shakti Kumar Patil,Services,,,,"true"
+1100654,tejeshwara.m@jsw.in,58,23,0,81,13/03/2026,PASS,1,Production Planning & Control (PPC),Tejeshwara M,Services,,,,"true"
+1105848,bavitha.j@jsw.in,88,38,0,126,13/03/2026,PLATINUM,1,Production Planning & Control (PPC),Bavitha J,Services,,,,"true"
+1093931,harish.sabbana@jsw.in,72,40,0,112,13/03/2026,GOLD,1,Production Planning & Control (PPC),Harish Kumar Sabbana,Services,,,,"true"
+1031994,sangram.singh@jsw.in,67,40,0,107,13/03/2026,SILVER,1,Production Planning & Control (PPC),Sangram Singh,Services,,,,"true"
+1090876,uppu.kumar@jsw.in,76,38,0,114,13/03/2026,GOLD,1,Production Planning & Control (PPC),UPPU HEMANTH KUMAR,Services,,,,"true"
+1032984,mudagal.durgappa@jsw.in,70,39,0,109,13/03/2026,SILVER,1,Production Planning & Control (PPC),Mudagal Durgappa,Services,,,,"true"
+1049002,adarsh.allur@jsw.in,49,39,0,88,13/03/2026,PASS,2,Production Planning & Control (PPC),Adarsh Hemaraddy Allur,Services,,,,"true"
+1090842,narava.veerasaikumar@jsw.in,70,39,0,109,13/03/2026,SILVER,1,Production Planning & Control (PPC),Narava Veera Sai Kumar,Services,,,,"true"
+1100951,hariharan.t@jsw.in,78,32,0,110,13/03/2026,SILVER,1,Production Planning & Control (PPC),HARIHARAN T,Services,,,,"true"
+1095337,tejaswini.divity@jsw.in,83,32,0,115,13/03/2026,GOLD,1,Production Planning & Control (PPC),Tejaswini Divity,Services,,,,"true"
+1041960,anilkumar.anand@jsw.in,85,20,0,105,13/03/2026,SILVER,1,Production Planning & Control (PPC),Anilkumar A,Services,,,,"true"
+1031943,vijaykumar.tambrahalli@jsw.in,66,20,0,86,14/03/2026,PASS,1,Customer Service Department,Vijayakumar Tambrahalli,Services,,,,"true"
+1092272,Vishal_Shekhawat2@jsw.in,74,32,0,106,14/03/2026,SILVER,2,Production Planning & Control (PPC),Vishal Shekhawat,Services,,,,"true"
+1105672,k.prabhat@jsw.in,47,29,0,76,14/03/2026,PASS,1,Customer Service Department,Prabhat Kumar,Services,,,,"true"
+1101682,kamran.ahmad@jsw.in,80,15,0,95,14/03/2026,BRONZE,1,Customer Service Department,KAMRAN AHMAD,Services,,,,"true"
+1097432,v.adheebshibu@jsw.in,55,21,0,76,14/03/2026,PASS,1,Customer Service Department,ADHEEB SHIBU VATTASSERIL,Services,,,,"true"
+1105826,nandana.kesav@jsw.in,53,23,0,76,14/03/2026,PASS,1,Customer Service Department,NANDANA KESAV,Services,,,,"true"
+1100924,dharshini.v@jsw.in,89,39,0,128,14/03/2026,PLATINUM,2,Customer Service Department,Dharshini V,Services,,,,"true"
+1102775,debtirtha.roy@jsw.in,54,16,0,70,14/03/2026,FAIL,1,Manufacturing Excellence,Debtirtha Roy,,,,,"true"
+1031726,sandeep.cuddapah@jsw.in,29,1,0,30,16/03/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Sandeep C,DIC Cokeoven,,,,"true"
+1033029,dasaratha.thimmapuram@jsw.in,53,13,0,66,16/03/2026,FAIL,1,"Coke Ovens III,IV,CDQ",T Dasaratha,DIC Cokeoven,,,,"true"
+1027631,santhoshkumar.kullaninge@jsw.in,68,33,0,101,16/03/2026,SILVER,1,"Coke Ovens III,IV,CDQ",Santhosha Kumar K,DIC Cokeoven,,,,"true"
+1048395,vishwanath.machnur@jsw.in,48,32,0,80,16/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Vishwanath M,DIC Cokeoven,,,,"true"
+7044692,deepak.patapati@jsw.in,90,30,0,120,16/03/2026,GOLD,1,"Coke Ovens III,IV,CDQ",Deepak Patapati S,DIC Cokeoven,,,,"true"
+1032908,arif.patel@jsw.in,46,4,0,50,16/03/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Arif Patel S,DIC Cokeoven,,,,"true"
+1033079,dayananda.krishna@jsw.in,58,14,0,72,16/03/2026,FAIL,2,"Coke Ovens III,IV,CDQ",Dayananda  K,DIC Cokeoven,,,,"true"
+1100625,sanjay.s@jsw.in,44,4,0,48,18/03/2026,FAIL,1,Hot Strip Mill I,SANJAY S,DIC Mill,,,,"true"
+1107603,dinesh.p@jsw.in,28,0,0,28,18/03/2026,FAIL,1,Raw Material Handling System,Dinesh P,DIC RMHS,,,,"true"
+1105978,shrijith.p@jsw.in,0,0,0,0,18/03/2026,FAIL,1,Energy Management,SHRIJITH S P,DIC Utility,,,,"false"
+1105988,joshua.mathew@jsw.in,65,27,0,92,18/03/2026,BRONZE,1,Production Planning & Control (PPC),Joshua Mathew,Services,,,,"true"
+1041312,kumar.shailesh@jsw.in,51,25,0,76,18/03/2026,PASS,1,Technology Excellence,Shailesh Kumar,Services,,,,"true"
+1091525,v.yeddula@jsw.in,0,20,0,20,18/03/2026,FAIL,1,Technology Excellence,YEDDULA VENKATA RAMANA,Services,,,,"false"
+1105680,nirujogi.hyma@jsw.in,74,40,0,114,18/03/2026,GOLD,1,Total Quality Management,Nirujogi Hyma,Services,,,,"true"
+1107459,mallemohith.roy@jsw.in,81,27,0,108,20/03/2026,SILVER,1,Production Planning & Control (PPC),Malle Mohith Roy,Services,,,,"true"
+1096194,murari.uppara@jsw.in,76,21,0,97,23/03/2026,BRONZE,1,Logistics,Murari Uppara,Services,,,,"true"
+1097541,s.krishnanunni@jsw.in,77,39,0,116,24/03/2026,GOLD,1,Central Maintenance,S KRISHNANUNNI,Services,,,,"true"
+1031379,sreekanth.balenahalli@jsw.in,53,20,0,73,24/03/2026,FAIL,1,Logistics,Balenahalli Sreekanth,Services,,,,"true"
+1035322,sumanth.st@jsw.in,44,18,0,62,24/03/2026,FAIL,1,Logistics,Sumanth S T,Services,,,,"true"
+1035413,siddaramesh@jsw.in,47,2,0,49,24/03/2026,FAIL,1,Logistics,Siddaramesh .,Services,,,,"true"
+1026117,ram.s@jsw.in,29,2,0,31,24/03/2026,FAIL,1,Logistics,Ram Sudhakar S,Services,,,,"true"
+1032990,kailas.pratapure@jsw.in,53,4,0,57,24/03/2026,FAIL,1,Logistics,Kailas .,Services,,,,"true"
+1107632,yeletishyam.kumar@jsw.in,44,0,0,44,24/03/2026,FAIL,1,Steel Melting Shop I,Yeleti Shyam Kumar,DIC Steel,,,,"true"
+1026757,maruti.polkal@jsw.in,37,12,0,49,25/03/2026,FAIL,1,Central Maintenance,Maruti .,Services,,,,"true"
+1031186,venkataramana.naik@jsw.in,0,24,0,24,25/03/2026,FAIL,1,Central Maintenance,Venkataramana Naik K,Services,,,,"false"
+1022768,m.shanawaz@jsw.in,63,15,0,78,25/03/2026,PASS,1,"Blast Furnace I,II",M Shanawaz,DIC Iron making,,,,"true"
+1032464,hanamantagouda.ayyanagoudra@jsw.in,36,4,0,40,25/03/2026,FAIL,1,Logistics,Hanamantagouda Ayyanagoudra,Services,,,,"true"
+1027663,vivekanand.patil@jsw.in,52,32,0,84,25/03/2026,PASS,1,"Blast Furnace I,II",Vivekanand R Patil,DIC Iron making,,,,"true"
+1031375,gopala.krishna@jsw.in,49,28,0,77,25/03/2026,PASS,1,Logistics,Gopala Krishna M,Services,,,,"true"
+1035330,siddesh.hb@jsw.in,38,0,0,38,25/03/2026,FAIL,1,Logistics,Siddesh H B,Services,,,,"true"
+1026370,mahabaleswara.murthy@jsw.in,69,24,0,93,25/03/2026,BRONZE,1,Central Maintenance,C M Mahabaleswara Murthy,Services,,,,"true"
+1020740,gousiya.mulla@jsw.in,56,12,0,68,25/03/2026,FAIL,1,Central Maintenance,Gousiya M,Services,,,,"true"
+1035430,kumar.amaresh@jsw.in,38,11,0,49,25/03/2026,FAIL,1,Logistics,Kumar Amaresh,Services,,,,"true"
+1034514,md.javeed@jsw.in,46,38,0,84,25/03/2026,PASS,1,Logistics,Md Javeed,Services,,,,"true"
+1042586,darshan.hallur@jsw.in,60,18,0,78,25/03/2026,PASS,1,Central Maintenance,Darshan Hallur,Services,,,,"true"
+1027417,shivakumarswamy.mpm@jsw.in,40,0,0,40,25/03/2026,FAIL,1,Logistics,Shivakumar Swamy MPM,Services,,,,"true"
+1097551,gokul.krishna@jsw.in,62,15,0,77,25/03/2026,PASS,1,Raw Material Handling System,GOKUL KRISHNA,DIC RMHS,,,,"true"
+1041978,vasant.genikehal@jsw.in,45,26,0,71,25/03/2026,FAIL,1,"Blast Furnace I,II",Vasant Kumar G,DIC Iron making,,,,"true"
+1034566,praveenkumar.sajja@jsw.in,60,38,0,98,26/03/2026,BRONZE,1,Central Maintenance,Praveen Kumar S,Services,,,,"true"
+1032904,dantulari.shivakrishna@jsw.in,47,22,0,69,26/03/2026,FAIL,1,Logistics,Dantuluri Siva Krishna,Services,,,,"true"
+1034398,gajendr.tembe@jsw.in,54,0,0,54,26/03/2026,FAIL,1,Logistics,Gajendr Tembe,Services,,,,"true"
+1091735,animesh.choudhury@jsw.in,64,0,0,64,26/03/2026,FAIL,2,Raw Material Handling System,Animesh Roy Choudhury,DIC RMHS,,,,"true"
+1100636,nafisroshan.n@jsw.in,88,33,0,121,26/03/2026,PLATINUM,2,Steel Melting Shop III,NAFIS ROSHAN N,DIC Steel,,,,"true"
+1035324,neil.hester@jsw.in,59,34,0,93,26/03/2026,BRONZE,1,Logistics,Neil Hester,Services,,,,"true"
+1034916,nagaraja.agasara@jsw.in,63,13,0,76,26/03/2026,PASS,1,Logistics,Agasara Nagaraja,Services,,,,"true"
+1046273,hemanth.shenoy@jsw.in,66,40,0,106,26/03/2026,SILVER,1,"Civil & Engineering Services,Structural",Hemanth Shenoy,Services,,,,"true"
+1032982,prakash.gowdra@jsw.in,38,22,0,60,26/03/2026,FAIL,2,Logistics,Gowdraprakash .,Services,,,,"true"
+1033102,raghavendra.creddy@jsw.in,49,34,0,83,26/03/2026,PASS,1,Central Maintenance,Raghavendra Reddy C,Services,,,,"true"
+1047152,pankaj.gautam@jsw.in,59,39,0,98,26/03/2026,BRONZE,1,Central Maintenance,Pankaj Kumar Gautam,Services,,,,"true"
+1048628,abhishek.karnam@jsw.in,65,29,0,94,26/03/2026,BRONZE,1,Raw Material Handling System,Abhishek Karnam,DIC RMHS,,,,"true"
+1094028,dhanraj@jsw.in,57,24,0,81,26/03/2026,PASS,3,"Coke Ovens III,IV,CDQ",Dhanraj Sonkar,DIC Cokeoven,,,,"true"
+1031374,husen.basha@jsw.in,51,8,0,59,26/03/2026,FAIL,1,Logistics,Husen Basha,Services,,,,"true"
+1045067,d.goutham@jsw.in,47,36,0,83,26/03/2026,PASS,1,Logistics,D Goutham,Services,,,,"true"
+1095961,vikram.v@jsw.in,72,32,0,104,26/03/2026,SILVER,1,Logistics,Vikram V,Services,,,,"true"
+1032558,raghavendra.mayachari@jsw.in,47,29,0,76,27/03/2026,PASS,1,"Blast Furnace I,II",Raghavendra Mayachari,DIC Iron making,,,,"true"
+1091594,k.veeravijeeth@jsw.in,69,30,0,99,27/03/2026,BRONZE,1,Central Maintenance,Veera Vijeeth Kumar Reddy,Services,,,,"true"
+1032775,nagareddy.j@jsw.in,48,28,0,76,27/03/2026,PASS,1,"Blast Furnace I,II",Naga Reddy J,DIC Iron making,,,,"true"
+1034431,gadilinganagouda.n@jsw.in,54,38,0,92,27/03/2026,BRONZE,1,Logistics,Gadilingana Gouda N,Services,,,,"true"
+1043188,kodanda.pani@jsw.in,45,7,0,52,27/03/2026,FAIL,1,"Blast Furnace I,II",Kodandapani .,DIC Iron making,,,,"true"
+1100750,yamuna.m@jsw.in,71,24,0,95,27/03/2026,BRONZE,1,Central Maintenance,YAMUNA M,Services,,,,"true"
+1096162,gopal.sukhwal@jsw.in,55,30,0,85,27/03/2026,PASS,1,Logistics,Gopal Sukhwal,Services,,,,"true"
+1107644,bhukya.harichandra@jsw.in,82,30,0,112,27/03/2026,GOLD,2,"Blast Furnace I,II",Bhukya Hari Chandra,DIC Iron making,,,,"true"
+1101827,jigisha.appikonda@jsw.in,84,30,0,114,27/03/2026,GOLD,1,"Blast Furnace I,II",Jigisha Appikonda,DIC Iron making,,,,"true"
+1043182,shivakumar.hiremath@jsw.in,64,37,0,101,27/03/2026,SILVER,1,Central Maintenance,Shivakumar Hiremath,Services,,,,"true"
+1020749,l.jeevan@jsw.in,69,38,0,107,27/03/2026,SILVER,2,Central Maintenance,L Jeevan,Services,,,,"true"
+1047628,rohit.khandelwal@jsw.in,76,40,0,116,27/03/2026,GOLD,2,Central Maintenance,Rohit Khandelwal,Services,,,,"true"
+1031985,suman.anand@jsw.in,74,38,0,112,27/03/2026,GOLD,3,Central Maintenance,Suman Kumar,Services,,,,"true"
+1101725,ankit.mandal@jsw.in,72,36,0,108,27/03/2026,SILVER,2,Central Maintenance,ANKIT MANDAL,Services,,,,"true"
+1048624,sreenivasa.ch@jsw.in,50,32,0,82,27/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Sreenivasa Rao C H,DIC Cokeoven,,,,"true"
+1095991,saurabh.mishra@jsw.in,71,27,0,98,27/03/2026,BRONZE,1,Central Maintenance,Saurabh Kumar Mishra,Services,,,,"true"
+1034943,suhas.joshi@jsw.in,46,36,0,82,27/03/2026,PASS,1,Logistics,Suhas Joshi,Services,,,,"true"
+1048311,dhaka.jitendra@jsw.in,0,0,0,0,27/03/2026,FAIL,1,Central Maintenance,Jitendra Dhaka,Services,,,,"false"
+1025363,thota.reddy@jsw.in,71,38,0,109,27/03/2026,SILVER,1,Central Maintenance,G Thota Reddy,Services,,,,"true"
+1105881,dhavala.somasekharramprasad@jsw.in,54,38,0,92,27/03/2026,BRONZE,3,Central Maintenance,Dhavala Somasekharramprasad,Services,,,,"true"
+1026945,shivakumar.kirawadi@jsw.in,65,36,0,101,27/03/2026,SILVER,1,"Pellet Plant II,III",Shivakumar K Kirawadi,DIC Agglotech,,,,"true"
+1049213,kuldeep.malav@jsw.in,0,39,0,39,27/03/2026,FAIL,1,Central Maintenance,Kuldeep Malav,Services,,,,"false"
+1101105,rikesh.pal@jsw.in,61,30,0,91,27/03/2026,BRONZE,1,Central Maintenance,RIKESH PAL,Services,,,,"true"
+1042455,kiran.hebbar@jsw.in,61,36,0,97,27/03/2026,BRONZE,1,Central Maintenance,Kirana M L,Services,,,,"true"
+1026910,prasanna.kumarmk@jsw.in,48,30,0,78,27/03/2026,PASS,1,Logistics,Prasanna M K Kumar,Services,,,,"true"
+1022762,suman.salins@jsw.in,0,40,0,40,27/03/2026,FAIL,1,Logistics,Suman Emmanuel Salins,Services,,,,"false"
+1029863,liyakanth.hussain@jsw.in,47,32,0,79,27/03/2026,PASS,1,Logistics,Liyakath Hussain MS,Services,,,,"true"
+1042876,abhijith.sv@jsw.in,63,30,0,93,27/03/2026,BRONZE,1,Central Maintenance,Abhijith S V,Services,,,,"true"
+1096062,aman.katiyar@jsw.in,68,40,0,108,27/03/2026,SILVER,1,Central Maintenance,Aman Katiyar,Services,,,,"true"
+1025753,mariswamy.kurubara@jsw.in,45,30,0,75,28/03/2026,FAIL,1,Logistics,Mariswamy K,Services,,,,"true"
+1105731,k.harish@jsw.in,82,39,0,121,28/03/2026,PLATINUM,2,Logistics,Harish K,Services,,,,"true"
+1096059,dhruva.g@jsw.in,76,40,0,116,28/03/2026,GOLD,1,Logistics,DHRUVA G,Services,,,,"true"
+1096121,pranaykumar.dumolia@jsw.in,72,39,0,111,28/03/2026,GOLD,1,Logistics,Pranay Kumar Dumolia,Services,,,,"true"
+1096043,yashas.ky@jsw.in,74,32,0,106,28/03/2026,SILVER,2,Logistics,YASHAS K Y,Services,,,,"true"
+1096008,r.adhithya@jsw.in,77,32,0,109,28/03/2026,SILVER,1,Logistics,Adhithya Aruna Ramachandran,Services,,,,"true"
+1103749,a.amit@jsw.in,49,34,0,83,28/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",AMIT ANAND,DIC Cokeoven,,,,"true"
+1041693,somu.tuppad@jsw.in,57,40,0,97,28/03/2026,BRONZE,3,"Coke Ovens III,IV,CDQ",T Somashekhar,DIC Cokeoven,,,,"true"
+1031135,rajashekhar.biradar@jsw.in,26,16,0,42,30/03/2026,FAIL,1,Logistics,Rajashekhar Siddanna Biradar,Services,,,,"true"
+1030695,kiran.kumarp@jsw.in,45,32,0,77,30/03/2026,PASS,1,Logistics,Kirankumar P,Services,,,,"true"
+1105861,rahul.raj@jsw.in,55,39,0,94,30/03/2026,BRONZE,1,Production Planning & Control (PPC),Rahul Raj,Services,,,,"true"
+1097462,sushil.kumhar@jsw.in,60,22,0,82,30/03/2026,PASS,1,Production Planning & Control (PPC),SUSHIL KUMAR KUMHAR,Services,,,,"true"
+1092271,Ashish_Thakur2@jsw.in,69,20,0,89,30/03/2026,PASS,1,Production Planning & Control (PPC),Ashish Kumar Thakur,Services,,,,"true"
+1034774,amruthesh.sm@jsw.in,53,24,0,77,30/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Amruthesh S M,DIC Cokeoven,,,,"true"
+1035411,atmanand.kattimani@jsw.in,54,40,0,94,30/03/2026,BRONZE,1,Logistics,Atmanand Kattimani,Services,,,,"true"
+1091034,vinay.r@jsw.in,81,38,0,119,30/03/2026,GOLD,1,"Coke Ovens III,IV,CDQ",Vinay R,DIC Cokeoven,,,,"true"
+1094135,ravi.tumu@jsw.in,71,32,0,103,30/03/2026,SILVER,2,Customer Service Department,Ravi Kumar Tumu,Services,,,,"true"
+1042006,venkatesha.bevoor@jsw.in,58,40,0,98,30/03/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Venkatesha B S,DIC Cokeoven,,,,"true"
+1046345,amitkumar.nagendra@jsw.in,50,27,0,77,30/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Amit Kumar,DIC Cokeoven,,,,"true"
+1106074,praveen.chaubey@jsw.in,33,0,0,33,30/03/2026,FAIL,1,Coke Ovens V,Praveen Kumar Chaubey,DIC Cokeoven,,,,"true"
+7043633,patil.santhosh@jsw.in,61,24,0,85,30/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Santosh M Patil,DIC Cokeoven,,,,"true"
+1041243,bhawar.chaudhary@jsw.in,59,36,0,95,30/03/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Bhawarlal Ghisaram Chaudhary,DIC Cokeoven,,,,"true"
+1048719,karthikkumar.akula@jsw.in,86,22,0,108,30/03/2026,SILVER,2,"Coke Ovens III,IV,CDQ",Karthik Kumar A,DIC Cokeoven,,,,"true"
+1090746,anand.chaudhari@jsw.in,77,40,0,117,30/03/2026,GOLD,1,Production Planning & Control (PPC),Anand Kumar Chaudhari,Services,,,,"true"
+1091498,rubeena.thaisildar@jsw.in,48,39,0,87,30/03/2026,PASS,1,Production Planning & Control (PPC),Rubeena Thaisildar,Services,,,,"true"
+1096012,shrushti.pande@jsw.in,78,40,0,118,30/03/2026,GOLD,1,Production Planning & Control (PPC),SHRUSHTI PANDE,Services,,,,"true"
+1031884,hari.ambati@jsw.in,71,38,0,109,30/03/2026,SILVER,1,Production Planning & Control (PPC),Hariprasad A,Services,,,,"true"
+1105944,ayushi.dwivedi@jsw.in,77,38,0,115,30/03/2026,GOLD,1,Production Planning & Control (PPC),Ayushi Dwivedi,Services,,,,"true"
+1092508,amiya.lenka@jsw.in,87,39,0,126,30/03/2026,PLATINUM,1,Production Planning & Control (PPC),Amiya Kumar Lenka,Services,,,,"true"
+1097472,danderoshini@jsw.in,76,40,0,116,30/03/2026,GOLD,1,Production Planning & Control (PPC),DANDE ROSHINI .,Services,,,,"true"
+1095310,rajapriya.y@jsw.in,87,39,0,126,30/03/2026,PLATINUM,1,Production Planning & Control (PPC),RAJAPRIYA Y,Services,,,,"true"
+1101702,sriram.bairi@jsw.in,80,29,0,109,30/03/2026,SILVER,1,Production Planning & Control (PPC),SRIRAM BAIRI,Services,,,,"true"
+1030907,s.nizamuddin@jsw.in,76,36,0,112,30/03/2026,GOLD,1,Production Planning & Control (PPC),S Nizamuddin,Services,,,,"true"
+1032864,srinivas.peruri@jsw.in,63,39,0,102,30/03/2026,SILVER,1,Production Planning & Control (PPC),Peruri Srinivas,Services,,,,"true"
+2750745,vishnu.desai@jsw.in,39,0,0,39,30/03/2026,FAIL,2,Production Planning & Control (PPC),Vishnu Prasad Desai,Services,,,,"true"
+1045385,shivakumar.b@jsw.in,61,40,0,101,30/03/2026,SILVER,2,Production Planning & Control (PPC),Shivakumar B,Services,,,,"true"
+1035089,charanaraj.janamatti@jsw.in,65,11,0,76,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Janamatti Charanaraj,DIC Cokeoven,,,,"true"
+7030575,ravi.hegde@jsw.in,69,39,0,108,31/03/2026,SILVER,1,"Coke Ovens III,IV,CDQ",Ravi K Hegde,DIC Cokeoven,,,,"true"
+1091209,ajeet.rai@jsw.in,67,34,0,101,31/03/2026,SILVER,1,"Coke Ovens III,IV,CDQ",AJEET KUMAR RAI,DIC Cokeoven,,,,"true"
+7045120,deepakkumar.sah@jsw.in,57,36,0,93,31/03/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Deepak Kumar,DIC Cokeoven,,,,"true"
+1107527,abiuth.f@jsw.in,49,6,0,55,31/03/2026,FAIL,2,"Coke Ovens III,IV,CDQ",Abiuth Xavier F,DIC Cokeoven,,,,"true"
+1033082,sudhakara.kg@jsw.in,77,20,0,97,31/03/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Sudhakara K G,DIC Cokeoven,,,,"true"
+1046198,guru.karlatti@jsw.in,48,37,0,85,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Guru Shivaputra Karlatti,DIC Cokeoven,,,,"true"
+1027632,sreenath.chitrala@jsw.in,50,0,0,50,31/03/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Sreenath C,DIC Cokeoven,,,,"true"
+1034468,kumar.Vinay@jsw.in,53,0,0,53,31/03/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Vinay Kumar K,DIC Cokeoven,,,,"true"
+1027622,niranjan.murthy@jsw.in,60,27,0,87,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Niranjan Murthy S,DIC Cokeoven,,,,"true"
+1044411,prashanth.bellary@jsw.in,61,40,0,101,31/03/2026,SILVER,3,Coke Ovens V,Prashanth B,DIC Cokeoven,,,,"true"
+1041124,mallikarjuna.naidu@jsw.in,69,8,0,77,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Mallijkarjuna Naidu A,DIC Cokeoven,,,,"true"
+1015635,sanjeev.senapaty@jsw.in,49,12,0,61,31/03/2026,FAIL,2,"Coke Ovens III,IV,CDQ",Y Sanjeev Senapaty,DIC Cokeoven,,,,"true"
+1096243,rajakumar.chandolu@jsw.in,56,6,0,62,31/03/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Rajakumar Chandolu,DIC Cokeoven,,,,"true"
+1032085,adivappa.kuna@jsw.in,52,29,0,81,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Adivappa K P,DIC Cokeoven,,,,"true"
+1093061,sayan.sengupta@jsw.in,68,28,0,96,31/03/2026,BRONZE,2,"Coke Ovens III,IV,CDQ",Sayan Sengupta,DIC Cokeoven,,,,"true"
+1090519,basavaraja.km@jsw.in,66,39,0,105,31/03/2026,SILVER,1,Coke Ovens V,Basavaraja K M,DIC Cokeoven,,,,"true"
+1097631,vrajakesava.reddy@jsw.in,45,32,0,77,31/03/2026,PASS,2,"Coke Ovens III,IV,CDQ",V Rajakesava Reddy,DIC Cokeoven,,,,"true"
+1041285,surendar.natesan@jsw.in,77,18,0,95,31/03/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Surendar N,DIC Cokeoven,,,,"true"
+1041425,phaniraj.bellary@jsw.in,77,20,0,97,31/03/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Phaniraj R,DIC Cokeoven,,,,"true"
+1043168,praveenkumar.ullegaddi@jsw.in,59,40,0,99,31/03/2026,BRONZE,1,"Civil & Engineering Services,Structural",Praveenkumar Ullegaddi,Services,,,,"true"
+1091098,ms.reddy@jsw.in,45,8,0,53,31/03/2026,FAIL,1,"Coke Ovens III,IV,CDQ",M S Siva Sai Kumar Reddy,DIC Cokeoven,,,,"true"
+1027751,shaikshavali.shaik@jsw.in,41,36,0,77,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Shaikshavali .,DIC Cokeoven,,,,"true"
+1041976,sachin.kumar@jsw.in,51,25,0,76,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Sachin Kumar,DIC Cokeoven,,,,"true"
+1044236,paramveersingh.rathore@jsw.in,54,27,0,81,31/03/2026,PASS,1,Logistics,Paramveer Singh Rathore,Services,,,,"true"
+1048689,thipperudrappa.bhari@jsw.in,54,23,0,77,31/03/2026,PASS,3,"Coke Ovens III,IV,CDQ",Thipperudrappa B T,DIC Cokeoven,,,,"true"
+1043353,peram.reddy@jsw.in,70,36,0,106,31/03/2026,SILVER,1,"Coke Ovens III,IV,CDQ",Peram Nagarjuna Reddy,DIC Cokeoven,,,,"true"
+1041170,krishnam.dv@jsw.in,49,36,0,85,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Krishnam Raju D V,DIC Cokeoven,,,,"true"
+1044079,ratnesh.ravi@jsw.in,65,36,0,101,31/03/2026,SILVER,1,"Coke Ovens III,IV,CDQ",Ratnesh Ravi,DIC Cokeoven,,,,"true"
+1094117,s.grandhi@jsw.in,67,39,0,106,31/03/2026,SILVER,2,"Coke Ovens III,IV,CDQ",Grandhi Venkata Soma Surya Narayana Murthy,DIC Cokeoven,,,,"true"
+1106244,vetcha.naveen@jsw.in,52,24,0,76,31/03/2026,PASS,1,"Coke Ovens III,IV,CDQ",Vetcha RV Naveen,DIC Cokeoven,,,,"true"
+1034781,ranganatha.desai@jsw.in,48,37,0,85,31/03/2026,PASS,2,"Coke Ovens III,IV,CDQ",Ranganatha Desai,DIC Cokeoven,,,,"true"
+1032503,pratip.setty@jsw.in,63,29,0,92,1/4/2026,BRONZE,1,Central Maintenance,Pratipa Kumar G T,Services,,,,"true"
+1107469,chokkapu.bhaskararao@jsw.in,57,24,0,81,1/4/2026,PASS,1,Logistics,Chokkapu Bhaskara Rao,Services,,,,"true"
+1108577,chitimireddy.sudhakar@jsw.in,59,38,0,97,1/4/2026,BRONZE,1,Logistics,Chitimireddy Sudhakar,Services,,,,"true"
+1095988,muthushankarr.k@jsw.in,50,40,0,90,1/4/2026,PASS,1,Logistics,MUTHUSHANKARR K,Services,,,,"true"
+1107455,logeshwaran.s@jsw.in,55,29,0,84,2/4/2026,PASS,2,CRGO,Logeshwaran S,DIC Mill,,,,"true"
+1105698,swadhin.jena@jsw.in,71,8,0,79,2/4/2026,PASS,1,"Blast Furnace I,II",Swadhin Kumar Jena,DIC Iron making,,,,"true"
+1043953,vijaykumar.gullapelli@jsw.in,52,12,0,64,2/4/2026,FAIL,2,Raw Material Handling System,Vijaykumar Gullapelli,DIC RMHS,,,,"true"
+1097546,anugrah.tv@jsw.in,47,37,0,84,2/4/2026,PASS,1,Logistics,ANUGRAH T V,Services,,,,"true"
+1091589,shashvat.raj@jsw.in,48,29,0,77,2/4/2026,PASS,1,Logistics,Shashvat Raj,Services,,,,"true"
+1100892,sreeman.p@jsw.in,52,25,0,77,2/4/2026,PASS,3,Logistics,Sreeman Ragav P,Services,,,,"true"
+1095963,mohamed.iqbala@jsw.in,31,10,0,41,3/4/2026,FAIL,1,Coke Ovens V,MOHAMED IQBAL  A,DIC Cokeoven,,,,"true"
+1090561,satrajit.datta@jsw.in,44,26,0,70,3/4/2026,FAIL,1,Coke Ovens V,Satrajit Datta,DIC Cokeoven,,,,"true"
+1107547,janaki.d@jsw.in,44,29,0,73,3/4/2026,FAIL,2,Hot Strip Mill II,Janaki Raman D,DIC Mill,,,,"true"
+1089952,muralidhar.mallya@jsw.in,51,29,0,80,3/4/2026,PASS,1,"Blast Furnace I,II",Muralidhar M Mallya,DIC Iron making,,,,"true"
+1095977,manoj.bagewadi@jsw.in,57,29,0,86,3/4/2026,PASS,1,Central Maintenance,MANOJ BAGEWADI,Services,,,,"true"
+1027462,yellappa.godimi@jsw.in,34,16,0,50,3/4/2026,FAIL,1,"Blast Furnace I,II",Yellappa .,DIC Iron making,,,,"true"
+1087829,bonam.sai@jsw.in,77,36,0,113,3/4/2026,GOLD,1,"Oxygen Plant,Industrial Gas",Bonam Bhargava Sai,DIC Utility,,,,"true"
+1101715,rahul.k1@jsw.in,61,40,0,101,3/4/2026,SILVER,2,Central Maintenance,RAHUL K,Services,,,,"true"
+6090326,v_kotaiah.katragadda@jsw.in,0,0,,0,3/4/2026,FAIL,3,,,,,,,"false"
+1096038,venkatesh.ks@jsw.in,39,0,0,39,3/4/2026,FAIL,1,"Oxygen Plant,Industrial Gas",VENKATESH S K,DIC Utility,,,,"true"
+1105771,duvaragesh.n@jsw.in,48,35,0,83,3/4/2026,PASS,1,Raw Material Handling System,Duvaragesh N,DIC RMHS,,,,"true"
+1096131,deepanshu.mangla@jsw.in,51,18,0,69,3/4/2026,FAIL,1,Raw Material Handling System,DEEPANSHU MANGLA,DIC RMHS,,,,"true"
+1094315,jayakumar.a@jsw.in,49,14,0,63,3/4/2026,FAIL,1,Coke Ovens V,JAYAKUMAR A,DIC Cokeoven,,,,"true"
+1101559,ashutosh.singh1@jsw.in,73,31,0,104,3/4/2026,SILVER,1,Logistics,ASHUTOSH SINGH,Services,,,,"true"
+1097442,paidipala.apoorva@jsw.in,81,40,0,121,3/4/2026,PLATINUM,1,Logistics,PAIDIPALA APOORVA,Services,,,,"true"
+1023029,ksai.sudha@jsw.in,76,27,0,103,4/4/2026,SILVER,1,"I-Shop,Central Repair Shop",K Sai Sudha,Services,,,,"true"
+1024352,somashekhar.g@jsw.in,39,38,0,77,4/4/2026,PASS,1,"I-Shop,Central Repair Shop",Somashekhar G,Services,,,,"true"
+1102787,mushkan@jsw.in,88,40,0,128,4/4/2026,PLATINUM,1,Manufacturing Excellence,MUSHKAN .,,,,,"true"
+6090046,fatima.kaneez@jsw.in,53,38,0,91,4/4/2026,BRONZE,1,Information Technology,Khaneez Raidurga,Services,,,,"true"
+1095505,smrutiranjan.panda1@jsw.in,75,34,0,109,4/4/2026,SILVER,1,"I-Shop,Central Repair Shop",Smruti Ranjan Panda,Services,,,,"true"
+6090041,swapna.sreenivas@jsw.in,62,33,0,95,4/4/2026,BRONZE,1,Information Technology,Swapna Sreenivas,Services,,,,"true"
+1089736,shireen.taj@jsw.in,82,25,0,107,4/4/2026,SILVER,1,"I-Shop,Central Repair Shop",Shireen Taj,Services,,,,"true"
+1097429,alekhya.goli@jsw.in,56,35,0,91,4/4/2026,BRONZE,1,"I-Shop,Central Repair Shop",Alekhya Goli,Services,,,,"true"
+1090804,gajjvelli.prasad@jsw.in,60,32,0,92,4/4/2026,BRONZE,1,"I-Shop,Central Repair Shop",Gajjvelli Siva Prasad,Services,,,,"true"
+1094670,gopal.yadav@jsw.in,71,38,0,109,4/4/2026,SILVER,1,"I-Shop,Central Repair Shop",GOPAL ARVIND KUMAR YADAV,Services,,,,"true"
+1097928,chandan.bharadwaj@jsw.in,73,38,0,111,4/4/2026,GOLD,1,"I-Shop,Central Repair Shop",Chandan Bharadwaj,Services,,,,"true"
+1094617,santosh.patilp@jsw.in,68,35,0,103,4/4/2026,SILVER,1,"I-Shop,Central Repair Shop",Santosh Parasharam Patil,Services,,,,"true"
+1023026,abhishek.b@jsw.in,77,34,0,111,4/4/2026,GOLD,1,"I-Shop,Central Repair Shop",Abhishek B,Services,,,,"true"
+1094157,anand.singh1@jsw.in,63,28,0,91,4/4/2026,BRONZE,1,"I-Shop,Central Repair Shop",ANAND PRAKASH SINGH,Services,,,,"true"
+1018173,sharad.pandey@jsw.in,65,29,0,94,4/4/2026,BRONZE,1,"I-Shop,Central Repair Shop",Sharad Pandey,Services,,,,"true"
+7046715,jagadeesh.sharanbasava@jsw.in,75,36,0,111,4/4/2026,GOLD,2,"Coke Ovens III,IV,CDQ",Jagadeesh .,DIC Cokeoven,,,,"true"
+1101824,anindita.das@jsw.in,63,38,0,101,4/4/2026,SILVER,1,Manufacturing Excellence,ANINDITA DAS,,,,,"true"
+1102780,priyanka.mandal@jsw.in,52,26,0,78,4/4/2026,PASS,1,Manufacturing Excellence,Priyanka Mandal,,,,,"true"
+1101804,jyoti@jsw.in,64,39,0,103,4/4/2026,SILVER,2,Manufacturing Excellence,JYOTI .,,,,,"true"
+1102777,mohammad.hussain2@jsw.in,47,40,0,87,4/4/2026,PASS,1,Manufacturing Excellence,MOHAMMAD ADIL HUSSAIN,,,,,"true"
+1098523,somashekhara.sd@jsw.in,68,33,0,101,4/4/2026,SILVER,2,"Coke Ovens III,IV,CDQ",Somashekhara S D,DIC Cokeoven,,,,"true"
+1097560,kumarchiranjeeb.dey@jsw.in,85,14,0,99,4/4/2026,BRONZE,1,"I-Shop,Central Repair Shop",Kumar Chiranjeeb Dey,Services,,,,"true"
+1101580,harsh.singh2@jsw.in,0,35,0,35,4/4/2026,FAIL,1,Product Development & Quality Control,HARSH SINGH,Services,,,,"false"
+1023060,choudhary.prashant@jsw.in,0,34,0,34,4/4/2026,FAIL,1,Product Development & Quality Control,Prashant Choudhary,Services,,,,"false"
+1032497,kalyani.sahu@jsw.in,53,28,0,81,4/4/2026,PASS,1,Product Development & Quality Control,Kalyani Sahu,Services,,,,"true"
+1089557,rajesh.goyal@jsw.in,71,32,0,103,4/4/2026,SILVER,1,Technology Excellence,Rajesh Kumar Goyal,Services,,,,"true"
+1096432,bubu.pradhan@jsw.in,66,31,0,97,4/4/2026,BRONZE,1,Product Development & Quality Control,Bubu Pradhan,Services,,,,"true"
+1102629,abhishek.mycherla@jsw.in,68,20,0,88,4/4/2026,PASS,1,Product Development & Quality Control,Abhishek Mycherla,Services,,,,"true"
+1096429,chakka.saisri@jsw.in,55,22,0,77,4/4/2026,PASS,1,Product Development & Quality Control,CHAKKA SAI SRI,Services,,,,"true"
+1101566,kuracha.radhika@jsw.in,70,36,0,106,4/4/2026,SILVER,1,Product Development & Quality Control,KURACHA RADHIKA,Services,,,,"true"
+1027823,naveen.narasimhamurthy@jsw.in,50,29,0,79,4/4/2026,PASS,1,Product Development & Quality Control,Naveen K N,Services,,,,"true"
+1102649,saranya.vp@jsw.in,69,34,0,103,4/4/2026,SILVER,1,Product Development & Quality Control,Saranya V P,Services,,,,"true"
+1101758,ruchir.porwal@jsw.in,67,38,0,105,4/4/2026,SILVER,1,Product Development & Quality Control,RUCHIR PORWAL,Services,,,,"true"
+1100693,sahana@jsw.in,82,39,0,121,4/4/2026,PLATINUM,1,Product Development & Quality Control,Sahana .,Services,,,,"true"
+1089341,atul.soni@jsw.in,60,34,0,94,4/4/2026,BRONZE,1,Product Development & Quality Control,Atul Soni,Services,,,,"true"
+1027305,sunilkumar.balegara@jsw.in,51,11,0,62,4/4/2026,FAIL,1,Product Development & Quality Control,Sunil Kumar Bs,Services,,,,"true"
+1101880,devipriya.singuru@jsw.in,58,39,0,97,4/4/2026,BRONZE,1,Product Development & Quality Control,Devi Priya Singuru,Services,,,,"true"
+1032174,anita.dunga@jsw.in,72,40,0,112,4/4/2026,GOLD,1,Product Development & Quality Control,Dunga Anita,Services,,,,"true"
+1096397,gannavarapu.teja@jsw.in,81,40,0,121,4/4/2026,PLATINUM,1,Product Development & Quality Control,Gannavarapu Krishna Teja,Services,,,,"true"
+1096414,navratan.panwar@jsw.in,60,25,0,85,4/4/2026,PASS,1,Product Development & Quality Control,Navratan Panwar,Services,,,,"true"
+1105676,uppununthala.anil@jsw.in,57,19,0,76,4/4/2026,PASS,1,Product Development & Quality Control,Uppununthala Anil,Services,,,,"true"
+1096430,trupti.pattanaik@jsw.in,65,36,0,101,4/4/2026,SILVER,1,Product Development & Quality Control,Trupti Ranjan Pattanaik,Services,,,,"true"
+1096439,abhishek.pradhan1@jsw.in,69,35,0,104,4/4/2026,SILVER,1,Product Development & Quality Control,Abhishek Pradhan,Services,,,,"true"
+1101700,kocharla.saidurgadeepak@jsw.in,81,40,0,121,4/4/2026,PLATINUM,2,Product Development & Quality Control,KOCHARLA SAI DURGA DEEPAK,Services,,,,"true"
+1090075,Karthik.sekar@jsw.in,66,39,0,105,4/4/2026,SILVER,1,Product Development & Quality Control,Karthik Sekar S,Services,,,,"true"
+1091764,varun.m@jsw.in,64,39,0,103,4/4/2026,SILVER,1,Product Development & Quality Control,Varun M,Services,,,,"true"
+1096411,prashant.verma@jsw.in,72,32,0,104,4/4/2026,SILVER,1,Product Development & Quality Control,PRASHANT KUMAR VERMA,Services,,,,"true"
+1090071,rashid.mumtaz@jsw.in,66,35,0,101,4/4/2026,SILVER,1,Product Development & Quality Control,Rashid Mumtaz,Services,,,,"true"
+1096493,vamsikrishna.bagadi@jsw.in,83,40,0,123,4/4/2026,PLATINUM,1,Product Development & Quality Control,Vamsikrishna Bagadi,Services,,,,"true"
+1107564,yallanaga.udaysiddhu@jsw.in,58,39,0,97,4/4/2026,BRONZE,1,Product Development & Quality Control,Yalla Naga Uday Siddhu,Services,,,,"true"
+1096454,debabrata.bhuyan@jsw.in,45,39,0,84,4/4/2026,PASS,1,Product Development & Quality Control,Debabrata Bhuyan,Services,,,,"true"
+1048990,srimon.paramasivan@jsw.in,71,31,0,102,4/4/2026,SILVER,1,Product Development & Quality Control,Srimon Narayanasamy P,Services,,,,"true"
+1091674,rahul.kr@jsw.in,63,13,0,76,4/4/2026,PASS,1,Product Development & Quality Control,Rahul K R,Services,,,,"true"
+1107453,anupam.adhikari@jsw.in,62,39,0,101,4/4/2026,SILVER,1,Product Development & Quality Control,Anupam Adhikari,Services,,,,"true"
+1098679,dineshkumar.m@jsw.in,73,35,0,108,4/4/2026,SILVER,1,Product Development & Quality Control,Dineshkumar M,Services,,,,"true"
+1096428,garima.verma@jsw.in,65,37,0,102,4/4/2026,SILVER,1,Product Development & Quality Control,GARIMA VERMA,Services,,,,"true"
+1021279,challuri.sandeepika@jsw.in,61,32,0,93,4/4/2026,BRONZE,1,Product Development & Quality Control,Challuri Sandeepika,Services,,,,"true"
+1102553,bhuvaneswaran.r@jsw.in,78,27,0,105,4/4/2026,SILVER,1,Product Development & Quality Control,BHUVANESWARAN R,Services,,,,"true"
+1105802,angoth.alekya@jsw.in,57,39,0,96,4/4/2026,BRONZE,2,JFE Excellence Cell,Angoth Alekya,,,,,"true"
+1091129,subhnit.roy@jsw.in,54,24,0,78,4/4/2026,PASS,1,Product Development & Quality Control,Subhnit Kumar Roy,Services,,,,"true"
+1089346,a.chandragiri@jsw.in,62,33,0,95,4/4/2026,BRONZE,1,Product Development & Quality Control,Chandragiri Anjireddy,Services,,,,"true"
+1048213,pari.ranganathan@jsw.in,71,30,0,101,4/4/2026,SILVER,1,Product Development & Quality Control,Pari R,Services,,,,"true"
+1090461,smruti.pattanayak@jsw.in,63,34,0,97,4/4/2026,BRONZE,1,Product Development & Quality Control,Smruti Ranjan Pattanayak,Services,,,,"true"
+1091396,vivek.yadav3@jsw.in,65,39,0,104,4/4/2026,SILVER,1,Product Development & Quality Control,Vivek Kumar Yadav,Services,,,,"true"
+1107472,abhishek.jha1@jsw.in,78,37,0,115,4/4/2026,GOLD,1,Product Development & Quality Control,Abhishek Kumar Jha,Services,,,,"true"
+1107649,r.sayan@jsw.in,29,18,0,47,4/4/2026,FAIL,1,Product Development & Quality Control,Sayan Roy,Services,,,,"true"
+1107525,harsh.bhagat@jsw.in,84,21,0,105,4/4/2026,SILVER,1,Product Development & Quality Control,Harsh Bhagat,Services,,,,"true"
+1107490,achla.roy@jsw.in,53,14,0,67,4/4/2026,FAIL,1,Product Development & Quality Control,Achla Roy,Services,,,,"true"
+1096431,archit@jsw.in,47,40,0,87,4/4/2026,PASS,1,Product Development & Quality Control,Archit Kumar,Services,,,,"true"
+1031731,pradeep.agarwal@jsw.in,67,24,0,91,4/4/2026,BRONZE,3,Product Development & Quality Control,Pradeep Agarwal,Services,,,,"true"
+1101617,hardik.garg@jsw.in,69,38,0,107,8/4/2026,SILVER,1,Logistics,Hardik Garg,Services,,,,"true"
+1096090,shashank.deshpande@jsw.in,53,33,0,86,8/4/2026,PASS,1,Logistics,Shashank Deshpande,Services,,,,"true"
+1096093,p.chandrashekhar@jsw.in,71,40,0,111,8/4/2026,GOLD,1,Logistics,CHANDRASHEKHAR V PATTAR,Services,,,,"true"
+1105707,muthukumaran.g@jsw.in,42,39,0,81,8/4/2026,PASS,1,Coke Ovens V,Muthukumaran R G,DIC Cokeoven,,,,"true"
+1105721,immanuvel.e@jsw.in,47,37,0,84,8/4/2026,PASS,1,Coke Ovens V,Immanuvel E,DIC Cokeoven,,,,"true"
+1097447,mayank.dewasthale@jsw.in,64,37,0,101,8/4/2026,SILVER,1,Logistics,Mayank Dewasthale,Services,,,,"true"
+1042604,karabasana.gouda@jsw.in,55,36,0,91,8/4/2026,BRONZE,1,Steel Melting Shop III,Karabasanagouda Naganagoudra,DIC Steel,,,,"true"
+1097492,tapan.pandey@jsw.in,71,40,0,111,8/4/2026,GOLD,1,Logistics,Tapan Pandey,Services,,,,"true"
+1107510,yaszwanth.m@jsw.in,32,16,0,48,10/4/2026,FAIL,1,Raw Material Handling System,Yaszwanth M,DIC RMHS,,,,"true"
+1031029,vijayakumar.patil@jsw.in,55,30,0,85,10/4/2026,PASS,1,Logistics,Vijayakumar Annappagouda Patil,Services,,,,"true"
+1107643,k.shrihari@jsw.in,50,26,0,76,10/4/2026,PASS,1,Logistics,Shrihari Satish Kulkarni,Services,,,,"true"
+1105993,harshavardhan.uppar@jsw.in,55,16,0,71,10/4/2026,FAIL,1,Logistics,Harshavardhan H Uppar,Services,,,,"true"
+1089036,E.Praveena@jsw.in,34,0,42,76,10/4/2026,PASS,1,"Civil & Engineering Services,Structural",E Praveena,Services,,,,"true"
+1101799,sagari.c@jsw.in,38,0,40,78,10/4/2026,PASS,1,Refractories,Sagari C,Services,,,,"true"
+1105756,harish.r1@jsw.in,38,0,38,76,10/4/2026,PASS,2,Cold Rolling Mill I,Harish R,DIC Mill,,,,"true"
+1027490,rajendra.prasadg@jsw.in,28,20,30,78,10/4/2026,PASS,1,"Blast Furnace I,II",Rajendra Prasad G,DIC Iron making,,,,"true"
+1095354,kmpreeti.agrahari@jsw.in,40,0,36,76,10/4/2026,PASS,1,Coke Ovens V,KM Preeti Agrahari,DIC Cokeoven,,,,"true"
+1095950,samrudh.patila@jsw.in,22,0,56,78,10/4/2026,PASS,1,"Civil & Engineering Services,Structural",Samrudh Patila,Services,,,,"true"
+1030524,narendra.talakallu@jsw.in,51,26,0,77,10/4/2026,PASS,1,Logistics,Narendra T M,Services,,,,"true"
+1045257,harichandar.rajendran@jsw.in,27,0,52,79,10/4/2026,PASS,1,Logistics,Harichandhar R,Services,,,,"true"
+1027038,nataraj.gupta@jsw.in,71,0,5,76,10/4/2026,PASS,1,Logistics,Nataraj  S S Gupta,Services,,,,"true"
+1095964,shresta.tr@jsw.in,80,26,0,106,10/4/2026,SILVER,1,Logistics,SHRESTA T R,Services,,,,"true"
+1107638,prajwal1@jsw.in,34,0,45,79,10/4/2026,PASS,2,Refractory,Prajwal .,,,,,"true"
+1092451,g.laxmankumar@jsw.in,2,0,74,76,10/4/2026,PASS,1,Logistics,Laxman Kumar Gangireddi,Services,,,,"true"
+1047643,vikaskumar.sharma@jsw.in,74,0,2,76,10/4/2026,PASS,1,Technology Excellence,Vikas Sharma,Services,,,,"true"
+1049552,srinivas.kulkarni@jsw.in,11,0,66,77,10/4/2026,PASS,2,"Civil & Engineering Services,Structural",Srinivas Kulkarni,Services,,,,"true"
+1102784,k.subhash@jsw.in,74,32,0,106,11/4/2026,SILVER,1,Manufacturing Excellence,Subhash Kumar,,,,,"true"
+1091656,raghavendra.p1@jsw.in,0,22,0,22,11/4/2026,FAIL,1,"I-Shop,Central Repair Shop",Raghavendra P,Services,,,,"false"
+1097430,sandeepkumar.mahato@jsw.in,84,29,0,113,11/4/2026,GOLD,1,"I-Shop,Central Repair Shop",Sandeep Kumar Mahato,Services,,,,"true"
+1097374,md.saikh@jsw.in,82,39,0,121,11/4/2026,PLATINUM,1,"I-Shop,Central Repair Shop",MD TAUSIF SAIKH,Services,,,,"true"
+1097931,m.srivarsha@jsw.in,81,30,0,111,11/4/2026,GOLD,1,"I-Shop,Central Repair Shop",Sri Varsha Modalavalasa,Services,,,,"true"
+6090045,hariprasad.bariki@jsw.in,74,29,0,103,11/4/2026,SILVER,1,Information Technology,Hari Prasad Barki,Services,,,,"true"
+1101860,ankit.pandita@jsw.in,70,37,0,107,11/4/2026,SILVER,1,Manufacturing Excellence,Ankit Pandita,,,,,"true"
+6090280,nabi.rasool@jsw.in,56,31,0,87,11/4/2026,PASS,1,Information Technology,Mohammad Nabi Rasool,Services,,,,"true"
+1089735,asma.husn@jsw.in,51,26,0,77,11/4/2026,PASS,2,"I-Shop,Central Repair Shop",Asma E Husn,Services,,,,"true"
+6090393,rudresh.angadi@jsw.in,66,35,0,101,11/4/2026,SILVER,2,Information Technology,Rudresh Angadi,Services,,,,"true"
+1089738,bhuvaneshwari.v@jsw.in,82,39,0,121,11/4/2026,PLATINUM,1,"I-Shop,Central Repair Shop",Bhuvaneshwari V,Services,,,,"true"
+6090361,SUHASINI T GHALI@jsw.in,69,39,0,108,11/4/2026,SILVER,1,Information Technology,Suhasini T Ghali,Services,,,,"true"
+6090126,basavaraj.chirthanal@jsw.in,77,8,0,85,11/4/2026,PASS,1,Information Technology,Karibasappa Chirthanal,Services,,,,"true"
+1101809,vinay.gahlyan@jsw.in,82,36,0,118,11/4/2026,GOLD,1,Manufacturing Excellence,VINAY GAHLYAN,,,,,"true"
+1102785,himani.bansal@jsw.in,79,34,0,113,11/4/2026,GOLD,1,Business Excellence,HIMANI BANSAL,,,,,"true"
+1107543,ashutosh.prabhakar@jsw.in,66,32,0,98,11/4/2026,BRONZE,1,Production Planning & Control (PPC),Ashutosh Prabhakar,Services,,,,"true"
+1031748,thriveni.krishna@jsw.in,84,23,0,107,11/4/2026,SILVER,2,Production Planning & Control (PPC),Thriveni B,Services,,,,"true"
+1048974,ajay.ediga@jsw.in,80,39,0,119,11/4/2026,GOLD,3,Customer Service Department,Ajay Kumar E,Services,,,,"true"
+1049365,govind.shekhawat@jsw.in,63,39,0,102,11/4/2026,SILVER,1,Information Technology,Govind Singh Shekhawat,Services,,,,"true"
+1045090,manjunath.jadhav@jsw.in,79,19,0,98,11/4/2026,BRONZE,2,Production Planning & Control (PPC),Manjunath Sahadev Jadhav,Services,,,,"true"
+1101601,mirza.amreenbegum@jsw.in,76,29,0,105,11/4/2026,SILVER,2,Production Planning & Control (PPC),MIRZA AMREEN BEGUM,Services,,,,"true"
+1097449,sahitya.pasupuleti@jsw.in,65,37,0,102,11/4/2026,SILVER,1,Production Planning & Control (PPC),Sahitya Pasupuleti,Services,,,,"true"
+6090202,satyanarayana.veeravenkata@jsw.in,42,39,0,81,11/4/2026,PASS,1,Information Technology,Veeravenkata Satyanarayana Dhanivireddy,Services,,,,"true"
+1047880,sandeep.veeresh@jsw.in,57,36,0,93,11/4/2026,BRONZE,2,Production Planning & Control (PPC),Sandeep H V,Services,,,,"true"
+1104253,rinki.chand@jsw.in,73,38,0,111,11/4/2026,GOLD,2,Information Technology,Rinki Chand,Services,,,,"true"
+1027162,prakash.h@jsw.in,38,24,0,62,17/04/2026,FAIL,1,Logistics,Prakash H,Services,,,,"true"
+1049790,karthik.k3@jsw.in,46,35,0,81,17/04/2026,PASS,3,Logistics,Karthik K,Services,,,,"true"
+1097539,nagarjun@jsw.in,79,37,0,116,17/04/2026,GOLD,3,Logistics,Nagarjun .,Services,,,,"true"
+1101849,pavithra.am@jsw.in,79,26,0,105,20/04/2026,SILVER,2,Technology Excellence,Pavithra A M,Services,,,,"true"
+1034024,murali.gunasekaran@jsw.in,47,34,0,81,20/04/2026,PASS,1,"Blast Furnace I,II",Murali G,DIC Iron making,,,,"true"
+1027364,mehabub.basha@jsw.in,50,28,0,78,20/04/2026,PASS,1,"Blast Furnace I,II",Mabu Basha Lb,DIC Iron making,,,,"true"
+1105786,riffath.a@jsw.in,57,35,0,92,21/04/2026,BRONZE,2,Corex I & II,Riffath Begum A,DIC Iron making,,,,"true"
+1102566,harsh.khawas@jsw.in,73,15,0,88,30/04/2026,PASS,1,Product Development & Quality Control,Harsh Khawas,Services,,,,"true"
+1101734,tirthkumar.girishbhaijambu@jsw.in,56,28,0,84,30/04/2026,PASS,1,Logistics,TIRTHKUMAR GIRISHBHAI JAMBU,Services,,,,"true"
+1105842,sumukh.gudi@jsw.in,20,0,,20,30/04/2026,FAIL,1,Raw Material Handling System,Sumukh Rajashankar Gudi,DIC RMHS,,,,"true"
+1101581,savar.jaiswal@jsw.in,55,30,0,85,30/04/2026,PASS,1,Central Maintenance,SAVAR JAISWAL,Services,,,,"true"
+1093977,sai.reddy@jsw.in,73,34,0,107,16/05/2026,SILVER,1,Customer Service Department,SAI KUMAR REDDY,Services,,,,"true"
+1018948,thiyyaguraashok.reddy@jsw.in,72,34,0,106,16/05/2026,SILVER,1,Customer Service Department,Thiyyagura Ashok Kumar Reddy,Services,,,,"true"
+1032985,dusangeppa.budihal@jsw.in,76,30,0,106,16/05/2026,SILVER,2,Customer Service Department,Dusangeppa Shivarayappa Budihal,Services,,,,"true"
+1029988,sampath.chintakuntavatar@jsw.in,76,28,0,104,16/05/2026,SILVER,1,Finance & Accounts,Sampath Kumar C V,,,,,"true"
+1026154,rukmini.kedar@jsw.in,72,25,0,97,16/05/2026,BRONZE,1,Customer Service Department,Rukmini R,Services,,,,"true"
+1104840,amish.jain@jsw.in,71,34,0,105,16/05/2026,SILVER,1,Finance & Accounts,Amish Kumar Jain,,,,,"true"
+1101745,yogesh.jadav@jsw.in,72,28,0,100,16/05/2026,BRONZE,2,Customer Service Department,YOGESH PARBATBHAI JADAV,Services,,,,"true"
+1025964,sudheendra.rao@jsw.in,68,35,0,103,16/05/2026,SILVER,3,Finance & Accounts,Sudheendra R Rao,,,,,"true"
+1093944,basanagouda@jsw.in,53,35,0,88,16/05/2026,PASS,1,Customer Service Department,Basanagouda .,Services,,,,"true"
+1026034,gopal.koppar@jsw.in,61,32,0,93,16/05/2026,BRONZE,1,Customer Service Department,Gopalmurti P Koppar,Services,,,,"true"
+1101888,rushitha.panduga@jsw.in,71,34,0,105,16/05/2026,SILVER,1,Customer Service Department,Rushitha Panduga,Services,,,,"true"
+1091567,savita.kumar@jsw.in,81,21,0,102,16/05/2026,SILVER,1,Customer Service Department,SAVITA NANDAN KUMAR,Services,,,,"true"
+1035028,shiva.kichidi@jsw.in,57,35,0,92,16/05/2026,BRONZE,2,Customer Service Department,Shiva K,Services,,,,"true"
+1095352,ankita.devi@jsw.in,83,17,0,100,16/05/2026,BRONZE,2,Customer Service Department,Ankita Devi,Services,,,,"true"
+1100680,viveka.u@jsw.in,66,28,0,94,16/05/2026,BRONZE,2,Customer Service Department,VIVEKA U,Services,,,,"true"
+1093963,nikhil.nalagoppula@jsw.in,82,23,0,105,16/05/2026,SILVER,1,Customer Service Department,Nikhil Nalagoppula,Services,,,,"true"
+1107523,prashant.kumar13@jsw.in,74,26,0,100,16/05/2026,BRONZE,1,Customer Service Department,Prashant Kumar,Services,,,,"true"
+1090875,arunkumar.j@jsw.in,75,24,0,99,16/05/2026,BRONZE,1,Customer Service Department,Arunkumar J,Services,,,,"true"
+1091031,kovvuri.kumar@jsw.in,73,28,,101,16/05/2026,SILVER,1,Customer Service Department,kovvuri Dileep kumar,Services,,,,"true"
+1107552,samala.ram@jsw.in,80,28,0,108,16/05/2026,SILVER,1,Customer Service Department,Samala Hemanth Ram,Services,,,,"true"
+1107508,machupalli.reddy@jsw.in,87,30,0,117,16/05/2026,GOLD,1,Customer Service Department,Machupalli Meganatha Reddy,Services,,,,"true"
+1024212,manjunath.b1@jsw.in,65,30,0,95,16/05/2026,BRONZE,1,Customer Service Department,Manjunath B,Services,,,,"true"
+1049999,kiran.krishnamurthy@jsw.in,78,23,0,101,16/05/2026,SILVER,1,Customer Service Department,Kiran V N K,Services,,,,"true"
+1093885,bheemarao.jadhav@jsw.in,83,27,0,110,16/05/2026,SILVER,2,Customer Service Department,Bheemarao Govindarao Jadhav,Services,,,,"true"
+1098512,divya.potluri@jsw.in,69,26,0,95,16/05/2026,BRONZE,1,Customer Service Department,Divya Lakshmi Potluri,Services,,,,"true"
+1105959,shiyam.k@jsw.in,78,32,0,110,16/05/2026,SILVER,2,Customer Service Department,Shiyam Vasanthan S K,Services,,,,"true"
+1095322,monalisha.mili@jsw.in,77,33,0,110,16/05/2026,SILVER,3,Customer Service Department,MONALISHA MILI,Services,,,,"true"
+1046318,pawan.reddy@jsw.in,80,40,0,120,16/05/2026,GOLD,1,Customer Service Department,Pawan Kumar Reddy,Services,,,,"true"
+1105828,nakkabala.vaishnavi@jsw.in,80,23,0,103,16/05/2026,SILVER,1,Customer Service Department,Nakka Bala Vaishnavi,Services,,,,"true"
+1107599,saiyam.arya@jsw.in,78,40,0,118,18/05/2026,GOLD,3,Customer Service Department,Saiyam Arya,Services,,,,"true"
+1100637,mohammed.adnan@jsw.in,78,35,0,113,21/05/2026,GOLD,3,Production Planning & Control (PPC),MOHAMMED ADNAN,Services,,,,"true"
+1044698,rakhesha.jawalkar@jsw.in,50,28,0,78,1/6/2026,PASS,1,Logistics,Rakhesha J,Services,,,,"true"
+1105583,rohit.sr@jsw.in,43,8,0,51,1/6/2026,FAIL,1,Logistics,Rohit S R,Services,,,,"true"
+1044067,rajabakshi.hamsagar@jsw.in,61,28,0,89,1/6/2026,PASS,1,Technology Excellence,Rajabakshi H,Services,,,,"true"
+1096050,suchitra.chavani@jsw.in,0,28,49,77,1/6/2026,PASS,2,Steel Melting Shop II,SUCHITRA CHAVANI,DIC Steel,,,,"false"
+1107536,dinesharavind.v@jsw.in,92,39,0,131,23/06/2026,DIAMOND,1,"Coke Ovens III,IV,CDQ",Dinesh Aravind V,DIC Cokeoven,,,,"true"
+1107609,v.swetha@jsw.in,69,32,0,101,23/06/2026,SILVER,1,Blast Furnace V,Swetha V,DIC Iron making,,,,"true"
+1104521,silambarasan.m@jsw.in,36,4,0,40,23/06/2026,FAIL,1,"Blast Furnace I,II",SILAMBARASAN M,DIC Iron making,,,,"true"
+1030432,harish.raju@jsw.in,43,39,0,82,23/06/2026,PASS,1,Production Planning & Control (PPC),Harish  Raju C M,Services,,,,"true"
+1030523,nagaraja.d@jsw.in,47,38,0,85,23/06/2026,PASS,1,Logistics,Nagaraja D,Services,,,,"true"
+1011529,manmath.sahoo@jsw.in,55,21,0,76,24/06/2026,PASS,1,Central Maintenance,Manmath Kumar Sahu,Services,,,,"true"
+1024215,b.shivakumar@jsw.in,50,28,0,78,24/06/2026,PASS,1,Central Maintenance,B SHIVAKUMARA,Services,,,,"true"
+1107550,varaka.ganesh@jsw.in,56,20,0,76,24/06/2026,PASS,1,Customer Service Department,Varaka Ganesh,Services,,,,"true"
+1090171,mohammed.a2@jsw.in,60,39,0,99,25/06/2026,BRONZE,1,Logistics,Mohammed Idris A,Services,,,,"true"
+1043202,ananth.reddy@jsw.in,56,0,0,56,25/06/2026,FAIL,2,"Sinter Plant II,III,IV,V",Anantha Reddy,DIC Agglotech,,,,"true"
+1107452,prerana.v@jsw.in,44,32,0,76,26/06/2026,PASS,1,"Pellet Plant II,III",Prerana N V,DIC Agglotech,,,,"true"
+1105841,mugunthan.g@jsw.in,69,24,0,93,26/06/2026,BRONZE,1,Production Planning & Control (PPC),Mugunthan G,Services,,,,"true"
+1096110,rishu.raj@jsw.in,65,39,0,104,26/06/2026,SILVER,1,Production Planning & Control (PPC),RISHU RAJ,Services,,,,"true"
+1095350,vasanthakumar.p@jsw.in,76,38,0,114,26/06/2026,GOLD,2,Steel Melting Shop I,VASANTHAKUMAR P,DIC Steel,,,,"true"
+1034699,fathima.begum@jsw.in,0,29,0,29,26/06/2026,FAIL,1,Customer Service Department,Fathima Begum,Services,,,,"false"
+1092000,srivaishnavi.m@jsw.in,80,33,0,113,26/06/2026,GOLD,1,Customer Service Department,Srivaishnavi M,Services,,,,"true"
+1092473,b.kumar1@jsw.in,61,34,0,95,26/06/2026,BRONZE,1,Customer Service Department,B Arun Kumar,Services,,,,"true"
+1095315,ganavi.p@jsw.in,80,36,0,116,26/06/2026,GOLD,1,Customer Service Department,GANAVI P,Services,,,,"true"
+1105678,kerankumar.r@jsw.in,46,32,0,78,26/06/2026,PASS,2,Customer Service Department,Kerankumar R,Services,,,,"true"
+1107561,routh.rao@jsw.in,49,27,0,76,26/06/2026,PASS,1,Customer Service Department,Routh Pratham Rao,Services,,,,"true"
+1108246,a.sunderraman@jsw.in,54,26,0,80,26/06/2026,PASS,1,Customer Service Department,A Sunder Raman,Services,,,,"true"
+1026152,vijay.simha@jsw.in,47,29,0,76,26/06/2026,PASS,1,Customer Service Department,Vijay U Simha,Services,,,,"true"
+1099745,pallejeshwanth.reddy@jsw.in,77,18,0,95,26/06/2026,BRONZE,1,Finance & Accounts,PALLE JESHWANTH REDDY,,,,,"true"
+1105855,priyadharshine.v@jsw.in,52,29,0,81,26/06/2026,PASS,2,Customer Service Department,Priyadharshine V,Services,,,,"true"
+1032740,dsouza.richard@jsw.in,36,12,0,48,27/06/2026,FAIL,1,Logistics,Richard D'souza,Services,,,,"true"
+1090261,sandeep.kushwaha@jsw.in,76,28,0,104,27/06/2026,SILVER,1,Product Development & Quality Control,Sandeep Kushwaha,Services,,,,"true"
+1033095,manjunath.lamani@jsw.in,43,33,0,76,27/06/2026,PASS,1,Logistics,Manjunath Lamani,Services,,,,"true"
+1049984,brijesh.mahajan@jsw.in,64,39,0,103,27/06/2026,SILVER,1,Logistics,Brijesh Mahajan,Services,,,,"true"
+1047217,sreekanth.akkula@jsw.in,61,40,0,101,27/06/2026,SILVER,1,Logistics,Sreekanth A,Services,,,,"true"
+1105581,adith.rakesh@jsw.in,46,8,0,54,27/06/2026,FAIL,1,Logistics,Adith Rakesh,Services,,,,"true"
+1108247,bheemraj.p@jsw.in,83,28,0,111,27/06/2026,GOLD,1,Logistics,Bheemraj P,Services,,,,"true"
+1105747,srivari.balajig@jsw.in,74,28,0,102,27/06/2026,SILVER,1,Production Planning & Control (PPC),Srivari Balaji G,Services,,,,"true"
+1105753,nithish.a@jsw.in,59,18,0,77,27/06/2026,PASS,1,JFE Excellence Cell,Nithish Anand A,,,,,"true"
+1105753,nithish.a@jsw.in,59,18,0,77,27/06/2026,PASS,1,JFE Excellence Cell,Nithish Anand A,"#N/A",,,,"false"
+1100640,meghana.nimmaka@jsw.in,62,19,0,81,29/06/2026,PASS,1,Steel Melting Shop I,MEGHANA NIMMAKA,"DIC Steel",,,,"false"
+1096098,satyam.singh1@jsw.in,87,30,0,117,29/06/2026,GOLD,1,Central Maintenance,Satyam Singh,"Services",,,,"false"
+1096125,bhoomika.kn@jsw.in,82,32,0,114,30/06/2026,GOLD,2,Central Maintenance,Bhoomika K N,"Services",,,,"false"
+1096224,abhirami.a@jsw.in,46,30,0,76,30/06/2026,PASS,2,Central Maintenance,Abhirami A,"Services",,,,"false"
+1095331,haritha.mirthipati@jsw.in,52,21,0,73,30/06/2026,FAIL,1,Steel Melting Shop I,Haritha Mirthipati,"DIC Steel",,,,"false"
+1099709,gandavarapu.siva@jsw.in,43,20,0,63,30/06/2026,FAIL,1,Hot Strip Mill II,Gandavarapu Siva,"DIC Mill",,,,"false"
+1101765,sowmya.dasari@jsw.in,81,40,0,121,30/06/2026,PLATINUM,1,Customer Service Department,SOWMYA DASARI,"Services",,,,"false"
+1105696,suganth.r@jsw.in,0,20,0,20,30/06/2026,FAIL,2,Raw Material Handling System,SUGANTH S R,"DIC RMHS",,,,"false"
+1100708,kanishk.p@jsw.in,48,19,0,67,30/06/2026,FAIL,1,Hot Strip Mill II,KANISHK HARAN P,"DIC Mill",,,,"false"
+1100760,keshavarshini.k@jsw.in,53,40,0,93,30/06/2026,BRONZE,1,Hot Strip Mill II,KESHAVARSHINI K,"DIC Mill",,,,"false"
+1107494,monica.v@jsw.in,51,20,0,71,30/06/2026,FAIL,2,Hot Strip Mill II,Monica A V,"DIC Mill",,,,"false"
+1105818,nrekha.mahalakshmi@jsw.in,54,22,0,76,30/06/2026,PASS,1,Hot Strip Mill II,N Rekha Mahalakshmi,DIC Mill,,,,"false"
+1105818,nrekha.mahalakshmi@jsw.in,54,22,0,76,30/06/2026,PASS,1,Hot Strip Mill II,N Rekha Mahalakshmi,"DIC Mill",,,,"false"
+1107617,rogeeth.c@jsw.in,41,36,0,77,1/7/2026,PASS,2,Hot Strip Mill II,Rogeeth C,"DIC Mill",,,,"false"
+1105730,bantupalli.abhilash@jsw.in,70,38,0,108,1/7/2026,SILVER,2,Hot Strip Mill II,Bantupalli Lalith Abhilash,"DIC Mill",,,,"false"
+1107538,shreejith.hk@jsw.in,65,35,0,100,1/7/2026,BRONZE,1,Hot Strip Mill II,Shreejith H K,"DIC Mill",,,,"false"
+1107617,rogeeth.c@jsw.in,41,36,0,77,1/7/2026,PASS,2,Hot Strip Mill II,Rogeeth C,"DIC Mill",,,,"false"
+1105730,bantupalli.abhilash@jsw.in,70,38,0,108,1/7/2026,SILVER,2,Hot Strip Mill II,Bantupalli Lalith Abhilash,"DIC Mill",,,,"false"
+1107538,shreejith.hk@jsw.in,65,35,0,100,1/7/2026,BRONZE,1,Hot Strip Mill II,Shreejith H K,"DIC Mill",,,,"false"
+1091584,nagaraju.bagam@jsw.in,72,22,0,94,2/7/2026,BRONZE,1,Steel Melting Shop III,Nagaraju Bagam,"DIC Steel",,,,"false"
+1032286,domendra.kumar@jsw.in,37,10,0,47,3/7/2026,FAIL,1,Lime Calcination Plant,Domendra Kumar,"DIC Steel",,,,"false"
+1096102,hiren.sojitra@jsw.in,58,12,0,70,3/7/2026,FAIL,1,Lime Calcination Plant,Hiren Hasmukhbhai Sojitra,"DIC Steel",,,,"false"
+1026755,pavan.albur@jsw.in,43,10,0,53,3/7/2026,FAIL,2,Lime Calcination Plant,Pavan A Kumar,"DIC Steel",,,,"false"
+1105783,muthaiahmuralidharan.k@jsw.in,47,29,0,76,3/7/2026,PASS,2,Blast Furnace V,Muthaiah  Muralidharan K,"DIC Iron making",,,,"false"
+1095377,sorabh.meena@jsw.in,68,40,0,108,4/7/2026,SILVER,1,Training,SORABH KUMAR MEENA,"#N/A",,,,"false"
+1096457,avinash.kumar6@jsw.in,60,40,0,100,4/7/2026,BRONZE,1,Sinter Plant III,AVINASH KUMAR,"#N/A",,,,"false"
+1031842,mayur.puthran@jsw.in,51,25,0,76,4/7/2026,PASS,1,Hot Strip Mill II,Mayur Puthran,"DIC Mill",,,,"false"
+1031135,rajashekhar.biradar@jsw.in,36,25,0,61,6/7/2026,FAIL,2,Logistics,Rajashekhar Siddanna Biradar,"Services",,,,"false"
+1027162,prakash.h@jsw.in,20,0, ,20,6/7/2026,FAIL,2,Logistics,Prakash H,"Services",,,,"false"
+1096088,archana.h@jsw.in,0,0, ,0,6/7/2026,FAIL,2,Project - Sinter Plant V,Archana H,"#N/A",,,,"false"
+1096088,archana.h@jsw.in,80,0, ,80,6/7/2026,PASS,3,Project - Sinter Plant V,Archana H,"#N/A",,,,"false"
+1109157,rahul.karmakar@jsw.in,55,25, ,80,6/7/2026,PASS,1,Cold Rolling Mill II,,"DIC Mill",,,,"false"
+1041643,deepakkumar.s@jsw.in,0,0, ,0,6/7/2026,FAIL,1,Logistics,Deepak Kumar S,"Services",,,,"false"
+1105827,udhayanjacob.s@jsw.in,52,24,0,76,6/7/2026,PASS,2,Sinter Plant V,Udhayan Jacob S,"#N/A",,,,"false"
+1105956,sanu.j@jsw.in,0,0, ,0,6/7/2026,FAIL,2,Manufacturing,Sanu J,"#N/A",,,,"false"
+1105956,sanu.j@jsw.in,47,32,0,79,6/7/2026,PASS,3,Manufacturing,Sanu J,"#N/A",,,,"false"
+1100408,balanagimokshith.reddy@jsw.in,0,0, ,0,6/7/2026,FAIL,1,Blast Furnace V,Balanagi Mokshith Reddy,"DIC Iron making",,,,"false"
+1100408,balanagimokshith.reddy@jsw.in,54,25,0,79,6/7/2026,PASS,2,Blast Furnace V,Balanagi Mokshith Reddy,"DIC Iron making",,,,"false"
+1027162,prakash.h@jsw.in,9,25,0,34,6/7/2026,FAIL,3,Logistics,Prakash H,"Services",,,,"false"
+1041643,deepakkumar.s@jsw.in,33,0, ,33,6/7/2026,FAIL,2,Logistics,Deepak Kumar S,"Services",,,,"false"
+1027162,prakash.h@jsw.in,36,25,0,61,6/7/2026,FAIL,4,Logistics,Prakash H,Services,,,,"false"
+1096131,deepanshu.mangla@jsw.in,64,32,0,96,8/7/2026,BRONZE,2,Raw Material Handling System,DEEPANSHU MANGLA,"DIC RMHS",,,,"false"
+1100695,monikaraj@jsw.in,75,36,0,111,8/7/2026,GOLD,1,Central Maintenance,MONIKARAJ .,"Services",,,,"false"
+1105960,routhu.kumar@jsw.in,51,8,0,59,9/7/2026,FAIL,1,"Sinter Plant II,III,IV,V",Routhu Siva Kumar,"DIC Agglotech",,,,"false"
+1105991,rohith.s@jsw.in,0,0, ,0,9/7/2026,FAIL,1,Logistics,Rohith S,"Services",,,,"false"
+1105991,rohith.s@jsw.in,42,34,0,76,9/7/2026,PASS,2,Logistics,Rohith S,"Services",,,,"false"
+1027322,ghorpade.rn@jsw.in,33,0,0,33,10/7/2026,FAIL,1,"Blast Furnace I,II",Raghavendra N Ghorpade,"DIC Iron making",,,,"false"
+1046702,shrishail.gulekar@jsw.in,64,22,0,86,13/07/2026,PASS,1,Cold Rolling Mill II,Shrishail .,"DIC Mill",,,,"false"
+1045102,mohammed.asif@jsw.in,70,31,0,101,13/07/2026,SILVER,1,Cold Rolling Mill II,Md Asif Basha M,"DIC Mill",,,,"false"
+1109606,jayprakash.dwivedi@jsw.in,48,18,0,66,13/07/2026,FAIL,1,,,"#N/A",,,,"false"
+1046703,roshanb.suvarna@jsw.in,61,32,0,93,13/07/2026,BRONZE,1,Cold Rolling Mill II,Roshan B Suvarna,"DIC Mill",,,,"false"
+1046622,shiddlingesh.yacchalagar@jsw.in,49,18,0,67,14/07/2026,FAIL,1,Cold Rolling Mill II,Shiddlingesh shivalingappa Yacchalagar,"DIC Mill",,,,"false"
+7045627,moulali.gaddam@jsw.in,28,0,0,28,14/07/2026,FAIL,1,Cold Rolling Mill II,Moulali G,"DIC Mill",,,,"false"
+1101714,k.abhinav@jsw.in,56,20,0,76,15/07/2026,PASS,1,"Wire Rod Mill II,Bar Rod Mill II,LRCP Strand",ABHINAV KUMAR,"DIC Mill",,,,"false"
+1096457,avinash.kumar6@jsw.in,0,0, ,0,16/07/2026,FAIL,2,"Sinter Plant II,III,IV,V",AVINASH KUMAR,"DIC Agglotech",,,,"false"
+1096457,avinash.kumar6@jsw.in,0,39,0,39,16/07/2026,FAIL,3,"Sinter Plant II,III,IV,V",AVINASH KUMAR,"DIC Agglotech",,,,"false"
+1020587,sudarshana.k@jsw.in,0,39,0,39,16/07/2026,FAIL,1,"Sinter Plant II,III,IV,V",Sudarshana K,"DIC Agglotech",,,,"false"
+1107645,kavya.ketapalli@jsw.in,0,18,0,18,16/07/2026,FAIL,2,Sinter Plant I,KAVYA KETAPALLI,"DIC Agglotech",,,,"false"
+1031087,shivakr.reddy@jsw.in,0,0, ,0,16/07/2026,FAIL,1,Hot Strip Mill II,R Shivakumar,"DIC Mill",,,,"false"
+1031087,shivakr.reddy@jsw.in,49,27,0,76,16/07/2026,PASS,2,Hot Strip Mill II,R Shivakumar,"DIC Mill",,,,"false"
+1107517,s.akhil@jsw.in,59,25,0,84,16/07/2026,PASS,1,Cold Rolling Mill II,Akhil S,"DIC Mill",,,,"false"
+1101638,vineet.patel@jsw.in,59,0,0,59,16/07/2026,FAIL,1,Research & Development,VINEET PATEL,"Services",,,,"false"
+1107647,sharan.s@jsw.in,0,0, ,0,17/07/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Sharan S,"DIC Cokeoven",,,,"false"
+1107647,sharan.s@jsw.in,49,8,0,57,17/07/2026,FAIL,2,"Coke Ovens III,IV,CDQ",Sharan S,"DIC Cokeoven",,,,"false"
+1105675,sahaya.a@jsw.in,0,0, ,0,17/07/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Sahaya Mortein A,"DIC Cokeoven",,,,"false"
+1105675,sahaya.a@jsw.in,64,18,0,82,17/07/2026,PASS,2,"Coke Ovens III,IV,CDQ",Sahaya Mortein A,"DIC Cokeoven",,,,"false"
+7044138,sai.venugopal@jsw.in,39,29,0,68,17/07/2026,FAIL,1,Beneficiation II,P S V Gopal,"DIC Agglotech",,,,"false"
+1046053,vinay.kumarss@jsw.in,0,0, ,0,18/07/2026,FAIL,1,Cold Rolling Mill II,Vinay Kumar S S,"DIC Mill",,,,"false"
+1103871,pratikbhagwan.nemane@jsw.in,44,8,0,52,18/07/2026,FAIL,1,Cold Rolling Mill II,PRATIK BHAGWAN NEMANE,"DIC Mill",,,,"false"
+1046053,vinay.kumarss@jsw.in,56,36,0,92,18/07/2026,BRONZE,2,Cold Rolling Mill II,Vinay Kumar S S,"DIC Mill",,,,"false"
+1046838,sateesh.karachannavar@jsw.in,0,0, ,0,18/07/2026,FAIL,1,Cold Rolling Mill II,Sateesh Karachannavar,"DIC Mill",,,,"false"
+1046838,sateesh.karachannavar@jsw.in,42,10,0,52,18/07/2026,FAIL,2,Cold Rolling Mill II,Sateesh Karachannavar,"DIC Mill",,,,"false"
+1042764,manjunath.guladalli@jsw.in,0,0, ,0,20/07/2026,FAIL,1,Beneficiation II,Manjunath virupakshappa G,"DIC Agglotech",,,,"false"
+1046022,satish.kosuri@jsw.in,31,32,38,101,20/07/2026,SILVER,1,Beneficiation II,Sathishkumar Kosuri,"DIC Agglotech",,,,"false"
+1042764,manjunath.guladalli@jsw.in,0,0, ,0,20/07/2026,FAIL,2,Beneficiation II,Manjunath virupakshappa G,"DIC Agglotech",,,,"false"
+1042764,manjunath.guladalli@jsw.in,17,32,55,104,20/07/2026,SILVER,3,Beneficiation II,Manjunath virupakshappa G,"DIC Agglotech",,,,"false"
+1096030,dantham.kanth@jsw.in,0,0, ,0,21/07/2026,FAIL,2,Cold Rolling Mill II,DANTHAM RAVI KANTH,"DIC Mill",,,,"false"
+1096030,dantham.kanth@jsw.in,66,39,0,105,21/07/2026,SILVER,3,Cold Rolling Mill II,DANTHAM RAVI KANTH,"DIC Mill",,,,"false"
+1046373,jain.sanjay@jsw.in,0,0, ,0,21/07/2026,FAIL,1,Beneficiation II,Sanjay Jain,"DIC Agglotech",,,,"false"
+1046373,jain.sanjay@jsw.in,72,32,0,104,21/07/2026,SILVER,2,Beneficiation II,Sanjay Jain,"DIC Agglotech",,,,"false"
+1091082,rahul4@jsw.in,55,40,0,95,22/07/2026,BRONZE,1,Beneficiation II,Rahul .,"DIC Agglotech",,,,"false"
+1021045,lakshmana.m@jsw.in,64,39,0,103,22/07/2026,SILVER,2,Cold Rolling Mill II,Lakshmana M,"DIC Mill",,,,"false"
+1023779,spandana.t@jsw.in,56,39,0,95,22/07/2026,BRONZE,2,Beneficiation II,Spandana T,"DIC Agglotech",,,,"false"
+1096202,meka.geethavani@jsw.in,0,0, ,0,22/07/2026,FAIL,2,Beneficiation II,MEKA GEETHAVANI,"DIC Agglotech",,,,"false"
+1101103,mounika.madineni@jsw.in,54,39,0,93,22/07/2026,BRONZE,1,Beneficiation II,MOUNIKA MADINENI,"DIC Agglotech",,,,"false"
+1096202,meka.geethavani@jsw.in,37,39,0,76,22/07/2026,PASS,3,Beneficiation II,MEKA GEETHAVANI,"DIC Agglotech",,,,"false"
+1097160,lov.mahato@jsw.in,65,38,0,103,24/07/2026,SILVER,1,Cold Rolling Mill II,Lov Mahato,"DIC Mill",,,,"false"
+1044918,srikantha.a@jsw.in,68,32,0,100,25/07/2026,BRONZE,2,Beneficiation II,Srikantha A,"DIC Agglotech",,,,"false"
+1100662,abishek.d@jsw.in,38,0,0,38,25/07/2026,FAIL,1,Beneficiation II,ABISHEK D,"DIC Agglotech",,,,"false"
+1105679,s.ajithkumar@jsw.in,73,34,0,107,25/07/2026,SILVER,1,Beneficiation II,Ajithkumar S,"DIC Agglotech",,,,"false"
+1091266,nageshwar.shukla@jsw.in,0,0, ,0,27/07/2026,FAIL,1,Blast Furnace V,Nageshwar Nath Shukla,"DIC Iron making",,,,"false"
+1100954,ganta.shanmukhasrimanikanta@jsw.in,44,32,0,76,27/07/2026,PASS,1,Beneficiation II,GANTA SHANMUKHA SRI MANIKANTA,"DIC Agglotech",,,,"false"
+1105966,sujal.p@jsw.in,0,0, ,0,27/07/2026,FAIL,1,Beneficiation II,Sujal Kumar Sahu P,"DIC Agglotech",,,,"false"
+1105966,sujal.p@jsw.in,40,10,0,50,27/07/2026,FAIL,2,Beneficiation II,Sujal Kumar Sahu P,"DIC Agglotech",,,,"false"
+1107424,karibasavarajn.m@jsw.in,0,0, ,0,28/07/2026,FAIL,1,Beneficiation II,Karibasavaraj N M,"DIC Agglotech",,,,"false"
+1107424,karibasavarajn.m@jsw.in,0,0, ,0,28/07/2026,FAIL,2,Beneficiation II,Karibasavaraj N M,"DIC Agglotech",,,,"false"
+1107424,karibasavarajn.m@jsw.in,18,0, ,18,28/07/2026,FAIL,3,Beneficiation II,Karibasavaraj N M,"DIC Agglotech",,,,"false"
+1107540,s.sidharth@jsw.in,0,0, ,0,30/07/2026,FAIL,4,Total Quality Management,S Sidharth,"Services",,,,"false"
+1107534,sakcham.singh@jsw.in,0,0, ,0,30/07/2026,FAIL,2,Total Quality Management,Sakcham Singh,"Services",,,,"false"
+1101895,manjunatha.b3@jsw.in,63,35,0,98,4/8/2026,BRONZE,1,Beneficiation II,Manjunatha B,"DIC Agglotech",,,,"false"
+1035195,yathisha.nagaraj@jsw.in,26,31,0,57,4/8/2026,FAIL,1,Beneficiation II,Yathisha N,"DIC Agglotech",,,,"false"
+1098603,amith.jn@jsw.in,32,2,0,34,4/8/2026,FAIL,1,Beneficiation II,AMITH KUMAR J N,"DIC Agglotech",,,,"false"
+1104830,rudranarayan.panda@jsw.in,34,34,0,68,4/8/2026,FAIL,1,Beneficiation II,Rudranarayan Panda,"DIC Agglotech",,,,"false"
+,,,,,,,,,,,,,,,
+1089510,bkesari.nandini@jsw.in,65,30,0,95,8/8/2026,BRONZE,1,"Sinter Plant II,III,IV,V",Kesari Nandini B,"DIC Agglotech",,,,"false"
+1041274,panchakshari.mh@jsw.in,53,38,0,91,8/8/2026,BRONZE,1,"Coke Ovens III,IV,CDQ",Panchakshari H M,"DIC Cokeoven",,,,"false"
+1098276,avinash.challa@jsw.in,53,38,0,91,10/8/2026,BRONZE,1,"Sinter Plant II,III,IV,V",Avinash Challa,"DIC Agglotech",,,,"false"
+1025753,mariswamy.kurubara@jsw.in,39,38,0,77,11/8/2026,PASS,2,Logistics,Mariswamy K,"Services",,,,"false"
+1035322,sumanth.st@jsw.in,47,37,0,84,11/8/2026,PASS,2,Logistics,Sumanth S T,"Services",,,,"false"
+1031024,dilipkumar.nataraju@jsw.in,59,20,0,79,12/8/2026,PASS,1,Logistics,Dilipkumar N,"Services",,,,"false"
+1031379,sreekanth.balenahalli@jsw.in,51,0,0,51,12/8/2026,FAIL,2,Logistics,Balenahalli Sreekanth,"Services",,,,"false"
+1094077,turkapalli.goud@jsw.in,41,30,0,71,12/8/2026,FAIL,1,Logistics,Turkapalli Shiva Kumar Goud,"Services",,,,"false"
+1049582,roshanzameer.p@jsw.in,0,35,0,35,12/8/2026,FAIL,1,"Sinter Plant II,III,IV,V",Roshan Zameer P,"DIC Agglotech",,,,"false"
+1032854,suresh.thodabandi@jsw.in,0,35,0,35,12/8/2026,FAIL,2,"Sinter Plant II,III,IV,V",Suresh Kumar Thodabandi,"DIC Agglotech",,,,"false"
+1042720,vinayak.naik1@jsw.in,56,35,0,91,12/8/2026,BRONZE,1,"Sinter Plant II,III,IV,V",Vinayak Naik,"DIC Agglotech",,,,"false"
+1032904,dantulari.shivakrishna@jsw.in,43,38,0,81,13/08/2026,PASS,2,Logistics,Dantuluri Siva Krishna,"Services",,,,"false"
+1027162,prakash.h@jsw.in,0,0, ,0,14/08/2026,FAIL,5,Logistics,Prakash H,"Services",,,,"false"
+1034398,gajendr.tembe@jsw.in,54,35,0,89,14/08/2026,PASS,2,Logistics,Gajendr Tembe,"Services",,,,"false"
+1032740,dsouza.richard@jsw.in,52,37,0,89,14/08/2026,PASS,2,Logistics,Richard D'souza,"Services",,,,"false"
+1027162,prakash.h@jsw.in,89,25,0,114,14/08/2026,GOLD,6,Logistics,Prakash H,"Services",,,,"false"
+1099435,gabrielraj.s@jsw.in,72,25,0,97,14/08/2026,BRONZE,1,"Pellet Plant II,III",GABRIELRAJ S,"DIC Agglotech",,,,"false"
+1044248,mallikarjuna.reddy@jsw.in,0,30,0,30,14/08/2026,FAIL,1,Beneficiation II,Mallikarjuna Reddy,"DIC Agglotech",,,,"false"
+1034923,shivanand@jsw.in,0,0, ,0,14/08/2026,FAIL,1,Logistics,Shivanand .,"Services",,,,"false"
+1034923,shivanand@jsw.in,56,35,0,91,14/08/2026,BRONZE,2,Logistics,Shivanand .,"Services",,,,"false"
+1096095,poonam.vaishnav@jsw.in,73,30,0,103,14/08/2026,SILVER,1,Logistics,Poonam Vaishnav,"Services",,,,"false"
+1095978,sriram.p@jsw.in,72,15,0,87,14/08/2026,PASS,1,Logistics,Sriram P,"Services",,,,"false"
+1105993,harshavardhan.uppar@jsw.in,55,38,0,93,14/08/2026,BRONZE,2,Logistics,Harshavardhan H Uppar,"Services",,,,"false"
+1032982,prakash.gowdra@jsw.in,0,0, ,0,17/08/2026,FAIL,3,Logistics,Gowdraprakash .,"Services",,,,"false"
+1032464,hanamantagouda.ayyanagoudra@jsw.in,46,35,0,81,17/08/2026,PASS,2,Logistics,Hanamantagouda Ayyanagoudra,"Services",,,,"false"
+1103866,koyeti.shashank@jsw.in,0,0, ,0,17/08/2026,FAIL,1,Logistics,KOYETI SHASHANK,"Services",,,,"false"
+7041645,imtiyaz.seven@jsw.in,0,0, ,0,17/08/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Imtiyaz N,"DIC Cokeoven",,,,"false"
+7041208,syed.riyajudden@jsw.in,32,20,0,52,17/08/2026,FAIL,1,"Coke Ovens III,IV,CDQ",T Syed Reyajudden,"DIC Cokeoven",,,,"false"
+7041645,imtiyaz.seven@jsw.in,0,37,0,37,17/08/2026,FAIL,2,"Coke Ovens III,IV,CDQ",Imtiyaz N,"DIC Cokeoven",,,,"false"
+1032982,prakash.gowdra@jsw.in,79,15,0,94,17/08/2026,BRONZE,4,Logistics,Gowdraprakash .,"Services",,,,"false"
+1103866,koyeti.shashank@jsw.in,37,40,0,77,17/08/2026,PASS,2,Logistics,KOYETI SHASHANK,"Services",,,,"false"
+1090098,sreenivasulu.k@jsw.in,36,5,0,41,17/08/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Sreenivasulu K,"DIC Cokeoven",,,,"false"
+1032998,umeshkumar.bellary@jsw.in,49,30,0,79,17/08/2026,PASS,1,"Coke Ovens III,IV,CDQ",Umesh Kumar,"DIC Cokeoven",,,,"false"
+1100967,atharva.sanikop@jsw.in,0,0, ,0,17/08/2026,FAIL,1,Logistics,ATHARVA MALLIKARJUN SANIKOP,"Services",,,,"false"
+1090098,sreenivasulu.k@jsw.in,27,0, ,27,17/08/2026,FAIL,2,"Coke Ovens III,IV,CDQ",Sreenivasulu K,"DIC Cokeoven",,,,"false"
+1090098,sreenivasulu.k@jsw.in,92,35,0,127,17/08/2026,PLATINUM,3,"Coke Ovens III,IV,CDQ",Sreenivasulu K,"DIC Cokeoven",,,,"false"
+1041637,santosh.ankola@jsw.in,41,40,0,81,18/08/2026,PASS,1,Logistics,Santosh Ankola,"Services",,,,"false"
+1091684,sonu.pandit@jsw.in,53,35,0,88,18/08/2026,PASS,1,"Coke Ovens III,IV,CDQ",Sonu Pandit,"DIC Cokeoven",,,,"false"
+1105683,prithiviraj.m@jsw.in,84,30,0,114,18/08/2026,GOLD,1,"Blast Furnace III,IV",Prithiviraj M,"DIC Iron making",,,,"false"
+1041449,naveena@jsw.in,46,35,0,81,18/08/2026,PASS,1,Beneficiation II,Naveena .,"DIC Agglotech",,,,"false"
+1047459,riyaz.ra@jsw.in,51,35,0,86,18/08/2026,PASS,1,Logistics,Riyaz R A,"Services",,,,"false"
+1049015,bernard.sheelan@jsw.in,59,38,0,97,18/08/2026,BRONZE,1,Logistics,Bernard Sheelan I,"Services",,,,"false"
+1101743,hemah.p@jsw.in,49,40,0,89,18/08/2026,PASS,1,Refractories,HEMAH P,"Services",,,,"false"
+1033024,vinodkumar.palleada@jsw.in,0,0,0,0,19/08/2026,FAIL,1,"Coke Ovens III,IV,CDQ",Vinod Kumar P,"DIC Cokeoven",,,,"false"
+1033024,vinodkumar.palleada@jsw.in,37,0, ,37,19/08/2026,FAIL,2,"Coke Ovens III,IV,CDQ",Vinod Kumar P,"DIC Cokeoven",,,,"false"
+1031135,rajashekhar.biradar@jsw.in,49,30,0,79,19/08/2026,PASS,3,Logistics,Rajashekhar Siddanna Biradar,"Services",,,,"false"
+1035410,vitthal.sangannavar@jsw.in,58,0, ,58,19/08/2026,FAIL,1,Logistics,Vitthal Krishnappa Sangannavar,"Services",,,,"false"
+1035417,puttaswamy.h@jsw.in,28,20,0,48,19/08/2026,FAIL,1,Logistics,Puttaswamy H,"Services",,,,"false"
+1049663,manjunatha.b2@jsw.in,75,0, ,75,19/08/2026,FAIL,1,Logistics,Manjunatha B,"Services",,,,"false"
+1032970,pravindra.reddy@jsw.in,52,35,0,87,19/08/2026,PASS,1,Logistics,P Ravindra Reddy,"Services",,,,"false"
+1035196,praveen.koppal@jsw.in,53,0, ,53,19/08/2026,FAIL,1,Logistics,Praveen Chakravarti Koppal,Services,,,,"false"
+,156,,,,,,,,,,,,,,"false"
+,157,,,,,,,,,,,,,,"false"
+,158,,,,,,,,,,,,,,"false"
+,159,,,,,,,,,,,,,,"false"
+,160,,,,,,,,,,,,,,"false"
+,161,,,,,,,,,,,,,,"false"
+,162,,,,,,,,,,,,,,"false"
+,163,,,,,,,,,,,,,,"false"
+,164,,,,,,,,,,,,,,"false"
+,165,,,,,,,,,,,,,,"false"
+,166,,,,,,,,,,,,,,"false"
+,167,,,,,,,,,,,,,,"false"
+,168,,,,,,,,,,,,,,"false"
+,169,,,,,,,,,,,,,,"false"
+,170,,,,,,,,,,,,,,"false"
+,171,,,,,,,,,,,,,,"false"
+,172,,,,,,,,,,,,,,"false"
+,173,,,,,,,,,,,,,,"false"
+,174,,,,,,,,,,,,,,"false"
+,175,,,,,,,,,,,,,,"false"
+,176,,,,,,,,,,,,,,"false"
+,177,,,,,,,,,,,,,,"false"
+,178,,,,,,,,,,,,,,"false"
+,179,,,,,,,,,,,,,,"false"
+,180,,,,,,,,,,,,,,"false"
+,181,,,,,,,,,,,,,,"false"
+,182,,,,,,,,,,,,,,"false"
+,183,,,,,,,,,,,,,,"false"
+,184,,,,,,,,,,,,,,"false"
+,185,,,,,,,,,,,,,,"false"
+,186,,,,,,,,,,,,,,"false"
+,187,,,,,,,,,,,,,,"false"
+,188,,,,,,,,,,,,,,"false"

@@ -1,0 +1,79 @@
+﻿S.No,Department,Zone,Team Leader,Employee ID,Email,Contact No,5S Model area,Location
+1,Tunga Mines,MINES,Pratyusha Bhattacharjee,1104334,pratyusha.bhattacharjee@jsw.in,8617629260,Mines Store Room & Workshop,Mines
+2,Bhadra Mines,MINES,Ganesh Marisctty,1095500,marisetty.ganesh@jsw.in,9390036451,Mines Store Room & Workshop,Mines
+3,Devadari Mines,MINES,JATIN GAUTAM,1100759,jatin.gautam@jsw.in,9305237307,Mines Store Room & Workshop,Mines
+4,Nandi Mines,MINES,SANTI SRI PUNITH,1097450,santi.sripunith@jsw.in,7093222648,Mines Store Room & Workshop,Mines
+5,Rama Mines,MINES,Sravan Kumar Uppada,1095468,sravankumar.uppada@jsw.in,6302594291,Mines Store Room & Workshop,Mines
+6,Dharma Mines,MINES,Manjunatha B,8015425,manjunath.besthar@jsw.in,8050857441,Mines Store Room & Workshop,Mines
+7,Narayana Mines,MINES,AJAY KUMAR,1024968,ajay1.kumar1@jsw.in,7017746312,Mines Store Room & Workshop,Mines
+8,Ubbalagundi Mines,MINES,PRATIK KHERE,1102929,pratik.khere@jsw.in,9890855051,Mines Store Room & Workshop,Mines
+9,Bhooman Mines,MINES,Swamy R,1042444,swamy.rajappa@jsw.in,9538761276,Mines Store Room & Workshop,Mines
+10,H O Mines,MINES,SUBADHARANI R,1101722,subadharai.r@jsw.in,9677470888,Store Room,H.O
+11,RMHS & Pipe Conveyor,RMHS,Mr. Manjunatha Kappagal,1030107,manjunatha.kappagal@jsw.in,9741631143,RMHS ESS#4,ESS#4 HT Electrical panel area
+12,RMHS & Pipe Conveyor,RMHS,Mr. Gangadhar J,1034667,gangadhar.jambigi@jsw.in,9480694387,RMHS office (18 MT / JVML),JVML
+13,RMHS & Pipe Conveyor,RMHS,Mr. Anil K B,1030105,Anilkumar.bhoothpur@jsw.in,9480694681,5MT SUB-Store,RMHS 5MT
+14,RMHS & Pipe Conveyor,RMHS,Manjunatha K,1030107,manjunatha.kappagal@jsw.in,9741631143,7MT-LC3 Store,RMHS 7MT
+15,RMHS & Pipe Conveyor,RMHS,Mr. Ravi Kiran,1042042,kiran.plsv@jsw.in,9480693834,Electrical Sub Store,Basemix Store
+16,RMHS & Pipe Conveyor,RMHS,Mr. Basavaraj Gorabal,1027879,basavaraj.gorabal@jsw.in,9986504511,RMHS control room (5 MT),5MT Control Room
+17,"Coke Oven-3,4",COKE OVEN,Amit Kumar,,amitkumar.nagendra@jsw.in,91644226715,CO#4 Operation Store Room,Battery36 Test bench area
+18,"Coke Oven-3,4",COKE OVEN,Gajendra V T,,gajendra.vt@jsw.in,7892957928,CO#3 AB Battery Anchorage Store room,Coke oven 3
+19,"Coke Oven-3,4",COKE OVEN,Sreenath C,,sreenath.chitrala@jsw.in,948063309,CO#3 CD Battery Anchorage Store room,Coke oven 3
+20,"Coke Oven-3,4",COKE OVEN,Umesh V,,umesh.vajjaramatti@jsw.in,7259989522,CO#3 Hydraulic Store room,Coke oven 3
+21,"Coke Oven-3,4",COKE OVEN,T Somashekar T,1041693,somu.tuppad2jsw.in,9164003190,CO#4 Bonding & Hydraulic Press Room,BATERY 2&3 INTERMEDIATE AREA
+22,Coke Oven-5,COKE OVEN,Sekhar P,,sekhar.pappugiri@jsw.in,8277032272,Battery A &  hydraulic store room,Coke Oven
+23,Coke Oven-5,COKE OVEN,Kiran Kumar Reddy,,r.kirankumar@jsw.in,9912102828,Battery A and Anchorage Store Room,Coke Oven
+24,OBP-2,AGGLOMERATION,Mr. Halesh S,,halesh.sandur@jsw.in,9449879249,OBP-2 Mechnical substores,Stores
+25,Sinter Plant-1,AGGLOMERATION,Vinayak B,,vinayak.bhosekar@jsw.in,9480693036,SP-1 Electrical Sub Store,14 meter level
+26,"SInter Plant-2,3,4",AGGLOMERATION,Sourabh Tiwari,1099666,sourabh.tiwari@jsw.in,7829019944,Mechanical store & Workshop SP3,SP3
+27,Pellet Plant-2,AGGLOMERATION,Mr. Sunila Kumar,1045200,Sunil.j@jsw.in,9844724284,PP2 Work Shop,PP2 Mechanical Sub Store
+28,Pellet Plant-2,AGGLOMERATION,Rajashekhar Kobal,1049390,Rajashekhar.kobal@jsw.in,9916585294,E&I Sub Stores,Workshop & E&I Sub Store
+29,Pellet Plant-3,AGGLOMERATION,Mr. Shivaraja P B,1023780,Shivaraja.pb@jsw.in,7090472298,PP3 Store,PP3 Mechanical Sub Store
+30,"Corex-1,2",IRON,Dinesh Poonj,1041422,dinesh.poonj@jsw.in,9480694869,Corex -1&2 Mechanical substore,Corex
+31,"Blast Furnace-1,2",IRON,Mr Nagareddy,1032775,nagareddy.j@jsw.in,9449879172,BF-2 Stock house substore,BF#2
+32,"Blast Furnace-1,2",IRON,Venkatesh Kurdekar,1042371,venkatesh.kurdekar@jsw.in,9480694567,BF-2 E&I store,BF#2
+33,"Blast Furnace-3,4",IRON,Mr.Ashish Nair,1046192,ashish.nair@jsw.in,9408539567,BF4 Electrical Store,BF#4
+34,Blast Furnace-5,IRON,Ms. Indira S,1027641,indira.savanur@jsw.in,9480693121,BF5 ECR2 E&I Store,BF#5
+35,DRI,STEEL,Rajesh/ Ganga,1045087,dri.planning@jsw.in,8105548662/8496070701,DRI STORE,DRI
+36,SMS-1,STEEL,Prashanth Bhavi,1027769,prashanth.bhavi@jsw.in,9480694184,SMS-1 Caster repair area,Caster
+37,SMS-2,STEEL,Dharmapal Rathore,,dharmapal.rathod@jsw.in,9480694601,SMS-2 Ferro alloy store area,9.1 Meter
+38,"LCP-1,2,3",STEEL,Mr. Ramakrishna S,1026233,ramakrishna.sreeram@jsw.in,9480694633,LCP#2 Mechanical Store,LCP#2
+39,HSM-1,MILLS,Mr. Krishnamurthy T,1025497,krishnamurthy.sandur@jsw.in,9480693492,HSM-1 Roll shop,Roll shop
+40,HSM-2,MILLS,Veeresh Srinivas,1049772,veeresh.srinivas@jsw.in,8147433978,HSM-2 Roll shop,Roll shop
+41,HSM-2,MILLS,Vishnudas G Bopte,1013029,vishnudas.bopte@jsw.in,8805022625,HSM-2 Workshop,Workshop
+42,HSM-2,MILLS,Prakash Gowda B,,prakash.gowda@jsw.in,9845126698,HSM-2 Sub Store,Sub Store
+43,HSM-3,MILLS,Shoban babu,1025805,sobhan.babu@jsw.in,9480693493,HSM-3 Roll shop,JVML
+44,CRM-1,MILLS,Ruba Vignesh M K,1101046,rubavignesh.mk@jsw.in,8531950899,CRM-1 RCL Exit Mechanical Area Tool Room,
+45,CRM-1,MILLS,Oruganti Sindhu,1102241,oruganti.sindhu@jsw.in,9019860296,CRM-1 CGL2 Exit ECR,
+46,CRM-1,MILLS,Kavyasree C H,1101578,kavyasree.chamallamudi@jsw.in,9490459943,CRM-1 SPM-ECR,
+47,CRM-2,MILLS,Basant Jha,1105580,basant.jha@jsw.in,8447807915,CRM-2 Critical Spare Maintanance Area,CRM2 PLTCM2
+48,CRM-2,MILLS,Eswar Ajay Sai Nuthakki,1096195,n.eswarajaysai@jsw.in,8297300684,CRM-2 Trimmer Cutter Storage area,CRM2 CAL2
+49,CRM-2,MILLS,Dipak Sinha,1093745,dipak.sinha@jsw.in,78290-19933,CRM-2 Maintanance Area Spares CAL & CGL CAL & CGL CAL & CGL,CRM2 CAL & CGL
+50,CRM-2,MILLS,Goudara Shivamurthy,7043830,goudara.shivamurthy@jsw.in,9538462309,CRM-2 PLTCM,ECR
+51,CRM-2,MILLS,Maheswar Behera,7043867,maheswar.behera@jsw.in,8904407545,CRM-2 YMS / APL Electrical,Main office
+52,CRM-2,MILLS,Mahesh hunagund,,mahesh.hunagund@jsw.in,9986662626,CRM-2 RCL Electrical,RCL Electrical
+53,CRM-2,MILLS,Prashant Mali,1094027,prashant.mali@jsw.in,8975439080,CRM-2 Maintanance Area Spares RCL RCL RCL,CRM2 RCL
+54,BRM-1,MILLS,Uttam Chand,1046817,uttam.chand@jsw.in,9901319077,BRM-1 RollShop,RollShop
+55,BRM-2,MILLS,Manu Swami,1034901,manu.swamy@jsw.in,8150085070,BRM-2 NTM Workshop,NTM Workshop
+56,WRM-1,MILLS,Dileep N,1043635,dileep.n@jsw.in,9449879084,WRM-1 RGS,RGS
+57,WRM-2,MILLS,Suresh B,1032983,suresh.borra@jsw.in,9164888883,WRM-2 RollShop,RollShop
+58,TQM,SERVICE,Gopal Kulkarni,1026037,gopal.kulkarni@jsw.in,9449598312,TQM Department,A-01 Store Room
+59,PPC,SERVICE,Harish Raju,1030432,harish.raju@jsw.in,9480693959,PPC MIS,Glass House
+60,PDQC,SERVICE,Uppununthala Anil,,uppununthala.anil@jsw.in,8185890310,PDQC Office,PDQC Office
+61,Marketing & CSD,SERVICE,Manjunatha B,1024212,Manjunatha.b1@jsw.in,9663698921,CSD,CSD/PPC HSM#2 Location
+62,Energy Management,SERVICE,Basavaraj Bagali,1041819,basavaraj.bagali@jsw.in,9480693213,EMD Gasline Workshop,Adjacent to EMD office
+63,Environment Management,SERVICE,Nageshwar Rao,1095720,sambara.rao@jsw.in,9848845554,Environment Laboratory,Environment department
+64,Utilities,SERVICE,Mithilesh,1095334,mithilesh@jsw.in,7892254319,Utilities Sub-Store,RWTP-1
+65,MSDS,SERVICE,Mr. Wilson Gopal Singh,1025563,wilsonsingh@jsw.in,9449355742,"MSDS -1,2,3, Yard and Store",MSDS 1
+66,CMD,SERVICE,Ms. Rohini N,1043713,rohini.neeruganti@jsw.in,8197433293,Electrical Repair Shop,CMD ERS
+67,Central Stores,SERVICE,Vinayak Chidamber Naik,1041707,Vinayak.naik@jsw.in,9480217713,Central Store BAY1-CRY & CRZ Bins,Central Stores
+68,Technology Excellence- Iron Zone & QMC,SERVICE,Mr. Paramesha,1026728,paramesha.bhadravathi@jsw.in,8277032387,QMC Lab,Corex lab
+69,Research & Development,SERVICE,Vijaya Mitra,1090205,d.vijayamitra@jsw.in,9505825250,R&D Charazation Lab,1st floor R&D Building
+70,Logistics,SERVICE,Prashanth Dasari,1044895,prashanth.dasari@jsw.in,8310652728,Locomotive Service Center,Locomotive Service Center
+71,Human Resources,SERVICE,Soumya Ghosh,1105015,g.soumya@jsw.in,9804388294,L&D Dept,L&d Cubicle
+72,Safety,SERVICE,Santosh Konde,1027036,santhosh.konde@jsw.in,9480693478,Fire services store,Fire office
+73,Civil & Engineering,SERVICE,Anitha Nagravat,1033123,anitha.nagravat@jsw.in,9480693325,SP-5 road works,Civil & Engineering Services
+74,Projects,SERVICE,Tulika Bawankar,1095986,tulika.bawankar@jsw.in,7385447552,Office location,Glass House
+75,Oxygen Plant,SERVICE,Kaushal Nath,1103207,kaushal.nath@jsw.in,,Oxygen Control Room,J3 Control room
+76,Administration,SERVICE,Pallavi Tayal,1104310,pallavi.tayal@jsw.in,9481753661,"Steel House, Admin Area",Steel House
+77,CRS & I-SHOP,SERVICE,Shreekant Hanchate,1049458,shreekant.hanchate@jsw.in,7829012266,I shop,Bay-1
+78,Commerial,SERVICE,Neelamma U,1049287,neelamma.uppar@jsw.in,8095954224,Steel House,Ground Floor

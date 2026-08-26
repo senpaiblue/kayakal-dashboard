@@ -1,0 +1,27 @@
+SN,Department,Score,Zone,Avg Score
+1,CRM-1 &  CRM-2,3.98,DIC Mill,3.7
+2,BRM-2 & WRM-2,3.88,DIC Mill,3.7
+3,BRM-1 & WRM-1,3.76,DIC Mill,3.7
+4,HSM-2,3.5,DIC Mill,3.7
+5,HSM-1,3.36,DIC Mill,3.7
+6,"Coke oven -3, 4",3.62,DIC Cokeoven,3.62
+7,CSD,3.71,Services,3.32
+8,CMD,3.55,Services,3.32
+9,R&D,3.5,Services,3.32
+10,Logistics,3.5,Services,3.32
+11,HR,3.0,Services,3.32
+12,PPC,3.4,Services,3.32
+13,Safety,3.39,Services,3.32
+14,Utilities,3.21,Services,3.32
+15,Commercial,2.63,Services,3.32
+16,"BF-1,2",3.55,DIC Iron making,3.31
+17,Corex 1&2,3.07,DIC Iron making,3.31
+18,DRI,3.4,DIC Steel,3.22
+19,SMS-3,3.18,DIC Steel,3.22
+20,SMS-2,3.07,DIC Steel,3.22
+21,RMHS,3.13,DIC RMHS,3.13
+22,Energy Management,3.1,DIC Utility,3.1
+23,"SP-2,3,4",3.17,DIC Agglo,3.08
+24,PP-1 & SP1,3.12,DIC Agglo,3.08
+25,PP-2 & PP-3,3.03,DIC Agglo,3.08
+26,OBP-2,2.98,DIC Agglo,3.08
